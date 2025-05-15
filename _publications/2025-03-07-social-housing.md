@@ -9,4 +9,4 @@ venue: 'Journal 1'
 paperurl: 'http://kokozhou.github.io/files/Pagani2025.02.pdf'
 citation: 'Pagani, A., Zimmermann, N., Macmillan, A., Zhou, K., & Davies, M. (2025). Systemic issues in the English social housing sector: Mapping interconnected challenges faced by London-based housing associations. Housing Studies, 0(0), 1–26. https://doi.org/10.1080/02673037.2025.2467093'
 ---  
-
+Social Housing Paper
