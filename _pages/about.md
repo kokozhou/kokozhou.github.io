@@ -2,14 +2,13 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 I am a systems scientist in sustainable urban environment decision-making. My research integrates complex systems interactions into strategic management and public policies. I use interdisciplinary approaches and systems science methods, including systems mapping and modelling. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes.
-I currently work for [PAICE project](https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice)
 
-You can download my CV here: [Dr Ke (Koko)'s Curriculum Vitae](../assets/CV.pdf)
+I currently work for [PAICE project](https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice)
 
 My recent publication
 ======
