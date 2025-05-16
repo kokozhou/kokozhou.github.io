@@ -9,7 +9,7 @@ layout: default
   {% for project in sorted_projects %}
     <div class="portfolio-card {% if forloop.index0 mod 2 == 0 %}image-left{% else %}image-right{% endif %}">
       {% if project.image %}
-        <img src="{{ project.image }}" alt="{{ project.title }} logo" class="portfolio-image"/>
+        <img src="{{ project.image | relative_url }}" alt="{{ project.title }} logo" class="portfolio-image"/>
       {% endif %}
       <div class="portfolio-info">
         <h3>{{ project.title }}</h3>
@@ -19,7 +19,7 @@ layout: default
           <strong>Research Outputs:</strong>
           <ul>
             {% for output in project.researchoutputs %}
-              <li><a href="{{ output.url }}">{{ output.title }}</a></li>
+              <li><a href="{{ output.url | relative_url }}">{{ output.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
