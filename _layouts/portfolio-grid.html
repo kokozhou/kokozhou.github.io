@@ -13,7 +13,17 @@ layout: default
       <div class="portfolio-info">
         <h3>{{ project.title }}</h3>
         <p>{{ project.excerpt }}</p>
-        <a href="{{ project.url | relative_url }}" class="portfolio-link">Learn More</a>
+        
+        {% if project.researchoutputs %}
+          <div class="blue-box">
+            <strong>Research Outputs:</strong>
+            <ul>
+              {% for output in project.researchoutputs %}
+                <li><a href="{{ output.url }}">{{ output.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
       </div>
     </div>
   {% endfor %}
@@ -22,7 +32,7 @@ layout: default
 <style>
 .portfolio-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
 }
 .portfolio-card {
@@ -34,20 +44,30 @@ layout: default
 }
 .portfolio-image {
   width: 100%;
-  height: 150px;
+  height: 160px;
   object-fit: cover;
   border-radius: 8px;
 }
-.portfolio-link {
-  display: inline-block;
-  margin-top: 0.5rem;
-  padding: 0.4em 1em;
-  background: #005f99;
-  color: #fff;
-  text-decoration: none;
+.blue-box {
+  background: #e6f0fa;
+  border-left: 5px solid #0074d9;
+  padding: 1rem;
+  margin-top: 1rem;
   border-radius: 6px;
 }
-.portfolio-link:hover {
-  background: #003f66;
+.blue-box ul {
+  list-style: none;
+  padding-left: 0;
+}
+.blue-box li {
+  margin-bottom: 0.5rem;
+}
+.blue-box a {
+  color: #005f99;
+  text-decoration: none;
+  font-weight: bold;
+}
+.blue-box a:hover {
+  text-decoration: underline;
 }
 </style>
