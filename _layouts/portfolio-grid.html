@@ -3,105 +3,51 @@ layout: default
 ---
 
 <h1 class="page-title" style="text-align: center;">{{ page.title }}</h1>
-<div class="portfolio-grid">
 
-  {% assign sorted_projects = site.portfolio | sort: "title" %}
-  {% for project in sorted_projects %}
-    <div class="portfolio-card {% if forloop.index0 mod 2 == 0 %}image-left{% else %}image-right{% endif %}">
+<div class="portfolio-grid">
+  {% for project in site.portfolio %}
+    <div class="portfolio-card">
       {% if project.image %}
-        <img src="{{ project.image | relative_url }}" alt="{{ project.title }} logo" class="portfolio-image"/>
+        <img src="{{ project.image }}" alt="{{ project.title }}" class="portfolio-image"/>
       {% endif %}
       <div class="portfolio-info">
         <h3>{{ project.title }}</h3>
         <p>{{ project.excerpt }}</p>
-        {% if project.researchoutputs %}
-        <div class="blue-box">
-          <strong>Research Outputs:</strong>
-          <ul>
-            {% for output in project.researchoutputs %}
-              <li><a href="{{ output.url | relative_url }}">{{ output.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
-        <a href="{{ project.url | relative_url }}" class="portfolio-link">Details</a>
+        <a href="{{ project.url | relative_url }}" class="portfolio-link">Learn More</a>
       </div>
     </div>
   {% endfor %}
-
 </div>
 
 <style>
 .portfolio-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 2rem;
-  margin: 2rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
 }
 .portfolio-card {
   background: #fff;
-  border-radius: 16px;
-  box-shadow: 0 3px 16px rgba(0,0,0,0.1);
-  width: 600px;
-  min-height: 200px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 1.2rem;
-  margin-bottom: 2rem;
-  transition: transform .15s;
-}
-.portfolio-card.image-left .portfolio-image {
-  order: 0;
-  margin-right: 2rem;
-}
-.portfolio-card.image-right .portfolio-image {
-  order: 1;
-  margin-left: 2rem;
-}
-.portfolio-info {
-  flex: 1;
-  text-align: left;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  padding: 1rem;
+  text-align: center;
 }
 .portfolio-image {
-  width: 160px;
-  height: 120px;
+  width: 100%;
+  height: 150px;
   object-fit: cover;
-  border-radius: 10px;
-  background: #f7f7f7;
-}
-.blue-box {
-  background: #e6f0fa;
-  border-left: 5px solid #0074d9;
-  color: #003366;
-  padding: 1em;
-  margin: 1em 0;
-  border-radius: 6px;
+  border-radius: 8px;
 }
 .portfolio-link {
   display: inline-block;
-  margin-top: 0.7em;
-  padding: 0.4em 1.2em;
-  border-radius: 6px;
+  margin-top: 0.5rem;
+  padding: 0.4em 1em;
   background: #005f99;
   color: #fff;
   text-decoration: none;
-  font-weight: 500;
-  transition: background 0.15s;
+  border-radius: 6px;
 }
 .portfolio-link:hover {
   background: #003f66;
-}
-@media (max-width: 700px) {
-  .portfolio-card {
-    flex-direction: column;
-    width: 100%;
-  }
-  .portfolio-card.image-left .portfolio-image,
-  .portfolio-card.image-right .portfolio-image {
-    order: 0;
-    margin: 0 0 1rem 0;
-  }
 }
 </style>
