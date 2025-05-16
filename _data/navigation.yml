@@ -17,13 +17,11 @@ main:
   - title: "Talks"
     url: /talks/
 
--  title: "Blog Posts"
-    url: /posts/
+   #-  title: "Posts"
+    #  url: /posts/
 
   - title: "Teaching"
     url: /teaching/
-
-
 
     # title: "CV"
     #  url: /cv/
