@@ -1,0 +1,12 @@
+<div class="publication-container">
+  <div class="publication-image">
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.title }}">
+    {% endif %}
+  </div>
+  <div class="publication-text">
+    <h3>{{ page.title }}</h3>
+    <p>{{ page.description }}</p>
+    <a href="{{ page.url }}" target="_blank">Read More</a>
+  </div>
+</div>
