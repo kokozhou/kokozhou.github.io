@@ -5,14 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+---
+
+<head>
+  <link rel="stylesheet" href="{{ '/assets/css/publication.css' | relative_url }}">
+</head>
+
+<h1>{{ page.title }}</h1>
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">
     You can also find my articles on
     <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
   </div>
 {% endif %}
-
-<h2>All Publications</h2>
 
 {% for post in site.publications reversed %}
   <div class="publication-container">
@@ -27,16 +34,12 @@ author_profile: true
       {% endif %}
     </div>
     <div class="publication-text">
-      <!-- Link to internal page -->
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.description }}</p>
 
-      <!-- Optional download button -->
       {% if post.paperurl %}
         <p><a href="{{ post.paperurl }}" class="btn" target="_blank" rel="noopener">Download the Paper</a></p>
       {% endif %}
-
-      <!-- Optional external journal link -->
       {% if post.external_url %}
         <p><a href="{{ post.external_url }}" target="_blank" rel="noopener">View on Journal Website</a></p>
       {% endif %}
