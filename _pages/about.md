@@ -19,7 +19,7 @@ redirect_from:
 
 I am a systems scientist in sustainable urban environment decision-making. My research integrates complex systems interactions into strategic management and public policies. I use interdisciplinary approaches and systems science methods, including systems mapping and modelling. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes.
 
-I am currently a researcher at UCL. I have published more than 10 papers at various environmental, health and management journals with total <a href='https://scholar.google.com/citations?user=bXTSyOcAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=bXTSyOcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a researcher at UCL. I have published more than 10 papers at various environmental, health and management journals with total <a href='https://scholar.google.com/citations?user=bXTSyOcAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=bXTSyOcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
