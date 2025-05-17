@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 layout: publication-grid
-=======
-layout: publication
->>>>>>> 793219d8b1c37f0fe4c58fc60e5f95ee71c6a7a4
 title: "Systemic issues in the English social housing sector"
 date: "2025-04-10"
 image: "/images/publicationimg/housing.jpeg"
