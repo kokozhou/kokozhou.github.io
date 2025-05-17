@@ -19,7 +19,7 @@ redirect_from:
 
 I am a systems scientist in sustainable urban environment decision-making. My research integrates complex systems interactions into strategic management and public policies. I use interdisciplinary approaches and systems science methods, including systems mapping and modelling. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes.
 
-I am currently a researcher at UCL. I have published more than 10 papers at various environmental, health and management journals with total <a href='https://scholar.google.com/citations?user=bXTSyOcAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=bXTSyOcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a researcher at UCL. I have published more than 10 papers at various environmental, health and management journals.
 
 
 # 🔥 News
@@ -42,11 +42,7 @@ I am currently a researcher at UCL. I have published more than 10 papers at vari
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/soundscape.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 - [Exploring the relationships between soundscape quality and public health using a systems thinking approach](https://www.nature.com/articles/s44384-025-00003-y.pdf), Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, Simone Torresin, Gunnar Cerwén, Bhan Lam, Arnaud Can, Catherine Guastavino, Cynthia Tarlao, Catherine Lavandier, Brigitte Schulte-Fortkamp, Marcel Cobussen, Marion Burgess, Laudan Nooshin, Sarah R Payne, Eleanor Ratcliffe, Ruth Bernatek, Maarten Hornikx, Hui Ma, Jian Kang
-</div>
-</div>
 
 - [Systemic issues in the English social housing sector: mapping interconnected challenges faced by London-based housing associations](https://www.tandfonline.com/doi/pdf/10.1080/02673037.2025.2467093), Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
 
