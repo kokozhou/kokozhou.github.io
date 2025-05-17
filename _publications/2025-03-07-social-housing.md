@@ -1,7 +1,7 @@
 ---
-layout: publication-list
+layout: publication
 title: "Systemic issues in the English social housing sector"
-date: 2025-04-10
+date: "2025-04-10"
 image: "/images/publicationimg/housing.jpeg"
 venue: "Housing Studies"
 paperurl: "/files/Pagani.2025.02.pdf"
