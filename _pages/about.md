@@ -11,3 +11,11 @@ I am a systems scientist in sustainable urban environment decision-making. My re
 My recent publication
 ======
 Please find my recent publication: [Systems Thinking in Water Neutrality Governance: Moving from system failures to resilient urban water systems](https://www.sciencedirect.com/science/article/pii/S0959652625010054)
+
+{% assign latest_post = site.posts | sort: 'date' | reverse | first %}
+### Latest Blog Post
+[{{ latest_post.title }}]({{ latest_post.url }})
+
+{% assign latest_pub = site.publications | sort: 'date' | reverse | first %}
+### Latest Publication
+[{{ latest_pub.title }}]({{ latest_pub.url }})
