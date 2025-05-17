@@ -22,3 +22,20 @@
   margin-bottom: 10px;
   font-weight: bold;
 }
+
+.additional-images {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.additional-images img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.pdf-embed {
+  margin-top: 40px;
+}

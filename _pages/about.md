@@ -19,15 +19,22 @@ Please find my recent publication: [Systems Thinking in Water Neutrality Governa
 ### Latest Publications
 {% assign sorted_pubs = site.publications | sort: "date" | reverse %}
 {% for latest_pub in sorted_pubs limit: 3 %}
-<div class="publication-container">
-  <div class="publication-image">
-    {% if latest_pub.image %}
-      <img src="{{ latest_pub.image }}" alt="{{ latest_pub.title }}">
-    {% endif %}
+  <div class="publication-container">
+    <!-- LEFT: Image -->
+    <div class="publication-image">
+      {% if latest_pub.image %}
+        <img src="{{ latest_pub.image }}" alt="Image for {{ latest_pub.title }}">
+      {% endif %}
+    </div>
+
+    <!-- RIGHT: Title + Description -->
+    <div class="publication-text">
+      <h3>
+        <a href="{{ latest_pub.url | relative_url }}">
+          {{ latest_pub.title }}
+        </a>
+      </h3>
+      <p>{{ latest_pub.description }}</p>
+    </div>
   </div>
-  <div class="publication-text">
-    <h3><a href="{{ latest_pub.url }}">{{ latest_pub.title }}</a></h3>
-    <p>{{ latest_pub.description }}</p>
-  </div>
-</div>
 {% endfor %}
