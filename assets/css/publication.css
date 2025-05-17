@@ -1,85 +1,103 @@
+/* Container for each publication */
 .publication-container {
   display: flex;
-  align-items: flex-start; /* align images and text at top */
-  gap: 20px;
-  margin-bottom: 40px; /* space between publications */
-  border-bottom: 1px solid #eee; /* subtle divider */
-  padding-bottom: 20px;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+/* Left column for the image */
+.publication-image {
+  flex: 1 1 40%;
+  max-width: 40%;
 }
 
 .publication-image img {
-  width: 180px; /* fix width for consistency */
+  width: 100%;
   height: auto;
-  border-radius: 4px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* subtle shadow */
-  object-fit: cover;
+  border-radius: 8px;
 }
 
+/* Right column for the publication details */
 .publication-text {
-  flex-grow: 1;
+  flex: 1 1 55%;
+  max-width: 55%;
 }
 
-.publication-text h3 {
-  margin-top: 0;
-  margin-bottom: 10px;
-  font-weight: 600;
-  font-size: 1.3rem;
-  color: #004080; /* nice blue accent */
+.publication-text h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .publication-text p {
-  font-size: 1rem;
-  line-height: 1.5;
-  color: #333;
-  margin-bottom: 15px;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
 }
 
-.publication-links {
-  margin-top: 15px;
+/* Style for the tags section */
+.publication-tags {
+  margin-top: 1rem;
 }
 
-.publication-links a {
+.publication-tags .tag-link {
   display: inline-block;
-  margin-right: 15px;
-  font-weight: bold;
-  color: #0072ce;
+  margin-right: 8px;
+  color: #007bff;
   text-decoration: none;
-  padding: 6px 12px;
+}
+
+.publication-tags .tag-link:hover {
+  text-decoration: underline;
+}
+
+/* Style for the buttons/links */
+.publication-links .btn {
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
   border-radius: 4px;
-  background-color: #e7f1ff;
-  transition: background-color 0.3s ease;
+  display: inline-block;
+  transition: background-color 0.3s;
 }
 
-.publication-links a:hover {
-  background-color: #cce0ff;
+.publication-links .btn:hover {
+  background-color: #0056b3;
 }
 
+/* Additional images styling */
 .additional-images {
-  margin-top: 20px;
+  margin-top: 2rem;
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  gap: 1rem;
 }
 
 .additional-images img {
-  max-width: 200px;
+  width: 100%;
   height: auto;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  max-width: 200px;
 }
 
-.pdf-embed {
-  margin-top: 40px;
-}
-
-/* Responsive: stack image and text on narrow screens */
+/* Mobile responsiveness: Stacks images and details vertically */
 @media (max-width: 768px) {
   .publication-container {
     flex-direction: column;
+    align-items: center;
   }
-  .publication-image img {
-    width: 100%;
-    max-width: 300px;
-    margin-bottom: 15px;
+
+  .publication-image,
+  .publication-text {
+    max-width: 100%;
+    flex: 1 1 100%;
+  }
+
+  .publication-text h2 {
+    text-align: center;
+  }
+
+  .publication-tags {
+    text-align: center;
   }
 }
