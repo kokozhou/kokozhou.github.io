@@ -1,0 +1,24 @@
+.publication-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.publication-image img {
+  max-width: 120px;
+  height: auto;
+}
+
+.publication-text {
+  flex-grow: 1;
+}
+
+.publication-links {
+  margin-top: 15px;
+}
+
+.publication-links a {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}

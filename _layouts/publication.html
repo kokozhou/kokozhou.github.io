@@ -1,17 +1,36 @@
+<head>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/publication.css">
+</head>
 <div class="publication-container">
   <div class="publication-image">
     {% if page.image %}
-      <img src="{{ page.image }}" alt="{{ page.title }}">
+      <img src="{{ page.image }}" alt="Cover image of {{ page.title }}">
     {% endif %}
   </div>
   <div class="publication-text">
     <h2>{{ page.title }}</h2>
     <p><strong>Published in:</strong> {{ page.venue }} ({{ page.date | date: '%Y-%m-%d' }})</p>
     <p><strong>Abstract:</strong> {{ page.description }}</p>
+
     {% if page.comment %}
       <p><strong>Comment:</strong> {{ page.comment }}</p>
     {% endif %}
 
+    {% if page.citation %}
+      <p><strong>Citation:</strong> {{ page.citation }}</p>
+    {% endif %}
+
+    <!-- Tags Section -->
+    {% if page.tags %}
+      <div class="publication-tags">
+        <strong>Tags:</strong>
+        {% for tag in page.tags %}
+          <a href="/tags/#{{ tag | slugify }}" class="tag-link">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <!-- Publication Links -->
     <div class="publication-links">
       {% if page.paperurl %}
         <p><a href="{{ page.paperurl }}" class="btn">Download the Paper</a></p>
@@ -25,28 +44,3 @@
     </div>
   </div>
 </div>
-
-.publication-container {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
-.publication-image img {
-  max-width: 120px;
-  height: auto;
-}
-
-.publication-text {
-  flex-grow: 1;
-}
-
-.publication-links {
-  margin-top: 15px;
-}
-
-.publication-links a {
-  display: block;
-  margin-bottom: 10px;
-  font-weight: bold;
-}

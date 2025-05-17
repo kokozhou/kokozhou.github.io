@@ -13,12 +13,12 @@ My recent publication
 Please find my recent publication: [Systems Thinking in Water Neutrality Governance: Moving from system failures to resilient urban water systems](https://www.sciencedirect.com/science/article/pii/S0959652625010054)
 
 {% assign latest_post = site.posts | sort: 'date' | reverse | first %}
-### Latest Blog Post
+### Latest Blog
 [{{ latest_post.title }}]({{ latest_post.url }})
 
 ### Latest Publications
-
-{% for latest_pub in site.publications | sort: 'date' | reverse | limit: 3 %}
+{% assign sorted_pubs = site.publications | sort: "date" | reverse %}
+{% for latest_pub in sorted_pubs limit: 3 %}
 <div class="publication-container">
   <div class="publication-image">
     {% if latest_pub.image %}
