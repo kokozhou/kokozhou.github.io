@@ -36,14 +36,13 @@ layout: default
 
       <!-- Tags Section -->
       {% if page.tags %}
-        <div class="page__tags">
-          <strong>Tags:</strong>
-          {% for tag in page.tags %}
-            <span class="tag">{{ tag }}</span>
-          {% endfor %}
-        </div>
-      {% endif %}
-
+  <div class="page__tags">
+    <strong>Tags:</strong>
+    {% for tag in page.tags %}
+      <a href="/tags/#{{ tag | slugify }}" class="tag-link">{{ tag }}</a>
+    {% endfor %}
+  </div>
+{% endif %}
       <!-- Optional Slide Section -->
       {% if page.slides %}
         <div class="page__slides">

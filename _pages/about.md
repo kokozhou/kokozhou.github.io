@@ -16,7 +16,9 @@ Please find my recent publication: [Systems Thinking in Water Neutrality Governa
 ### Latest Blog Post
 [{{ latest_post.title }}]({{ latest_post.url }})
 
-{% assign latest_pub = site.publications | sort: 'date' | reverse | first %}
+### Latest Publications
+
+{% for latest_pub in site.publications | sort: 'date' | reverse | limit: 3 %}
 <div class="publication-container">
   <div class="publication-image">
     {% if latest_pub.image %}
@@ -28,3 +30,4 @@ Please find my recent publication: [Systems Thinking in Water Neutrality Governa
     <p>{{ latest_pub.description }}</p>
   </div>
 </div>
+{% endfor %}

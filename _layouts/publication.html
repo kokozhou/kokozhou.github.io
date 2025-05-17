@@ -5,8 +5,48 @@
     {% endif %}
   </div>
   <div class="publication-text">
-    <h3>{{ page.title }}</h3>
-    <p>{{ page.description }}</p>
-    <a href="{{ page.url }}" target="_blank">Read More</a>
+    <h2>{{ page.title }}</h2>
+    <p><strong>Published in:</strong> {{ page.venue }} ({{ page.date | date: '%Y-%m-%d' }})</p>
+    <p><strong>Abstract:</strong> {{ page.description }}</p>
+    {% if page.comment %}
+      <p><strong>Comment:</strong> {{ page.comment }}</p>
+    {% endif %}
+
+    <div class="publication-links">
+      {% if page.paperurl %}
+        <p><a href="{{ page.paperurl }}" class="btn">Download the Paper</a></p>
+      {% endif %}
+      {% if page.url %}
+        <p><a href="{{ page.url }}" target="_blank">Read from Original Website</a></p>
+      {% endif %}
+      {% if page.blog %}
+        <p><a href="{{ page.blog }}" target="_blank">Related Blog Post</a></p>
+      {% endif %}
+    </div>
   </div>
 </div>
+
+.publication-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.publication-image img {
+  max-width: 120px;
+  height: auto;
+}
+
+.publication-text {
+  flex-grow: 1;
+}
+
+.publication-links {
+  margin-top: 15px;
+}
+
+.publication-links a {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
