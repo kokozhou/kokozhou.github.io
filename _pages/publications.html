@@ -1,9 +1,14 @@
 ---
-layout: publication
+layout: publication-list
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<head>
+  <link rel="stylesheet" href="{{ '/assets/css/publication.css' | relative_url }}">
+</head>
+
 <h1>{{ page.title }}</h1>
 
 {% if site.author.googlescholar %}
@@ -15,18 +20,20 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   <div class="publication-container">
+    <!-- LEFT: Image -->
     <div class="publication-image">
       {% if post.image %}
-        <img src="{{ post.image }}" alt="Main image for {{ post.title }}">
-      {% endif %}
-      {% if post.additional_images %}
-        {% for extra_img in post.additional_images limit: 1 %}
-          <img src="{{ extra_img }}" alt="Extra image for {{ post.title }}">
-        {% endfor %}
+        <img src="{{ post.image }}" alt="Image for {{ post.title }}">
       {% endif %}
     </div>
+
+    <!-- RIGHT: Title + Description -->
     <div class="publication-text">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <h3>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </h3>
       <p>{{ post.description }}</p>
 
       {% if post.paperurl %}
