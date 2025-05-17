@@ -1,5 +1,5 @@
 ---
-layout: publication-grid
+layout: publication_list
 title: "Systemic issues in the English social housing sector"
 date: "2025-04-10"
 image: "/images/publicationimg/housing.jpeg"
