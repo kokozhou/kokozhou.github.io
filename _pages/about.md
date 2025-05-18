@@ -64,7 +64,7 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Model: methods</div><img src='images/TMFramework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Model: methods</div><img src='images/TMFramework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Dealing with soft variables and data scarcity: lessons learnt from quantification in a participatory system dynamics modelling process (2024)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sdr.1770)
 Irene Pluchinotta, **Ke Zhou**,Nici Zimmermann
