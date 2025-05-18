@@ -42,7 +42,7 @@ I am currently a researcher at UCL. I have published more than 10 papers at vari
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Water neutrality</div><img src='images/ventura.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Soundscape</div><img src='images/soundscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Exploring the relationships between soundscape quality and public health using a systems thinking approach](https://www.nature.com/articles/s44384-025-00003-y.pdf), Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, Simone Torresin, Gunnar Cerwén, Bhan Lam, Arnaud Can, Catherine Guastavino, Cynthia Tarlao, Catherine Lavandier, Brigitte Schulte-Fortkamp, Marcel Cobussen, Marion Burgess, Laudan Nooshin, Sarah R Payne, Eleanor Ratcliffe, Ruth Bernatek, Maarten Hornikx, Hui Ma, Jian Kang
 </div>
