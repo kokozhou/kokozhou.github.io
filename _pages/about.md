@@ -108,7 +108,7 @@ Insights from Buildings, Energy, Transport, and Food UK Operational Research Sem
 <figure style="text-align: center; margin: 2em 0;">
   <img src="images/IMG_0701.jpeg" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 0.5em; color: #555;">
-    UCL Bartlett Policy Spotlight Workshop, June 2025
+    UCL Bartlett Policy Spotlight Event, June 2025
   </figcaption>
 </figure>
 - *2025.03*, **Ke Zhou**, Seeing the Forest: Integrating Decision-Making and Policy Design in Systems. UK Systems Evaluation Networks Seminar.
