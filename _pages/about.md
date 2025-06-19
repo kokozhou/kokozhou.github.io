@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am a systems scientist in sustainable urban environment decision-making. My research integrates complex systems interactions into strategic management and public policies. I use interdisciplinary approaches and systems science methods, including systems mapping and modelling. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes.
@@ -106,7 +99,7 @@ Irene Pluchinotta, **Ke Zhou**,Nici Zimmermann
 Insights from Buildings, Energy, Transport, and Food UK Operational Research Seminars.
 - *2025.06*, **Ke Zhou**, Advancing Environmental Neutrality and Policy Engagement Through Models and Dialogue. UCL Bartlett Research and Impact Policy Spotlight.
 <figure style="text-align: center; margin: 2em 0;">
-  <img src="...images/IMG_0701.jpeg" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <img src="..images/IMG_0701.jpeg" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 0.5em; color: #555;">
     UCL Bartlett Policy Spotlight Event, June 2025
   </figcaption>
