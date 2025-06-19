@@ -106,7 +106,7 @@ Irene Pluchinotta, **Ke Zhou**,Nici Zimmermann
 Insights from Buildings, Energy, Transport, and Food UK Operational Research Seminars.
 - *2025.06*, **Ke Zhou**, Advancing Environmental Neutrality and Policy Engagement Through Models and Dialogue. UCL Bartlett Research and Impact Policy Spotlight.
 <figure style="text-align: center; margin: 2em 0;">
-  <img src="images/IMG_0701.jpeg" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <img src="...images/IMG_0701.jpeg" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 0.5em; color: #555;">
     UCL Bartlett Policy Spotlight Event, June 2025
   </figcaption>
