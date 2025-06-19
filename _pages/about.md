@@ -103,6 +103,13 @@ Insights from Buildings, Energy, Transport, and Food UK Operational Research Sem
 - *2025*, Francesco Aletta and **Ke Zhou**, Exploring the Relationships between Soundscape Quality and Public Health using a Systems Thinking Approach. UCL Institute for Environmental Design and Engineering Seminar.
 - *2024.11*, Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann. Modeling with Soft Variables and Limited Data. International System Dynamics Society Seminar Series\| [\[video\]](https://www.youtube.com/watch?v=38CoKifnWnI&t=1s)
 
-# 💻 Teaching 
+# 💻 Teaching (selected)
 - *2025.01-2025.03*, For the Module [Systems Thinking and Participatory Approaches for Sustainability](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162), a brand new undergraudate module in IEDE led by Dr. Irene Pluchinotta as part of the [BSc Programme](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2), I have contributed to following classes including designing and delivering the teaching: *Trans-disciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping Made Easy: Strategies, Examples, and Software*. University College London, UK.
 - *2025.03*, I designed and instructed class *Climate Change Adaptation, Mitigation, and Health* as part of the [Healthy Cities: Theory and Action (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056) led by Dr. Gemma Moore. Institute for Environmental Design and Engineering.
+- *2025.03* I co-developed and co-instructed the *Case Studies of Digital Tools in Action* as part of the Digital
+Innovation Built Asset Management course (Dr. Andrew Mitchell) at the Bartlett School of Sustainable
+Construction.
+<img src="images/teaching.JPG" alt="">
+- *2025.03* I designed and collaboratively instructed *Constructing Causal Loop Diagrams from Texts* as part of the Systems Thinking and System Dynamics course (Prof. Nici Zimmermann) at the Institute for Environmental Design and Engineering.
+- *2024.11* I co-instructed *Energy, World and Climate Dynamics through Energy-Rapid Overview and
+Decision-Support* for course Sustainability Management (Dr Daniel Beunza) at Bayes management school.
