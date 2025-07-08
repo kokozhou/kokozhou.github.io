@@ -175,8 +175,7 @@ International System Dynamics Society Seminar Series.
 - *2025.03*, I designed and instructed class *Climate Change Adaptation, Mitigation, and Health* as part of the [Healthy Cities: Theory and Action (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056) led by Dr. Gemma Moore. Institute for Environmental Design and Engineering.
 - *2025.03* I co-developed and co-instructed the *Case Studies of Digital Tools in Action* as part of the Digital
 Innovation Built Asset Management course (Dr. Andrew Mitchell) at the Bartlett School of Sustainable
-Construction.
-<img src="images/teaching.JPG" alt="">
+Construction. <img src="images/teaching.JPG" alt="">
 - *2025.03* I designed and collaboratively instructed *Constructing Causal Loop Diagrams from Texts* as part of the Systems Thinking and System Dynamics course (Prof. Nici Zimmermann) at the Institute for Environmental Design and Engineering.
 - *2024.11* I co-instructed *Energy, World and Climate Dynamics through Energy-Rapid Overview and
 Decision-Support* for course Sustainability Management (Dr Daniel Beunza) at Bayes management school.
