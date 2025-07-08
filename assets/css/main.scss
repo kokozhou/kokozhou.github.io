@@ -118,11 +118,10 @@ body {
   font-weight: 400;
   color: #474747;
   background: #f7f8fa;
-  font-size: 1.08em;
+  font-size: 1.0em;
   line-height: 1.65;
 }
 
-/* Headings */
 h1, h2, h3, h4, h5, h6,
 .paper-box h3, .card h3,
 .about-box h1, .about-box h2 {
@@ -132,18 +131,18 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1 {
-  font-size: 1.7em;
+  font-size: 1.6em;
   line-height: 1.1;
   margin-bottom: 0.2em;
 }
 
 h2 {
-  font-size: 1.3em;
+  font-size: 1.22em;
   margin-bottom: 0.2em;
 }
 
 h3 {
-  font-size: 1.2em;
+  font-size: 1.05em;
   margin-bottom: 0.2em;
 }
 
@@ -157,38 +156,48 @@ a:hover, a:focus {
   color: #00369f;
 }
 
-/* Card/box backgrounds for highlights */
 .paper-box, .card {
   background: #fff;
   color: #474747;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
   margin-bottom: 2em;
-  padding: 1.5em 2em;
+  padding: 1em 1.3em;
 }
 .paper-box .meta, .card .meta {
   color: #6b6d71;
 }
 
-/* About Me hero box */
 .about-box {
   background: #343a45;
   color: #fff;
-  padding: 2em 2em 1.5em 2em;
+  padding: 1.1em 1.2em 1em 1.2em;  /* less padding */
   border-radius: 8px;
-  margin-bottom: 2em;
+  margin-bottom: 1.2em;             /* less margin below */
   text-align: left;
 }
-.about-box h2, .about-box h3 {
+
+.about-box h1 {
   color: #fff;
   font-weight: 700;
+  font-size: 1.3em;                 /* smaller title */
   margin-top: 0;
-  margin-bottom: 0.3em;
+  margin-bottom: 0.18em;
   text-decoration: underline;
   text-underline-offset: 0.1em;
 }
+.about-box h2, .about-box h3 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.06em;                /* smaller subtitle */
+  margin-top: 0;
+  margin-bottom: 0.18em;
+  text-decoration: none;             /* optional: remove underline for h2/h3 */
+}
 .about-box p {
   color: #f7f8fa;
-  font-size: 1.1em;
+  font-size: 1em;
+  margin-bottom: 0.3em;
 }
+
 
