@@ -2,21 +2,16 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
   - title: "News"
-    url: "/#-news"
-
+    url: "/#news"
   - title: "Publications"
-    url: "/#-publications"
-
+    url: "/#publications"
   - title: "Grants and Awards"
-    url: "/#-grants-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
+    url: "/#grants-and-awards"
+  - title: "Education"
+    url: "/#education"
   - title: "Invited Talks"
-    url: "/#-invited-talks"
-
+    url: "/#invited-talks"
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
+
