@@ -97,6 +97,17 @@ Irene Pluchinotta, **Ke Zhou**,Nici Zimmermann
 # 💬 Invited Talks
 - *forthcoming*, **Ke Zhou**, Advancing a Healthy and Sustainable Net Zero UK: Cross-Sectoral
 Insights from Buildings, Energy, Transport, and Food UK Operational Research Seminars.
+
+- *2025.07*, **Ke Zhou**, *Showcasing System Dynamics Interventions in Environmental Research*. Part of the webinar series celebrating 60 years of Environmental Design and Engineering at The Bartlett, UCL's Faculty of the Built Environment.
+
+## Check out the Recording (14:38–29:20)
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen></iframe>
+
 - *2025.06*, **Ke Zhou**, Environmental Neutrality and Policy Engagement Through Models and Dialogue. UCL Bartlett Research and Impact Policy Spotlight.
 <img src="images/IMG_0701.jpeg" alt="">
 - *2025.03*, **Ke Zhou**, Seeing the Forest: Integrating Decision-Making and Policy Design in Systems. UK Systems Evaluation Networks Seminar.
