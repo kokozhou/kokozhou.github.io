@@ -179,7 +179,7 @@ a:hover, a:focus {
   margin-bottom: 2em;
   text-align: left;
 }
-.about-box h1, .about-box h2 {
+.about-box h2, .about-box h3 {
   color: #fff;
   font-weight: 700;
   margin-top: 0;
@@ -192,12 +192,3 @@ a:hover, a:focus {
   font-size: 1.1em;
 }
 
-/* Responsive tweaks */
-@media (max-width: 600px) {
-  .paper-box, .card {
-    padding: 1em;
-  }
-  h1 {
-    font-size: 1.5em;
-  }
-}
