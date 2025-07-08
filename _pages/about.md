@@ -170,7 +170,7 @@ International System Dynamics Society Seminar Series.
 </div>
 ---
 
-# 💻 Teaching (selected)
+# 💻 Teaching
 - *2025.01-2025.03*, For the Module [Systems Thinking and Participatory Approaches for Sustainability](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162), a brand new undergraudate module in IEDE led by Dr. Irene Pluchinotta as part of the [BSc Programme](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2), I have contributed to following classes including designing and delivering the teaching: *Trans-disciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping Made Easy: Strategies, Examples, and Software*. University College London, UK.
 - *2025.03*, I designed and instructed class *Climate Change Adaptation, Mitigation, and Health* as part of the [Healthy Cities: Theory and Action (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056) led by Dr. Gemma Moore. Institute for Environmental Design and Engineering.
 - *2025.03* I co-developed and co-instructed the *Case Studies of Digital Tools in Action* as part of the Digital
