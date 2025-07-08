@@ -265,6 +265,25 @@ a:hover, a:focus {
     font-size: 1.08em;
   }
 }
+.paper-box .media-center {
+  text-align: center;
+  margin-top: 1.2em;
+  width: 100%;
+  display: block;
+  overflow-x: auto;  /* allow scrolling if iframe is too big */
+}
+
+.paper-box .media-center iframe {
+  max-width: 100%;
+  width: 400px;
+  min-height: 225px;
+  border-radius: 7px;
+  box-shadow: 0 2px 8px rgba(52,58,69,0.08);
+  margin: auto;
+  display: block;
+  background: #000; /* fallback for loading */
+}
+
 
 
 
