@@ -147,20 +147,22 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 
 # Invited Talks
 
-<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
-  <h3 style="margin-top:0; font-size:1.2em;">Forthcoming – Advancing a Healthy and Sustainable Net Zero UK</h3>
-  <div style="font-weight:bold;">Ke Zhou</div>
-  <div style="color:#555; font-style:italic;">UK Operational Research Seminars</div>
-  <ul style="margin-top:1em;">
+## Invited Talks
+
+<div class="paper-box">
+  <h3>Forthcoming – Advancing a Healthy and Sustainable Net Zero UK</h3>
+  <div><strong>Ke Zhou</strong></div>
+  <div class="meta">UK Operational Research Seminars</div>
+  <ul>
     <li>Cross-sectoral insights from buildings, energy, transport, and food.</li>
   </ul>
 </div>
 
-<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
-  <h3 style="margin-top:0; font-size:1.2em;">2025.07 – Showcasing System Dynamics Interventions in Environmental Research</h3>
-  <div style="font-weight:bold;">Ke Zhou</div>
-  <div style="color:#555; font-style:italic;">Webinar Series, The Bartlett, UCL</div>
-  <ul style="margin-top:1em;">
+<div class="paper-box">
+  <h3>2025.07 – Showcasing System Dynamics Interventions in Environmental Research</h3>
+  <div><strong>Ke Zhou</strong></div>
+  <div class="meta">Webinar Series, The Bartlett, UCL</div>
+  <ul>
     <li>Overview and key learnings from:
       <ul>
         <li><a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura">VENTURA</a></li>
@@ -171,16 +173,16 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
     </li>
     <li>Reflections on interventions and identifying fit-for-purpose tools for decision-making.</li>
   </ul>
-  <div style="text-align:center; margin-top:1em;">
+  <div style="text-align:center;">
     <iframe width="400" height="225" src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
-<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
-  <h3 style="margin-top:0; font-size:1.2em;">2025.06 – Environmental Neutrality and Policy Engagement Through Models and Dialogue</h3>
-  <div style="font-weight:bold;">Ke Zhou</div>
-  <div style="color:#555; font-style:italic;">UCL Bartlett Research and Impact Policy Spotlight</div>
-  <ul style="margin-top:1em;">
+<div class="paper-box">
+  <h3>2025.06 – Environmental Neutrality and Policy Engagement Through Models and Dialogue</h3>
+  <div><strong>Ke Zhou</strong></div>
+  <div class="meta">UCL Bartlett Research and Impact Policy Spotlight</div>
+  <ul>
     <li>Application of systems tools (notably systems mapping and causal loop diagrams) to agenda setting and goal formulation.</li>
     <li>Evaluation of these tools is limited; some are described as “discomforting” due to their complexity and high engagement requirements.</li>
     <li>Opportunities for quantitative simulation models if designed to foster early stakeholder engagement.</li>
@@ -191,28 +193,28 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
   </div>
 </div>
 
-<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
-  <h3 style="margin-top:0; font-size:1.2em;">2025.03 – Seeing the Forest: Integrating Decision-Making and Policy Design in Systems</h3>
-  <div style="font-weight:bold;">Ke Zhou</div>
-  <div style="color:#555; font-style:italic;">UK Systems Evaluation Networks Seminar</div>
+<div class="paper-box">
+  <h3>2025.03 – Seeing the Forest: Integrating Decision-Making and Policy Design in Systems</h3>
+  <div><strong>Ke Zhou</strong></div>
+  <div class="meta">UK Systems Evaluation Networks Seminar</div>
 </div>
 
-<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
-  <h3 style="margin-top:0; font-size:1.2em;">2025 – Exploring the Relationships between Soundscape Quality and Public Health</h3>
-  <div style="font-weight:bold;">Francesco Aletta and Ke Zhou</div>
-  <div style="color:#555; font-style:italic;">UCL Institute for Environmental Design and Engineering Seminar</div>
-  <ul style="margin-top:1em;">
+<div class="paper-box">
+  <h3>2025 – Exploring the Relationships between Soundscape Quality and Public Health</h3>
+  <div><strong>Francesco Aletta and Ke Zhou</strong></div>
+  <div class="meta">UCL Institute for Environmental Design and Engineering Seminar</div>
+  <ul>
     <li>Analysis of soundscapes and public health using systems thinking.</li>
     <li>Implications for urban environmental design.</li>
   </ul>
   <a href="https://www.youtube.com/watch?v=zPvQgWhKn_8&t=15s" style="color:#2255a3; font-weight:500; text-decoration:underline; display:block; margin-bottom:1em;">Watch Recording</a>
 </div>
 
-<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
-  <h3 style="margin-top:0; font-size:1.2em;">2024.11 – Modeling with Soft Variables and Limited Data</h3>
-  <div style="font-weight:bold;">Irene Pluchinotta, Ke Zhou, Nici Zimmermann</div>
-  <div style="color:#555; font-style:italic;">International System Dynamics Society Seminar Series</div>
-  <ul style="margin-top:1em;">
+<div class="paper-box">
+  <h3>2024.11 – Modeling with Soft Variables and Limited Data</h3>
+  <div><strong>Irene Pluchinotta, Ke Zhou, Nici Zimmermann</strong></div>
+  <div class="meta">International System Dynamics Society Seminar Series</div>
+  <ul>
     <li>Innovative techniques for modeling qualitative variables within complex systems.</li>
     <li>Practical applications and lessons from real-world case studies.</li>
   </ul>
@@ -220,6 +222,7 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
     <iframe width="400" height="225" src="https://www.youtube.com/embed/38CoKifnWnI?start=1" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
+
 
 # Teaching
 - *2025.01-2025.03*, For the Module [Systems Thinking and Participatory Approaches for Sustainability](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162), a brand new undergraudate module in IEDE led by Dr. Irene Pluchinotta as part of the [BSc Programme](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2), I have contributed to following classes including designing and delivering the teaching: *Trans-disciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping Made Easy: Strategies, Examples, and Software*. University College London, UK.
