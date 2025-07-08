@@ -7,16 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="border:1px solid #e0e0e0; border-radius:8px; background:#f9f9f9; padding:1.5em 1.5em 1em 1.5em; margin-bottom:2em;">
-
-<span class='anchor' id='about-me'></span>
-
 ## About Me
-
+<div style="border:1px solid #e0e0e0; border-radius:8px; background:#f9f9f9; padding:1.5em 1.5em 1em 1.5em; margin-bottom:2em;">
+<span class='anchor' id='about-me'></span>
 I am a systems scientist specializing in sustainable urban decision-making, with a focus on integrating systems thinking into strategy, management, and public policy. I use systems methods as problem structuring methods. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes.
-
 Currently, I work as a researcher at University College London, and have authored over ten publications in leading environmental, health, and management journals.
-
 </div>
 
 # 🔥 News
@@ -87,94 +82,94 @@ Irene Pluchinotta, **Ke Zhou**,Nici Zimmermann
 - [Systemic issues in the English social housing sector: mapping interconnected challenges faced by London-based housing associations (2025)](https://www.tandfonline.com/doi/pdf/10.1080/02673037.2025.2467093)
   Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
 
-# 🎖 Grants and Awards
+# Grants and Awards
 - *2025.04* Received UCL Research Future Funding as PI. Project: AI-Facilitated Collaborative Decision-Making Tool in Participatory Environmental Health Research. 
 - *2024.04* Received UCL Bartlett Public Policy Support Fund as PI. Project:[Advancing Environmental Neutrality through Strategic Systems Thinking Model](https://www.ucl.ac.uk/bartlett/bartlett-policy-support-fund). Project output report:[Advancing Environmental Neutrality: Leveraging Systems Thinking for Policy Innovation](https://discovery.ucl.ac.uk/id/eprint/10200567/1/Zhou_K.%20%20Nita%20A.%20Neutrality%20project%20policy%20%282024%29.pdf), **Ke Zhou** & Arfenia Nita.
 - *2018-2023* National Institute for Health and Care Research Scholarship(£100,000).
 - *2015 – 2017* Washington University in St. Louis. Scholarship.
 
-# 📖 Educations
+# Educations
 - *2018.09-2023.03*, PhD in Urban Environment Decision-Making, **no correction**, University College London. UK. 
 - *2015.08 - 2017.08*, Master of Social Work, Specialization in System Dynamics Modeling, Washington University in St. Louis. USA.
 - *2011.08 - 2015.05*, Bachelor of Arts. Sichuan International Studies University. China.   
 
-# 💬 Invited Talks
+# Invited Talks
 
-## 📅 *forthcoming* – Advancing a Healthy and Sustainable Net Zero UK: Cross-Sectoral Insights from Buildings, Energy, Transport, and Food.  
-**Ke Zhou** 
-UK Operational Research Seminars.
-
-## 📅 *2025.07* – *Showcasing System Dynamics Interventions in Environmental Research*  
-**Ke Zhou** 
-Part of the webinar series celebrating 60 years of Environmental Design and Engineering at The Bartlett, UCL's Faculty of the Built Environment.
-### Highlights
-- Provides an overview and key learnings from multiple large-scale projects:  
-  - [VENTURA: Virtual Decision Rooms for Water Neutral Urban Planning](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura)  
-  - [CUSSH: Complex Urban Systems for Sustainability and Health](https://www.ucl.ac.uk/complex-urban-systems/)  
-  - [PAICE: Policy and Implementation for Climate & Health Equity](https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice)
-  - [CAMELLIA: Community Water Management for a Liveable London] (https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia) 
-- Reflects on interventions and explores how to identify **fit-for-purpose tools** for different decision-making contexts.
-### 🎥 Recording
-<div style="text-align: center;">
-  <iframe width="400" height="225" 
-    src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
+<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
+  <h3 style="margin-top:0; font-size:1.2em;">Forthcoming – Advancing a Healthy and Sustainable Net Zero UK</h3>
+  <div style="font-weight:bold;">Ke Zhou</div>
+  <div style="color:#555; font-style:italic;">UK Operational Research Seminars</div>
+  <ul style="margin-top:1em;">
+    <li>Cross-sectoral insights from buildings, energy, transport, and food.</li>
+  </ul>
 </div>
 
----
-
-## 📅 *2025.06* – Environmental Neutrality and Policy Engagement Through Models and Dialogue  
-**Ke Zhou**  
-UCL Bartlett Research and Impact Policy Spotlight.
-
-### Highlights
-- A variety of systems tools are being applied, notably **systems mapping** (e.g., causal loop diagrams) to support agenda setting and goal formulation.  
-- The evaluation of these tools remains limited; moreover, they are sometimes described as “discomforting” due to the complexity involved and the high level of stakeholder engagement required.  
-- There are significant opportunities for **quantitative simulation models**, but these must be designed interactively to facilitate meaningful engagement, particularly during early policy cycles.  
-
-🔗 [Related LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7341429047572221952/)
-
-<div style="text-align: center;">
-  <img src="images/IMG_0701.jpeg" alt="Environmental Neutrality Talk" width="400">
+<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
+  <h3 style="margin-top:0; font-size:1.2em;">2025.07 – Showcasing System Dynamics Interventions in Environmental Research</h3>
+  <div style="font-weight:bold;">Ke Zhou</div>
+  <div style="color:#555; font-style:italic;">Webinar Series, The Bartlett, UCL</div>
+  <ul style="margin-top:1em;">
+    <li>Overview and key learnings from:
+      <ul>
+        <li><a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura">VENTURA</a></li>
+        <li><a href="https://www.ucl.ac.uk/complex-urban-systems/">CUSSH</a></li>
+        <li><a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice">PAICE</a></li>
+        <li><a href="https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia">CAMELLIA</a></li>
+      </ul>
+    </li>
+    <li>Reflections on interventions and identifying fit-for-purpose tools for decision-making.</li>
+  </ul>
+  <div style="text-align:center; margin-top:1em;">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
----
-
-## 📅 *2025.03* – Seeing the Forest: Integrating Decision-Making and Policy Design in Systems  
-**Ke Zhou**  
-UK Systems Evaluation Networks Seminar.
-
-## 📅 *2025* – Exploring the Relationships between Soundscape Quality and Public Health  
-**Francesco Aletta** and **Ke Zhou**  
-UCL Institute for Environmental Design and Engineering Seminar.
-
-### Highlights
-- Investigates soundscapes and public health through a systems thinking lens.  
-- Explores public health implications of environmental design.  
-🔗 [Recording] (https://www.youtube.com/watch?v=zPvQgWhKn_8&t=15s) 
----
-
-## 📅 *2024.11* – Modeling with Soft Variables and Limited Data  
-**Irene Pluchinotta, Ke Zhou, Nici Zimmermann**  
-International System Dynamics Society Seminar Series.
-
-### Highlights
-- Presents techniques for modeling qualitative variables in systems.  
-- Discusses practical applications in the case study.  
-
-### 🎥 Recording
-<div style="text-align: center;">
-  <iframe width="400" height="225" 
-    src="https://www.youtube.com/embed/38CoKifnWnI?start=1" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
+<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
+  <h3 style="margin-top:0; font-size:1.2em;">2025.06 – Environmental Neutrality and Policy Engagement Through Models and Dialogue</h3>
+  <div style="font-weight:bold;">Ke Zhou</div>
+  <div style="color:#555; font-style:italic;">UCL Bartlett Research and Impact Policy Spotlight</div>
+  <ul style="margin-top:1em;">
+    <li>Application of systems tools (notably systems mapping and causal loop diagrams) to agenda setting and goal formulation.</li>
+    <li>Evaluation of these tools is limited; some are described as “discomforting” due to their complexity and high engagement requirements.</li>
+    <li>Opportunities for quantitative simulation models if designed to foster early stakeholder engagement.</li>
+  </ul>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7341429047572221952/" style="color:#2255a3; font-weight:500; text-decoration:underline; display:block; margin-bottom:1em;">Read LinkedIn post</a>
+  <div style="text-align:center;">
+    <img src="images/IMG_0701.jpeg" alt="Environmental Neutrality Talk" width="400">
+  </div>
 </div>
----
 
-# 💻 Teaching
+<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
+  <h3 style="margin-top:0; font-size:1.2em;">2025.03 – Seeing the Forest: Integrating Decision-Making and Policy Design in Systems</h3>
+  <div style="font-weight:bold;">Ke Zhou</div>
+  <div style="color:#555; font-style:italic;">UK Systems Evaluation Networks Seminar</div>
+</div>
+
+<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
+  <h3 style="margin-top:0; font-size:1.2em;">2025 – Exploring the Relationships between Soundscape Quality and Public Health</h3>
+  <div style="font-weight:bold;">Francesco Aletta and Ke Zhou</div>
+  <div style="color:#555; font-style:italic;">UCL Institute for Environmental Design and Engineering Seminar</div>
+  <ul style="margin-top:1em;">
+    <li>Analysis of soundscapes and public health using systems thinking.</li>
+    <li>Implications for urban environmental design.</li>
+  </ul>
+  <a href="https://www.youtube.com/watch?v=zPvQgWhKn_8&t=15s" style="color:#2255a3; font-weight:500; text-decoration:underline; display:block; margin-bottom:1em;">Watch Recording</a>
+</div>
+
+<div style="border:1px solid #e6e6e6; border-radius:10px; background:#f9fafd; box-shadow: 0 2px 8px rgba(0,0,0,0.04); padding:1.5em 2em; margin-bottom:2em;">
+  <h3 style="margin-top:0; font-size:1.2em;">2024.11 – Modeling with Soft Variables and Limited Data</h3>
+  <div style="font-weight:bold;">Irene Pluchinotta, Ke Zhou, Nici Zimmermann</div>
+  <div style="color:#555; font-style:italic;">International System Dynamics Society Seminar Series</div>
+  <ul style="margin-top:1em;">
+    <li>Innovative techniques for modeling qualitative variables within complex systems.</li>
+    <li>Practical applications and lessons from real-world case studies.</li>
+  </ul>
+  <div style="text-align:center; margin-top:1em;">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/38CoKifnWnI?start=1" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+# Teaching
 - *2025.01-2025.03*, For the Module [Systems Thinking and Participatory Approaches for Sustainability](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162), a brand new undergraudate module in IEDE led by Dr. Irene Pluchinotta as part of the [BSc Programme](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2), I have contributed to following classes including designing and delivering the teaching: *Trans-disciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping Made Easy: Strategies, Examples, and Software*. University College London, UK.
 - *2025.03*, I designed and instructed class *Climate Change Adaptation, Mitigation, and Health* as part of the [Healthy Cities: Theory and Action (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056) led by Dr. Gemma Moore. Institute for Environmental Design and Engineering.
 - *2025.03* I co-developed and co-instructed the *Case Studies of Digital Tools in Action* as part of the Digital
