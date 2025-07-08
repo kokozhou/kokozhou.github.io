@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="border:1px solid #e0e0e0; border-radius:8px; background:#f9f9f9; padding:1.5em 1.5em 1em 1.5em; margin-bottom:2em;">
 
 <span class='anchor' id='about-me'></span>
 
-I am a systems scientist in sustainable urban environment decision-making. My research integrates complex systems interactions into strategic management and public policies. I use interdisciplinary approaches and systems science methods, including systems mapping and modelling. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes.
+## About Me
 
-I am currently a researcher at UCL. I have published more than 10 papers at various environmental, health and management journals.
+I am a systems scientist specializing in sustainable urban decision-making, with a focus on integrating systems thinking into strategy, management, and public policy. I use systems methods as problem structuring methods. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes.
 
+Currently, I work as a researcher at University College London, and have authored over ten publications in leading environmental, health, and management journals.
+
+</div>
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Awarded UCL Positive Futures Interdisciplinary grant. 
