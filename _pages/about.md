@@ -169,7 +169,10 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
     <li>Reflections on interventions and identifying fit-for-purpose tools for decision-making.</li>
   </ul>
   <div class="media-center">
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1"
+      frameborder="0" allowfullscreen
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+    </iframe>
   </div>
 </div>
 
