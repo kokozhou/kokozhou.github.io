@@ -183,7 +183,9 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
-
+   font-family: 'Raleway', Arial, sans-serif;  
+  font-weight: 500;                          
+  font-size: 1.1em; 
     &:hover {
       color: $masthead-link-color-hover;
     }
