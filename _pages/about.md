@@ -10,8 +10,6 @@ redirect_from:
 ## About Me
 
 <div class="about-box">
-  <h1 style="font-size: 1.7em; margin-bottom: 0.2em;">Ke Zhou</h1>
-  <h2 style="font-size: 1.3em; font-weight: 600; margin-bottom: 0.7em; color: #cfd5de;">Systems Scientist in Urban Environment Decision Making</h2>
   <p>
 I am a systems scientist specializing in sustainable urban decision-making, with a focus on integrating systems thinking into strategy, management, and public policy. I use systems methods as problem structuring methods. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes. Currently, I work as a researcher at University College London, and have authored over ten publications in leading environmental, health, and management journals.  
   </p>
