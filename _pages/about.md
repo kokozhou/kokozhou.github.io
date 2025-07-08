@@ -67,7 +67,7 @@ Irene Pluchinotta, **Ke Zhou**,Nici Zimmermann
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Policy design</div><img src='images/policydesign.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  [Dynamics of short-term and long-term decision-making in English housing associations: A study of using systems thinking to inform policy design (2022)](https://pdf.sciencedirectassets.com/778413/1-s2.0-S2193943821X00039/1-s2.0-S2193943822000061/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDJz9Y4d4n2RwAg%2FoIsQBb7ODwfaNeT6bkXFmE1PxAaIAIhALc5fpd1K6zxcbd12lcOC9DtsW1E2fvrhBiVqa%2FEwYxXKrMFCHYQBRoMMDU5MDAzNTQ2ODY1IgzlY5S%2BKealsGk8L50qkAUAHSB%2FJ%2BpxOzfEQ0e%2BikFWTQl9x4jk%2BZuJdMfwdrnfsXcpsIk3q69JWwFgD9prWuZNwUlZMK3FTR%2FQ2U8zHXOHnysUYYpqNvA9ZeS2i%2BmWcIdEnYdaqrsZQX%2BiI9dq3Mqy9Oi4v%2Bl5UKi58GndCap6tziVq1nGdTspfcwpioAwn66EPw6c0doXylBiRi6dguPPKZJ47lUrpp6FXcmhn03%2FkwlQe0hvAmmqzRP1pfD3VZ8E%2BdJF8Mi2q7tD%2B1mF2w9wg7LuxZjJPna9MXF2Jh5TPo5vkIlY1A%2BcuNeKR1aBT1kWfQwsHNHe1dFRfIENDnYXdOPpPo9%2BPU4WnP2WSMvlvli7MRuz1b%2BjzfEXOp64M8mGzq0iMzh1LdkUgNZAWeKkU%2BYZ5rbIcKNQsgL96o5%2FzrxdNBvXEuxfihBFhXWzRlb9sUk7t2B%2FML1SFGfzkSF1BMaSxd9QEEzN0%2BtNpLwP%2F%2B6PiSyhMyG1nAoj4empe3VQcWR%2Bqt8quP0DjC2kG94Oz4%2BtcAT9WQVpLs8lVDaJxJAEdc1PiJHMAdlVDxvuECmTlo1h8v%2BTn9Tyu4Akqi889vblWSHpPElQ88w6nY2JG1AktYCXXMr8oukU%2Fc9zsdQ5zQF9BBepKAUIcmfLQOeY0BqHVWFS5veM4IcEkiLbDjIg5gI%2BuBHQ%2FZBJSqhHnbIxVFQtcPRTHcOD%2FDMVvQ%2B%2FaUcGoF%2F7W37pp%2BaD3ucqfwkG8bTtEuVJcWuxuDxb5i4aoh9BO5yUDoWcIkQmQDAamXXnO0XltZYfVdeWHpkzMMcqMHsY2VcffPO1gEs%2FfTEFAk4oRME5x3eF3Envcl9tKgMKsh1QlBpA3ZrAizr9ah9BmcOooeWGVZJBhdQVQjDYoqfBBjqwAdHhkENwtOhyEVMZ3JPTOTPRQ8ZEEAKRXeRjKdhzmq5syBqEItS%2BUgsP%2B8WzD%2FvRhqhSi1W0llNMU0VqULJccqmP5RYIEPedt8vSLYyL2LGp3N3seW4AFhGrjLOgJ7Wa7et2hmzMreT%2Fwa88fIu8sefL8LFiEwIM%2BsG1bP82y9oarra8XcK0CxlUA5%2BbFy9PxHJmc0OvYyR9vq9WWlmO7Rzwv7BeeGCm4oC1t4QL2HU%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250518T133717Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWQLIXJBL%2F20250518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=44ff143f7276ab3af4ee56bc15555b1d38b2ea2242fad9af410fe28909ace3f7&hash=7ed310b8a3ff6e6c5bf36f5e2d563cd2f2f9540cb7e5b73f96775293ab330472&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2193943822000061&tid=spdf-d2126dd2-0716-488a-8f76-c25f234b40e5&sid=5862022f7a7754495c3b2174d514aa3cd235gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d075c54550601075f53&rr=941bbf935fa6bd42&cc=gb)
+  [Dynamics of short-term and long-term decision-making in English housing associations: A study of using systems thinking to inform policy design (2022)](https://pdf.sciencedirectassets.com/778413/1-s2.0-S2193943821X00039/1-s2.0-S2193943822000061/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDJz9Y4d4n2RwAg%2FoIsQBb7ODwfaNeT6bkXFmE1PxAaIAIhALc5fpd1K6zxcbd12lcOC9DtsW1E2fvrhBiVqa%2FEwYxXKrMFCHYQBRoMMDU5MDAzNTQ2ODY1IgzlY5S%2BKealsGk8L50qkAUAHSB%2FJ%2BpxOzfEQ0e%2BikFWTQl9x4jk%2BZuJdMfwdrnfsXcpsIk3q69JWwFgD9prWuZNwUlZMK3FTR%2FQ2U8zHXOHnysUYYpqNvA9ZeS2i%2BmWcIdEnYdaqrsZQX%2BiI9dq3Mqy9Oi4v%2Bl5UKi58GndCap6tziVq1nGdTspfcwpioAwn66EPw6c0doXylBiRi6dguPPKZJ47lUrpp6FXcmhn03%2FkwlQe0hvAmmqzRP1pfD3VZ8E%2BdJF8Mi2q7tD%2B1mF2w9wg7LuxZjJPna9MXF2Jh5TPo5vkIlY1A%2BcuNeKR1aBT1kWfQwsHNHe1dFRfIENDnYXdOPpPo9%2BPU4WnP2WSMvlvli7MRuz1b%2BjzfEXOp64M8mGzq0iMzh1LdkUgNZAWeKkU%2BYZ5rbIcKNQsgL96o5%2FzrxdNBvXEuxfihBFhXWzRlb9sUk7t2B%2FML1SFGfzkSF1BMaSxd9QEEzN0%2BtNpLwP%2F%2B6PiSyhMyG1nAoj4empe3VQcWR%2Bqt8quP0DjC2kG94Oz4%2BtcAT9WQVpLs8lVDaJxJAEdc1PiJHMAdlVDxvuECmTlo1h8v%2BTn9Tyu4Akqi889vblWSHpPElQ88w6nY2JG1AktYCXXMr8oukU%2Fc9zsdQ5zQF9BBepKAUIcmfLQOeY0BqHVWFS5veM4IcEkiLbDjIg5gI%2BuBHQ%2FZBJSqhHnbIxVFQtcPRTHcOD%2FDMVvQ%2B%2FaUcGoF%2F7W37pp%2BaD3ucqfwkG8bTtEuVJcWuxuDxb5i4aoh9BO5yUDoWcIkQmQDAamXXnO0XltZYfVdeWHpkzMMcqMHsY2VcffPO1gEs%2FfTEFAk4oRME5x3eF3Envcl9tKgMKsh1QlBpA3ZrAizr9ah9BmcOooeWGVZJBhdQVQjDYoqfBBjqwAdHhkENwtOhyEVMZ3JPTOTPRQ8ZEEAKRXeRjKdhzmq5syBqEItS%2BUgsP%2B8WzD%2FvRhqhSi1W0llNMU0VqULJccqmP5RYIEPedt8vSLYyL2LGp3N3seW4AFhGrjLOgJ7Wa7et2hmzMreT%2Fwa88fIu8sefL8LFiEwIM%2BsG1bP82y9oarra8XcK0CxlUA5%2BbFy9PxHJmc0OvYyR9vq9WWlmO7Rzwv7BeeGCm4oC1t4QL2HU%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250518T133717Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWQLIXJBL%2F20250518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=44ff143f7276ab3af4ee56bc15555b1d38b2ea2242fad9af410fe28909ace3f7&hash=7ed310b8a3ff6e6c5bf36f5e2d563cd2f2f9540cb7e5b73f96775293ab330472&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2193943822000061&tid=spdf-d2126dd2-0716-488a-8f76-c25f234b40e5&sid=5862022f7a7754495c3b2174d514aa3cd235gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d075c54550601075f53&rr=941bbf935fa6bd42&cc=gb) 
  **Ke Zhou**, Nici Zimmermann, Elanor Warwick, Helen Pineo, Marcella Ucci, Michael Davies
   [**Blog: Six steps of the systems thinking approach in policy design and why it matters?**](https://sphr.nihr.ac.uk/news-and-events/training/six-steps-of-the-systems-thinking-approach-in-policy-design-and-why-it-matters/)) 
  </div>
@@ -95,24 +95,80 @@ Irene Pluchinotta, **Ke Zhou**,Nici Zimmermann
 - *2011.08 - 2015.05*, Bachelor of Arts. Sichuan International Studies University. China.   
 
 # 💬 Invited Talks
-- *forthcoming*, **Ke Zhou**, Advancing a Healthy and Sustainable Net Zero UK: Cross-Sectoral
-Insights from Buildings, Energy, Transport, and Food UK Operational Research Seminars.
 
-- *2025.07*, **Ke Zhou**, *Showcasing System Dynamics Interventions in Environmental Research*. Part of the webinar series celebrating 60 years of Environmental Design and Engineering at The Bartlett, UCL's Faculty of the Built Environment.
+## 📅 *forthcoming* – Advancing a Healthy and Sustainable Net Zero UK: Cross-Sectoral Insights from Buildings, Energy, Transport, and Food.  
+**Ke Zhou** 
+UK Operational Research Seminars.
 
-## Check out the Recording (14:38–29:20)
+## 📅 *2025.07* – *Showcasing System Dynamics Interventions in Environmental Research*  
+**Ke Zhou** 
+Part of the webinar series celebrating 60 years of Environmental Design and Engineering at The Bartlett, UCL's Faculty of the Built Environment.
+### Highlights
+- Provides an overview and key learnings from multiple large-scale projects:  
+  - [VENTURA: Virtual Decision Rooms for Water Neutral Urban Planning](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura)  
+  - [CUSSH: Complex Urban Systems for Sustainability and Health](https://www.ucl.ac.uk/complex-urban-systems/)  
+  - [PAICE: Policy and Implementation for Climate & Health Equity](https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice)
+  - [CAMELLIA: Community Water Management for a Liveable London] (https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia) 
+- Reflects on interventions and explores how to identify **fit-for-purpose tools** for different decision-making contexts.
+### 🎥 Recording
+<div style="text-align: center;">
+  <iframe width="400" height="225" 
+    src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen></iframe>
+---
 
-- *2025.06*, **Ke Zhou**, Environmental Neutrality and Policy Engagement Through Models and Dialogue. UCL Bartlett Research and Impact Policy Spotlight.
-<img src="images/IMG_0701.jpeg" alt="">
-- *2025.03*, **Ke Zhou**, Seeing the Forest: Integrating Decision-Making and Policy Design in Systems. UK Systems Evaluation Networks Seminar.
-- *2025*, Francesco Aletta and **Ke Zhou**, Exploring the Relationships between Soundscape Quality and Public Health using a Systems Thinking Approach. UCL Institute for Environmental Design and Engineering Seminar.
-- *2024.11*, Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann. Modeling with Soft Variables and Limited Data. International System Dynamics Society Seminar Series\| [\[video\]](https://www.youtube.com/watch?v=38CoKifnWnI&t=1s)
+## 📅 *2025.06* – Environmental Neutrality and Policy Engagement Through Models and Dialogue  
+**Ke Zhou**  
+UCL Bartlett Research and Impact Policy Spotlight.
+
+### Highlights
+- A variety of systems tools are being applied, notably **systems mapping** (e.g., causal loop diagrams) to support agenda setting and goal formulation.  
+- The evaluation of these tools remains limited; moreover, they are sometimes described as “discomforting” due to the complexity involved and the high level of stakeholder engagement required.  
+- There are significant opportunities for **quantitative simulation models**, but these must be designed interactively to facilitate meaningful engagement, particularly during early policy cycles.  
+
+🔗 [Related LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7341429047572221952/)
+
+<div style="text-align: center;">
+  <img src="images/IMG_0701.jpeg" alt="Environmental Neutrality Talk" width="400">
+</div>
+
+---
+
+## 📅 *2025.03* – Seeing the Forest: Integrating Decision-Making and Policy Design in Systems  
+**Ke Zhou**  
+UK Systems Evaluation Networks Seminar.
+
+## 📅 *2025* – Exploring the Relationships between Soundscape Quality and Public Health  
+**Francesco Aletta** and **Ke Zhou**  
+UCL Institute for Environmental Design and Engineering Seminar.
+
+### Highlights
+- Investigates soundscapes and public health through a systems thinking lens.  
+- Explores public health implications of environmental design.  
+🔗 [Recording] (https://www.youtube.com/watch?v=zPvQgWhKn_8&t=15s) 
+---
+
+## 📅 *2024.11* – Modeling with Soft Variables and Limited Data  
+**Irene Pluchinotta, Ke Zhou, Nici Zimmermann**  
+International System Dynamics Society Seminar Series.
+
+### Highlights
+- Presents techniques for modeling qualitative variables in systems.  
+- Discusses practical applications in the case study.  
+
+### 🎥 Recording
+<div style="text-align: center;">
+  <iframe width="400" height="225" 
+    src="https://www.youtube.com/embed/38CoKifnWnI?start=1" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
+---
 
 # 💻 Teaching (selected)
 - *2025.01-2025.03*, For the Module [Systems Thinking and Participatory Approaches for Sustainability](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162), a brand new undergraudate module in IEDE led by Dr. Irene Pluchinotta as part of the [BSc Programme](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2), I have contributed to following classes including designing and delivering the teaching: *Trans-disciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping Made Easy: Strategies, Examples, and Software*. University College London, UK.
