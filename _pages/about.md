@@ -139,7 +139,7 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 - *2018-2023* National Institute for Health and Care Research Scholarship(£100,000).
 - *2015 – 2017* Washington University in St. Louis. Scholarship.
 
-# Educations
+# Education
 - *2018.09-2023.03*, PhD in Urban Environment Decision-Making, **no correction**, University College London. UK. 
 - *2015.08 - 2017.08*, Master of Social Work, Specialization in System Dynamics Modeling, Washington University in St. Louis. USA.
 - *2011.08 - 2015.05*, Bachelor of Arts. Sichuan International Studies University. China.   
