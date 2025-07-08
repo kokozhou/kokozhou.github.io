@@ -107,3 +107,39 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Google Fonts: add these to your site <head> (HTML) */
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700,600&display=swap');
+
+/* Body text */
+body {
+  font-family: 'Lato', Arial, sans-serif;
+  font-weight: 400;
+  color: #222;
+  background: #fafbfc;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 600;
+  color: #00369f;
+}
+
+/* Links */
+a {
+  color: #2255a3;
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+a:hover, a:focus {
+  color: #00369f;
+}
+
+/* Card/box styling */
+.paper-box, .card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
