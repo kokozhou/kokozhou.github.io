@@ -171,32 +171,31 @@ a:hover, a:focus {
 .about-box {
   background: #343a45;
   color: #fff;
-  padding: 1.1em 1.2em 1em 1.2em;  /* less padding */
-  border-radius: 8px;
-  margin-bottom: 1.2em;             /* less margin below */
-  text-align: left;
+  padding: 1em 1.2em;
+  border-radius: 12px;
+  margin-bottom: 1.2em;
+  font-family: 'Raleway', Arial, sans-serif;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
 }
 
 .about-box h1 {
   color: #fff;
+  font-size: 1.25em;
   font-weight: 700;
-  font-size: 1.3em;                 /* smaller title */
-  margin-top: 0;
-  margin-bottom: 0.18em;
-  text-decoration: underline;
-  text-underline-offset: 0.1em;
+  margin-bottom: 0.15em;
+  letter-spacing: 0.01em;
 }
+
 .about-box h2, .about-box h3 {
-  color: #fff;
+  color: #cfd5de;
+  font-size: 1em;
   font-weight: 600;
-  font-size: 1.06em;                /* smaller subtitle */
-  margin-top: 0;
-  margin-bottom: 0.18em;
-  text-decoration: none;             /* optional: remove underline for h2/h3 */
+  margin-bottom: 0.15em;
+  text-decoration: none;
 }
 .about-box p {
   color: #f7f8fa;
-  font-size: 1em;
+  font-size: 0.97em;
   margin-bottom: 0.3em;
 }
 
