@@ -147,8 +147,6 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 
 # Invited Talks
 
-## Invited Talks
-
 <div class="paper-box">
   <h3>Forthcoming – Advancing a Healthy and Sustainable Net Zero UK</h3>
   <div><strong>Ke Zhou</strong></div>
