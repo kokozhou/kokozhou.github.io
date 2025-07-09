@@ -211,22 +211,21 @@ a:hover, a:focus {
 }
 
 .paper-box .media-center {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   margin-top: 1.2em;
   width: 100%;
-  display: block;
 }
 
 .paper-box .media-center iframe {
   width: 100%;
-  max-width: 480px;     /* Change as you like */
-  aspect-ratio: 16 / 9; /* Makes it always the right ratio */
+  max-width: 480px;
+  aspect-ratio: 16 / 9;
   min-height: 220px;
   border-radius: 7px;
   box-shadow: 0 2px 8px rgba(52,58,69,0.08);
-  margin: auto;
-  display: block;
   background: #000;
+  /* No need for margin or display here */
 }
 
 @media (max-width: 700px) {
@@ -241,3 +240,4 @@ a:hover, a:focus {
     min-height: 170px;
   }
 }
+
