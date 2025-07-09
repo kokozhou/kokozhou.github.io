@@ -32,8 +32,7 @@ I am a systems scientist specializing in sustainable urban decision-making, with
 Ke Zhou, Pepe Puchol-Salort, Irene Pluchinotta, Darren Beriro, Ana Mijic, Nici Zimmermann  
 [Project Details & Highlights &rarr;](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura)
   <ul>
-    <li>Defines water neutrality as offsetting and counteracting environmental impacts.</li>
-    <li>Utilizes participatory system dynamics and causal loop diagrams for governance mapping.</li>
+    <li> Defines water neutrality as offsetting and counteracting environmental impacts.</li>
     <li>Highlights the importance of proactive versus reactive governance loops.</li>
     <li>Shows how aligning time, boundaries, and feedback improves decision integration.</li>
   </ul>
@@ -157,17 +156,16 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 <div class="paper-box">
   <h3>2025.07 – Showcasing System Dynamics Interventions in Environmental Research</h3>
   <div class="talk-meta"><span class="speaker">Ke Zhou</span> &middot; Webinar Series, The Bartlett, UCL</div>
-  <ul>
-    <li>Overview and key learnings from:
-      <ul>
-        <li><a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura">VENTURA</a></li>
-        <li><a href="https://www.ucl.ac.uk/complex-urban-systems/">CUSSH</a></li>
-        <li><a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice">PAICE</a></li>
-        <li><a href="https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia">CAMELLIA</a></li>
-      </ul>
-    </li>
-    <li>Reflections on interventions and identifying fit-for-purpose tools for decision-making.</li>
-  </ul>
+  <p>
+    <strong>Overview and key learnings from projects include:</strong>
+    <a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura">VENTURA</a>,
+    <a href="https://www.ucl.ac.uk/complex-urban-systems/">CUSSH</a>,
+    <a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice">PAICE</a>,
+    <a href="https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia">CAMELLIA</a>
+  </p>
+  <p>
+    <strong>Reflections on interventions:</strong> Identifying fit-for-purpose tools for decision-making.
+  </p>
   <div class="media-center">
     <iframe src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760&autoplay=0&controls=1"
       frameborder="0" allowfullscreen
