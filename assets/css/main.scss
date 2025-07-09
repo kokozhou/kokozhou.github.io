@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6,
 .about-box h1, .about-box h2 {
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 500;
-  color: #343A45;
+  color: #000000;
 }
 
 h1 {
@@ -148,12 +148,12 @@ h3 {
 
 /* Links */
 a {
-  color: #2255a3;
+  color: #000000;
   text-decoration: underline;
   transition: color 0.2s;
 }
 a:hover, a:focus {
-  color: #00369f;
+  color: #77D67D;
 }
 
 .about-box {
