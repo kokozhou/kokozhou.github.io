@@ -149,7 +149,7 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
   <h3>Forthcoming – Advancing a Healthy and Sustainable Net Zero UK</h3>
   <div class="talk-meta"><span class="speaker">Ke Zhou</span> &middot; UK Operational Research Seminars</div>
   <ul>
-    <li>Cross-sectoral insights from buildings, energy, transport, and food.</li>
+    <li> Cross-sectoral insights from buildings, energy, transport, and food.</li>
   </ul>
 </div>
 
@@ -165,7 +165,7 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
     <a href="https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia">CAMELLIA</a>
   </li>
   <li>
-    <strong>Reflections on interventions:</strong> Identifying fit-for-purpose tools for decision-making.
+    Reflections on interventions:</strong> Identifying fit-for-purpose tools for decision-making.
   </li>
 </ul>
   <div class="media-center">
@@ -180,8 +180,8 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
   <h3>2025.06 – Environmental Neutrality and Policy Engagement Through Models and Dialogue</h3>
   <div class="talk-meta"><span class="speaker">Ke Zhou</span> &middot; UCL Bartlett Research and Impact Policy Spotlight</div>
   <ul>
-    <li>Application of systems tools (notably systems mapping and causal loop diagrams) to agenda setting and goal formulation.</li>
-    <li>Evaluation of these tools is limited; some are described as “discomforting” due to their complexity and high engagement requirements.</li>
+    <li> Application of systems tools (notably systems mapping and causal loop diagrams) to agenda setting and goal formulation.</li>
+    <li> Evaluation of these tools is limited; some are described as “discomforting” due to their complexity and high engagement requirements.</li>
     <li>Opportunities for quantitative simulation models if designed to foster early stakeholder engagement.</li>
   </ul>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7341429047572221952/" target="_blank">Read LinkedIn post</a>
@@ -199,8 +199,8 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
   <h3>2025 – Exploring the Relationships between Soundscape Quality and Public Health</h3>
   <div class="talk-meta"><span class="speaker">Francesco Aletta and Ke Zhou</span> &middot; UCL Institute for Environmental Design and Engineering Seminar</div>
   <ul>
-    <li>Analysis of soundscapes and public health using systems thinking.</li>
-    <li>Implications for urban environmental design.</li>
+    <li> Analysis of soundscapes and public health using systems thinking.</li>
+    <li> Implications for urban environmental design.</li>
   </ul>
   <a href="https://www.youtube.com/watch?v=zPvQgWhKn_8&t=15s" target="_blank">Watch Recording</a>
 </div>
@@ -209,8 +209,8 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
   <h3>2024.11 – Modeling with Soft Variables and Limited Data</h3>
   <div class="talk-meta"><span class="speaker">Irene Pluchinotta, Ke Zhou, Nici Zimmermann</span> &middot; International System Dynamics Society Seminar Series</div>
   <ul>
-    <li>Innovative techniques for modeling qualitative variables within complex systems.</li>
-    <li>Practical applications and lessons from real-world case studies.</li>
+    <li> Innovative techniques for modeling qualitative variables within complex systems.</li>
+    <li> Practical applications and lessons from real-world case studies.</li>
   </ul>
   <div class="media-center">
     <iframe width="400" height="225" src="https://www.youtube.com/embed/38CoKifnWnI?start=1" frameborder="0" allowfullscreen></iframe>
