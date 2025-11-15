@@ -33,8 +33,8 @@ Ke Zhou, Pepe Puchol-Salort, Irene Pluchinotta, Darren Beriro, Ana Mijic, Nici Z
 [Project Details & Highlights &rarr;](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura)
   <ul>
     <li> Defines water neutrality as offsetting and counteracting environmental impacts.</li>
-    <li>Highlights the importance of proactive versus reactive governance loops.</li>
-    <li>Shows how aligning time, boundaries, and feedback improves decision integration.</li>
+    <li> Highlights the importance of proactive versus reactive governance loops.</li>
+    <li> Shows how aligning time, boundaries, and feedback improves decision integration.</li>
   </ul>
   </div>
 </div>
@@ -126,6 +126,12 @@ Ke Zhou, Mengru Zhang
 </div>
 
 <div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Model: Resilience</div>
+      <img src="images/socialhousing.png" alt="housing" width="100%">
+    </div>
+  </div>
   <div class="paper-box-text" markdown="1">
 **[Systemic issues in the English social housing sector: mapping interconnected challenges faced by London-based housing associations (2025)](https://www.tandfonline.com/doi/pdf/10.1080/02673037.2025.2467093)**
 <br>
@@ -146,7 +152,12 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 
 # Invited Talks
 <div class="paper-box">
-  <h3>Forthcoming – Advancing a Healthy and Sustainable Net Zero UK</h3>
+  <h3> upcoming – Advancing Sustainability through Participatory Systems Thinking: From Urban Regeneration to Net Zero </h3>
+  <div class="talk-meta"><span class="speaker">Dr Irene Pluchinotta and Dr Ke Zhou</span> &middot; KCL Net Zero </div>
+</div>
+
+<div class="paper-box">
+  <h3>2025.10 – Healthy and Sustainable Net Zero UK</h3>
   <div class="talk-meta"><span class="speaker">Ke Zhou</span> &middot; UK Operational Research Seminars</div>
   <ul>
     <li> Cross-sectoral insights from buildings, energy, transport, and food.</li>
