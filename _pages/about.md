@@ -157,14 +157,15 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
   <li>Equity applies to both adaptation and mitigation — including supporting low-income groups to adopt low-carbon technologies.</li>
   <li>Systems tools like causal loop diagrams can influence local policy; simulation modeling as next steps for data-driven decisions.</li>
 </ul>
-<a href="https://www.linkedin.com/posts/ke-koko-zhou_netzerocentre-netzero-sustainablecities-activity-7400139974148476928-78WW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtep-MB152oyXzBySrND9z30kw5xFroTZY" target="_blank">Read LinkedIn post</a>
-<a href="https://www.kcl.ac.uk/events/advancing-sustainability-through-participatory-systems-thinking-from-urban-regeneration-to-net-zero-1" target="_blank">View event details</a>
+<li> <a href="https://www.linkedin.com/posts/ke-koko-zhou_netzerocentre-netzero-sustainablecities-activity-7400139974148476928-78WW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtep-MB152oyXzBySrND9z30kw5xFroTZY" target="_blank">Read LinkedIn post</a></div>
+<li> <a href="https://www.kcl.ac.uk/events/advancing-sustainability-through-participatory-systems-thinking-from-urban-regeneration-to-net-zero-1" target="_blank">View event details</a></div>
 </div>
 
 <div class="paper-box">
   <h3>2025.10 – Healthy and Sustainable Net Zero UK</h3>
   <div class="talk-meta"><span class="speaker">Ke Zhou</span> &middot; UK Operational Research Seminars</div>
   <ul>
+    <li> Net Zero policies in the UK and equity.</li>
     <li> Cross-sectoral insights from buildings, energy, transport, and food.</li>
   </ul>
 </div>
