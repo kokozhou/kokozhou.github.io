@@ -158,6 +158,8 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 </ul>
 <a href="https://www.linkedin.com/posts/ke-koko-zhou_netzerocentre-netzero-sustainablecities-activity-7400139974148476928-78WW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtep-MB152oyXzBySrND9z30kw5xFroTZY" target="_blank">Read LinkedIn post</a>
 <a href="https://www.kcl.ac.uk/events/advancing-sustainability-through-participatory-systems-thinking-from-urban-regeneration-to-net-zero-1" target="_blank"> View event details</a>
+</div>
+
 
 <div class="paper-box">
   <h3>2025.10 – Healthy and Sustainable Net Zero UK</h3>
