@@ -11,12 +11,10 @@ redirect_from:
 
 <div class="about-box">
   <p>
-I am a systems scientist specializing in sustainable urban decision-making, with a focus on integrating systems thinking into strategy, management, and public policy. I use systems methods as problem structuring methods. My work spans environmental issues, including social housing, urban regeneration, water neutrality, climate change mitigation and adaptation, and health equity. I collaborate widely with experts in environmental engineering, public health, policy, and management to engage decision-makers and policymakers in achieving healthy and sustainable outcomes. Currently, I work as a researcher at University College London, and have authored over ten publications in leading environmental, health, and management journals.  
-  </p>
+I research how organisations and policymakers make decisions about environmental sustainability. My work investigates how decision-makers navigate competing demands: short-term pressures versus long-term goals, economic objectives versus social responsibilities, and diverse stakeholder interests and system perceptions. Current projects address net-zero transitions, regeneration, water governance, and health equity in urban contexts.
+I combine participatory systems approaches with quantitative social science methods, including network analysis and simualtion modeling to both study and support decision-making, working with partners including the Greater London Authority, Climate Change Committee, Department for Energy Security and Net Zero, and housing associations in the UK.
+I am a Senior Research Fellow at University College London, where I also teach sustainability governance and urban decision-making. I have published over ten articles in journals spanning management, environmental, and policy fields, including Organization & Environment, Housing Studies, and Journal of Cleaner Production.  </p>
 </div>
-
-# News
-- *2025.05*: &nbsp;🎉🎉 Awarded UCL Positive Futures Interdisciplinary grant. 
 
 # Publications 
 <div class="paper-box">
@@ -146,14 +144,21 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 - *2015 – 2017* Washington University in St. Louis. Scholarship.
 
 # Education
-- *2018.09-2023.03*, PhD in Urban Environment Decision-Making, **no correction**, University College London. UK. 
+- *2018.09 - 2023.03*, PhD in Urban Environment Decision-Making, **no correction**, University College London. UK. 
 - *2015.08 - 2017.08*, Master of Social Work, Specialization in System Dynamics Modeling, Washington University in St. Louis. USA.
 - *2011.08 - 2015.05*, Bachelor of Arts. Sichuan International Studies University. China.   
 
 # Invited Talks
 <div class="paper-box">
-  <h3> upcoming – Advancing Sustainability through Participatory Systems Thinking: From Urban Regeneration to Net Zero </h3>
-  <div class="talk-meta"><span class="speaker">Dr Irene Pluchinotta and Dr Ke Zhou</span> &middot; KCL Net Zero </div>
+  <h3> 2025.11 Advancing Sustainability through Participatory Systems Thinking: From Urban Regeneration to Net Zero </h3>
+  <div class="talk-meta"><span class="speaker">Dr Irene Pluchinotta and Dr Ke Zhou</span> &middot; King's College London Net Zero Interdisciplinary Seminar Series</div>
+<ul>
+  <li>Urban regeneration and net zero share similar complexities — both span energy, transport, and housing, requiring cross-sector collaboration.</li>
+  <li>Equity applies to both adaptation and mitigation — including supporting low-income groups to adopt low-carbon technologies.</li>
+  <li>Systems tools like causal loop diagrams can influence local policy; simulation modeling as next steps for data-driven decisions.</li>
+</ul>
+<a href="https://www.linkedin.com/posts/ke-koko-zhou_netzerocentre-netzero-sustainablecities-activity-7400139974148476928-78WW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtep-MB152oyXzBySrND9z30kw5xFroTZY" target="_blank">Read LinkedIn post</a>
+<a href="https://www.kcl.ac.uk/events/advancing-sustainability-through-participatory-systems-thinking-from-urban-regeneration-to-net-zero-1" target="_blank">View event details</a>
 </div>
 
 <div class="paper-box">
@@ -176,7 +181,7 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
     <a href="https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia">CAMELLIA</a>
   </li>
   <li>
-    Reflections on interventions:</strong> Identifying fit-for-purpose tools for decision-making.
+    Reflections on interventions: Identifying fit-for-purpose tools for decision-making.
   </li>
 </ul>
   <div class="media-center">
