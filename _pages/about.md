@@ -233,11 +233,12 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, Ke Zhou, Michael Davies
 </div>
 
 # Teaching
-- *2025.01-2025.03*, For the Module [Systems Thinking and Participatory Approaches for Sustainability](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162), a brand new undergraudate module in IEDE led by Dr. Irene Pluchinotta as part of the [BSc Programme](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2), I have contributed to following classes including designing and delivering the teaching: *Trans-disciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping Made Easy: Strategies, Examples, and Software*. University College London, UK.
-- *2025.03*, I designed and instructed class *Climate Change Adaptation, Mitigation, and Health* as part of the [Healthy Cities: Theory and Action (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056) led by Dr. Gemma Moore. Institute for Environmental Design and Engineering.
-- *2025.03* I co-developed and co-instructed the *Case Studies of Digital Tools in Action* as part of the Digital
-Innovation Built Asset Management course (Dr. Andrew Mitchell) at the Bartlett School of Sustainable
-Construction. <img src="images/teaching.JPG" alt="">
-- *2025.03* I designed and collaboratively instructed *Constructing Causal Loop Diagrams from Texts* as part of the Systems Thinking and System Dynamics course (Prof. Nici Zimmermann) at the Institute for Environmental Design and Engineering.
-- *2024.11* I co-instructed *Energy, World and Climate Dynamics through Energy-Rapid Overview and
-Decision-Support* for course Sustainability Management (Dr Daniel Beunza) at Bayes management school.
+- *2025.01–2025.03:* Contributed to designing and delivering teaching for the module [Systems Thinking and Participatory Approaches for Sustainability (BENV0162)](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162), a new undergraduate module in IEDE (module lead: Dr. Irene Pluchinotta) as part of the [BSc Sustainable Built Environments, Energy and Resources](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2). Classes included: *Trans-disciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping Made Easy: Strategies, Examples, and Software*. University College London.
+
+- *2025.03:* Designed and instructed *Climate Change Adaptation, Mitigation, and Health* as part of [Healthy Cities: Theory and Action (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056) (module lead: Dr. Gemma Moore). Institute for Environmental Design and Engineering, UCL.
+
+- *2025.03:* Co-developed and co-instructed *Case Studies of Digital Tools in Action* as part of the Digital Innovation Built Asset Management course (module lead: Dr. Andrew Mitchell). Bartlett School of Sustainable Construction, UCL. ![](images/teaching.JPG)
+
+- *2025.03:* Designed and collaboratively instructed *Constructing Causal Loop Diagrams from Texts* as part of the Systems Thinking and System Dynamics course (module lead:  Prof. Nici Zimmermann). Institute for Environmental Design and Engineering, UCL.
+
+- *2024.11:* Co-instructed *Energy, World and Climate Dynamics through Energy-Rapid Overview and Decision-Support* for Sustainability Management (module lead:  Dr. Daniel Beunza). Bayes Business School, City University of London.
