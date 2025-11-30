@@ -11,9 +11,8 @@ redirect_from:
 
 <div class="about-box">
   <p>
-I research how organisations and policymakers make decisions about environmental sustainability. My work investigates how decision-makers navigate competing demands: short-term pressures versus long-term goals, economic objectives versus social responsibilities, and diverse stakeholder interests and system perceptions. Current projects address net-zero transitions, regeneration, water governance, and health equity in urban contexts.
-I combine participatory systems approaches with quantitative social science methods, including network analysis and simualtion modeling to both study and support decision-making, working with partners including the Greater London Authority, Climate Change Committee, Department for Energy Security and Net Zero, and housing associations in the UK.
-I am a Senior Research Fellow at University College London, where I also teach sustainability governance and urban decision-making. I have published over ten articles in journals spanning management, environmental, and policy fields, including Organization & Environment, Housing Studies, and Journal of Cleaner Production.  </p>
+I research how organisations and policymakers make decisions about environmental sustainability, focusing on urban regeneration, net-zero transitions, and health equity. My work investigates how decision-makers navigate competing demands: short-term pressures versus long-term goals, economic objectives versus social responsibilities, and diverse stakeholder interests. I combine participatory systems approaches with quantitative social science methods—including network analysis—to both study and support decision-making, working with partners including the Department for Energy Security and Net Zero, Climate Change Committee, Greater London Authority, and housing associations in the UK.
+I am a Senior Research Fellow at University College London, and I teach sustainability governance and urban decision-making. I have published over ten articles in journals spanning management, environmental, and policy fields, including Organization & Environment, Housing Studies, and Journal of Cleaner Production. </p>
 </div>
 
 # Publications 
