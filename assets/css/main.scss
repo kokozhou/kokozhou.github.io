@@ -241,30 +241,58 @@ a:hover, a:focus {
 }
 
 /* ==========================================================================
-   FINAL POLISHED VERSION - CHIC & CLEAN
-   Consistent badges, clickable images, elegant hover effects
+   ULTIMATE FINAL VERSION - EXPERT DESIGN
+   Beautiful depth, working image zoom, sophisticated hierarchy
    ========================================================================== */
 
-/* Color Variables - Sophisticated Palette */
-$primary-color: #4A8B7D;          // Balanced teal-green
-$primary-hover: #3A6E62;          // Deeper teal
-$accent-color: #7B9E87;           // Sage green
-$accent-warm: #9B8B7E;            // Warm taupe
-$text-dark: #2A3B3C;              // Rich dark teal-grey
-$text-medium: #5A6B67;            // Muted green-grey
-$background: #F9FAF8;             // Subtle warm off-white
+/* Color Variables - Expert Palette with Depth */
+$primary-color: #4A8B7D;          
+$primary-hover: #3A6E62;          
+$accent-color: #7B9E87;           
+$accent-warm: #9B8B7E;            
+$text-dark: #2A3B3C;              
+$text-medium: #5A6B67;            
 
-/* Body - refined background */
+/* EXPERT BACKGROUND STRATEGY - Create Visual Depth */
+$background-main: #EDF2EE;         // Soft sage-tinted background
+$background-subtle: #F5F8F6;       // Slightly lighter for variation
+$paper-background: rgba(255, 255, 255, 0.85);  // Semi-transparent white
+
+/* Body - sophisticated layered background */
 body {
-  background: $background;
+  /* Subtle gradient background for depth */
+  background: linear-gradient(180deg, $background-main 0%, $background-subtle 100%);
+  background-attachment: fixed;
   color: $text-dark;
   font-family: 'Lato', Arial, sans-serif;
   font-weight: 400;
   font-size: 1.0em;
   line-height: 1.7;
+  min-height: 100vh;
 }
 
-/* Headings - cohesive palette */
+/* Optional: Add subtle texture pattern for premium feel */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(circle at 20% 50%, rgba(123, 158, 135, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(74, 139, 125, 0.03) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Ensure content sits above background */
+.page__content {
+  position: relative;
+  z-index: 1;
+}
+
+/* Headings */
 h1, h2, h3, h4, h5, h6,
 .paper-box h3, .card h3 {
   font-family: 'Raleway', Arial, sans-serif;
@@ -292,7 +320,7 @@ h3 {
   color: $text-dark;
 }
 
-/* Links - sophisticated teal */
+/* Links */
 a {
   color: $primary-color;
   text-decoration: none;
@@ -305,7 +333,7 @@ a:hover, a:focus {
   border-bottom-color: $accent-color;
 }
 
-/* Section headers - subtle sage accent */
+/* Section headers */
 .page__content {
   h1 {
     border-bottom: 3px solid $accent-color;
@@ -316,7 +344,7 @@ a:hover, a:focus {
   }
 }
 
-/* About box - refined forest green */
+/* About box - stands out beautifully */
 .about-box {
   background: linear-gradient(135deg, #3A5248 0%, #4A6356 100%);
   color: #fff;
@@ -324,8 +352,10 @@ a:hover, a:focus {
   border-radius: 14px;
   margin-bottom: 2em;
   font-family: 'Raleway', Arial, sans-serif;
-  box-shadow: 0 4px 20px rgba(58, 82, 72, 0.12);
+  box-shadow: 0 6px 25px rgba(58, 82, 72, 0.15);
   border-left: 4px solid $accent-color;
+  position: relative;
+  z-index: 2;
 }
 
 .about-box h1 {
@@ -333,7 +363,6 @@ a:hover, a:focus {
   font-size: 1.25em;
   font-weight: 600;
   margin-bottom: 0.2em;
-  letter-spacing: 0.01em;
 }
 
 .about-box h2, .about-box h3 {
@@ -341,22 +370,26 @@ a:hover, a:focus {
   font-size: 1em;
   font-weight: 500;
   margin-bottom: 0.2em;
-  text-decoration: none;
 }
 
 .about-box p {
   color: #F2F7F4;
   font-size: 0.98em;
   margin-bottom: 0.6em;
-  font-weight: 400;
   line-height: 1.75;
 }
 
-/* Paper boxes - clean hover effect */
+/* Paper boxes - EXPERT APPROACH: Semi-transparent with backdrop blur */
 .paper-box {
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 2px 10px rgba(58, 82, 72, 0.06);
+  /* Semi-transparent white - lets background show through subtly */
+  background: $paper-background;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  
+  border-radius: 14px;
+  box-shadow: 
+    0 2px 8px rgba(58, 82, 72, 0.08),
+    0 0 0 1px rgba(255, 255, 255, 0.5);
   border-left: 3px solid $accent-color;
   margin-bottom: 2.5em;
   padding: 1.8em 2em;
@@ -364,12 +397,16 @@ a:hover, a:focus {
   margin-left: auto;
   margin-right: auto;
   transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  z-index: 1;
   
   &:hover {
-    box-shadow: 0 8px 30px rgba(58, 82, 72, 0.12);
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 
+      0 8px 35px rgba(58, 82, 72, 0.12),
+      0 0 0 1px rgba(123, 158, 135, 0.3);
     transform: translateY(-3px);
     border-left-color: $primary-color;
-    background: #FAFCFB;
   }
 }
 
@@ -383,10 +420,7 @@ a:hover, a:focus {
   line-height: 1.3;
 }
 
-/* ==========================================================================
-   ISSUE 1: CONSISTENT BADGE COLORS - CLEAN & CHIC
-   ========================================================================== */
-
+/* Consistent badges */
 .badge {
   padding: 0.55em 1.2em;
   border-radius: 8px;
@@ -395,7 +429,6 @@ a:hover, a:focus {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: white;
-  /* CONSISTENT COLOR - All badges use primary teal */
   background: linear-gradient(135deg, $primary-color 0%, $primary-hover 100%);
   box-shadow: 0 2px 8px rgba(74, 139, 125, 0.25);
   margin-top: 0.3em;
@@ -405,7 +438,6 @@ a:hover, a:focus {
   border: 2px solid rgba(255, 255, 255, 0.3);
 }
 
-/* When hovering over the PAPER BOX, badge changes to accent color */
 .paper-box:hover .badge {
   background: linear-gradient(135deg, $accent-color 0%, #6B8A77 100%);
   box-shadow: 0 3px 12px rgba(123, 158, 135, 0.35);
@@ -413,13 +445,19 @@ a:hover, a:focus {
 }
 
 /* ==========================================================================
-   ISSUE 2: CLICKABLE IMAGES WITH ZOOM EFFECT
+   WORKING IMAGE ZOOM - Simple CSS-only solution
    ========================================================================== */
 
-/* Make images clickable and zoomable */
 .paper-box-image {
   position: relative;
-  cursor: pointer;
+  
+  a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    border-bottom: none !important;
+  }
   
   img {
     border-radius: 10px;
@@ -428,46 +466,43 @@ a:hover, a:focus {
     border: 3px solid rgba(123, 158, 135, 0.15);
     max-width: 400px;
     object-fit: cover;
-    cursor: zoom-in;
+    display: block;
     
     &:hover {
       box-shadow: 0 8px 35px rgba(58, 82, 72, 0.20);
-      transform: scale(1.03) translateY(-3px);
+      transform: scale(1.05);
       border-color: $accent-color;
     }
-    
-    &:active {
-      transform: scale(0.98);
-    }
-  }
-  
-  /* Add subtle indicator that image is clickable */
-  &::after {
-    content: '🔍';
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    background: rgba(74, 139, 125, 0.9);
-    color: white;
-    padding: 4px 8px;
-    border-radius: 6px;
-    font-size: 0.8em;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    pointer-events: none;
-  }
-  
-  &:hover::after {
-    opacity: 1;
   }
 }
 
-/* Simple lightbox effect when image is clicked */
-.paper-box-image img[data-action="zoom"] {
+/* When images are wrapped in links (for zoom functionality) */
+.paper-box-image a img {
   cursor: zoom-in;
 }
 
-/* Refined bullet lists */
+/* Zoom indicator */
+.paper-box-image a::after {
+  content: '🔍';
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  background: rgba(74, 139, 125, 0.95);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 0.85em;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.paper-box-image a:hover::after {
+  opacity: 1;
+}
+
+/* Bullet lists */
 .paper-box ul {
   margin-top: 1.2em;
   padding-left: 1.6em;
@@ -484,7 +519,7 @@ a:hover, a:focus {
   }
 }
 
-/* Talk metadata - subtle emphasis */
+/* Talk metadata */
 .talk-meta {
   color: $text-medium;
   font-size: 0.96em;
@@ -498,7 +533,7 @@ a:hover, a:focus {
   }
 }
 
-/* Media center - refined presentation */
+/* Media center */
 .media-center {
   margin: 2em 0;
   text-align: center;
@@ -513,7 +548,6 @@ a:hover, a:focus {
     height: auto;
     border: 3px solid rgba(123, 158, 135, 0.12);
     transition: all 0.3s ease;
-    cursor: zoom-in;
     
     &:hover {
       box-shadow: 0 6px 25px rgba(58, 82, 72, 0.16);
@@ -534,7 +568,7 @@ a:hover, a:focus {
   }
 }
 
-/* Paper-box text hierarchy */
+/* Paper-box text */
 .paper-box-text {
   h2, h3, h4 {
     margin-top: 0.6em;
@@ -552,14 +586,14 @@ a:hover, a:focus {
   }
 }
 
-/* Improved typography */
+/* Typography */
 p {
   color: $text-medium;
   line-height: 1.75;
   margin-bottom: 1em;
 }
 
-/* Refined link underlines */
+/* Link underlines */
 .page__content p a {
   border-bottom: 1px solid rgba(74, 139, 125, 0.3);
   
@@ -570,9 +604,14 @@ p {
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
+  body {
+    background: $background-main;
+  }
+  
   .paper-box {
     margin-bottom: 2em;
     padding: 1.3em 1.2em;
+    background: rgba(255, 255, 255, 0.9);
   }
   
   .about-box {
@@ -589,8 +628,7 @@ p {
     min-height: 180px;
   }
   
-  /* Hide zoom indicator on mobile */
-  .paper-box-image::after {
+  .paper-box-image a::after {
     display: none;
   }
 }
@@ -608,7 +646,7 @@ p {
   }
 }
 
-/* Subtle fade-in animation */
+/* Animations */
 @keyframes fadeInUp {
   from {
     opacity: 0;
@@ -631,7 +669,6 @@ a:focus, button:focus {
   border-radius: 2px;
 }
 
-/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
