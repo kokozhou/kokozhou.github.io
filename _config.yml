@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ke (Koko) Zhou"
-description              : "System Scientist in Urban Environment Decision Making."
+description              : "Environmental Sustainability | Urban Governance | Decision-Making"
 repository               : "kokozhou/kokozhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ke (Koko) Zhou"
+  name             : "Ke Zhou"
   avatar           : "images/KZ photo.jpg"
   bio              : "University College London"
   location         : "London, UK"
