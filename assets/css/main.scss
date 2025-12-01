@@ -225,7 +225,6 @@ a:hover, a:focus {
   border-radius: 7px;
   box-shadow: 0 2px 8px rgba(52,58,69,0.08);
   background: #000;
-  /* No need for margin or display here */
 }
 
 @media (max-width: 700px) {
@@ -242,29 +241,30 @@ a:hover, a:focus {
 }
 
 /* ==========================================================================
-   OPTION 1: WARM PROFESSIONAL PALETTE
-   Personal Website Enhancement - December 2024
+   REFINED SOPHISTICATED PALETTE
+   Balanced, professional, personal - December 2024
    ========================================================================== */
 
-/* Color Variables */
-$primary-color: #5B9A8B;
-$primary-hover: #3D7A6B;
-$accent-color: #D68B6C;
-$text-dark: #2C3E3A;
-$text-medium: #5A6B66;
-$background: #F8F9F7;
+/* Color Variables - Sophisticated & Cohesive */
+$primary-color: #4A8B7D;          // Balanced teal-green (professional + environmental)
+$primary-hover: #3A6E62;          // Deeper on hover
+$accent-color: #8B9D7C;           // Subtle sage green (not orange!)
+$accent-warm: #A89B7E;            // Warm taupe for variety
+$text-dark: #2A3B3C;              // Rich dark teal-grey
+$text-medium: #5A6B67;            // Muted green-grey
+$background: #F9FAF8;             // Subtle warm off-white
 
-/* Body - warmer background */
+/* Body - refined background */
 body {
   background: $background;
   color: $text-dark;
   font-family: 'Lato', Arial, sans-serif;
   font-weight: 400;
   font-size: 1.0em;
-  line-height: 1.65;
+  line-height: 1.7;
 }
 
-/* Headings - warm green instead of corporate blue */
+/* Headings - cohesive teal palette */
 h1, h2, h3, h4, h5, h6,
 .paper-box h3, .card h3 {
   font-family: 'Raleway', Arial, sans-serif;
@@ -275,54 +275,56 @@ h1 {
   color: $primary-color;
   font-weight: 600;
   font-size: 1.5em;
-  line-height: 1.1;
-  margin-bottom: 0.2em;
+  line-height: 1.2;
+  margin-bottom: 0.3em;
 }
 
 h2 {
   color: $primary-hover;
   font-size: 1.22em;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.3em;
+  font-weight: 500;
 }
 
 h3 {
   font-size: 1.08em;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.3em;
+  color: $text-dark;
 }
 
-/* Links - warm teal with personality */
+/* Links - sophisticated teal */
 a {
   color: $primary-color;
   text-decoration: none;
+  transition: all 0.25s ease;
   border-bottom: 1px solid transparent;
-  transition: all 0.2s ease;
 }
 
 a:hover, a:focus {
   color: $primary-hover;
-  border-bottom-color: $primary-hover;
+  border-bottom-color: $accent-color;
 }
 
-/* Enhanced section headers with warm accent */
+/* Section headers - subtle sage accent line */
 .page__content {
   h1 {
     border-bottom: 3px solid $accent-color;
-    padding-bottom: 0.4em;
-    margin-bottom: 1.2em;
-    margin-top: 1.8em;
+    padding-bottom: 0.5em;
+    margin-bottom: 1.3em;
+    margin-top: 2em;
     color: $primary-color;
   }
 }
 
-/* About box - warm forest green instead of grey */
+/* About box - refined forest green */
 .about-box {
-  background: linear-gradient(135deg, #3D5A4F 0%, #4A6B5E 100%);
+  background: linear-gradient(135deg, #3A5248 0%, #4A6356 100%);
   color: #fff;
-  padding: 1.5em 1.5em;
-  border-radius: 12px;
-  margin-bottom: 1.8em;
+  padding: 1.6em 1.8em;
+  border-radius: 14px;
+  margin-bottom: 2em;
   font-family: 'Raleway', Arial, sans-serif;
-  box-shadow: 0 4px 20px rgba(61, 90, 79, 0.15);
+  box-shadow: 0 4px 20px rgba(58, 82, 72, 0.12);
   border-left: 4px solid $accent-color;
 }
 
@@ -330,114 +332,115 @@ a:hover, a:focus {
   color: #fff;
   font-size: 1.25em;
   font-weight: 600;
-  margin-bottom: 0.15em;
+  margin-bottom: 0.2em;
   letter-spacing: 0.01em;
 }
 
 .about-box h2, .about-box h3 {
-  color: #E8F0ED;
+  color: #E5EDE9;
   font-size: 1em;
-  font-weight: 600;
-  margin-bottom: 0.15em;
+  font-weight: 500;
+  margin-bottom: 0.2em;
   text-decoration: none;
 }
 
 .about-box p {
-  color: #F5FAF8;
-  font-size: 0.97em;
-  margin-bottom: 0.5em;
+  color: #F2F7F4;
+  font-size: 0.98em;
+  margin-bottom: 0.6em;
   font-weight: 400;
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
-/* Paper boxes - warmer, more inviting */
+/* Paper boxes - refined elegance */
 .paper-box {
   background: #fff;
   border-radius: 12px;
-  box-shadow: 0 2px 12px rgba(61, 90, 79, 0.06);
-  border-left: 3px solid $primary-color;
+  box-shadow: 0 2px 10px rgba(58, 82, 72, 0.06);
+  border-left: 3px solid $accent-color;
   margin-bottom: 2.5em;
-  padding: 1.8em;
+  padding: 1.8em 2em;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   transition: all 0.3s ease;
   
   &:hover {
-    box-shadow: 0 4px 24px rgba(61, 90, 79, 0.12);
-    transform: translateY(-3px);
-    border-left-color: $accent-color;
+    box-shadow: 0 6px 25px rgba(58, 82, 72, 0.1);
+    transform: translateY(-2px);
+    border-left-color: $primary-color;
   }
 }
 
 .paper-box h3 {
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 600;
-  font-size: 1.08em;
+  font-size: 1.12em;
   color: $primary-color;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.6em;
   margin-top: 0;
-  line-height: 1.2;
+  line-height: 1.3;
 }
 
-/* Enhanced badges - warm accent colors */
+/* Badges - sophisticated two-tone */
 .badge {
-  padding: 0.5em 1em;
+  padding: 0.5em 1.1em;
   border-radius: 6px;
   font-size: 0.75em;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.8px;
+  letter-spacing: 0.9px;
   color: white;
   background: linear-gradient(135deg, $primary-color 0%, $primary-hover 100%);
-  box-shadow: 0 2px 8px rgba(91, 154, 139, 0.25);
+  box-shadow: 0 2px 6px rgba(74, 139, 125, 0.2);
   margin-top: 0.3em;
   margin-left: -0.3em;
   position: absolute;
 }
 
-/* Alternating badge colors for visual variety */
-.paper-box:nth-child(2n) .badge {
-  background: linear-gradient(135deg, $accent-color 0%, #C77A5C 100%);
+/* Alternate badge style - subtle variety */
+.paper-box:nth-child(even) .badge {
+  background: linear-gradient(135deg, #6B8A7A 0%, #5A7869 100%);
 }
 
-/* Enhanced image treatment */
+/* Enhanced images - elegant borders */
 .paper-box-image img {
   border-radius: 10px;
-  box-shadow: 0 4px 20px rgba(61, 90, 79, 0.15);
+  box-shadow: 0 4px 18px rgba(58, 82, 72, 0.12);
   transition: all 0.3s ease;
-  border: 2px solid $background;
+  border: 3px solid rgba(139, 157, 124, 0.15);
   max-width: 400px;
   object-fit: cover;
   
   &:hover {
-    box-shadow: 0 8px 30px rgba(61, 90, 79, 0.25);
-    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(58, 82, 72, 0.18);
+    transform: translateY(-3px);
     border-color: $accent-color;
   }
 }
 
-/* Better bullet lists */
+/* Refined bullet lists */
 .paper-box ul {
-  margin-top: 1em;
-  padding-left: 1.5em;
+  margin-top: 1.2em;
+  padding-left: 1.6em;
   
   li {
-    margin-bottom: 0.6em;
-    line-height: 1.7;
+    margin-bottom: 0.7em;
+    line-height: 1.75;
     color: $text-medium;
     
     &::marker {
       color: $accent-color;
+      font-size: 0.9em;
     }
   }
 }
 
-/* Enhanced talk metadata */
+/* Talk metadata - subtle emphasis */
 .talk-meta {
   color: $text-medium;
-  font-size: 0.95em;
-  margin-bottom: 1.2em;
+  font-size: 0.96em;
+  margin-bottom: 1.3em;
   font-style: italic;
   
   .speaker {
@@ -447,9 +450,9 @@ a:hover, a:focus {
   }
 }
 
-/* Better media center */
+/* Media center - refined presentation */
 .media-center {
-  margin: 1.8em 0;
+  margin: 2em 0;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -457,13 +460,13 @@ a:hover, a:focus {
   
   img {
     border-radius: 10px;
-    box-shadow: 0 4px 20px rgba(61, 90, 79, 0.12);
+    box-shadow: 0 4px 18px rgba(58, 82, 72, 0.12);
     max-width: 100%;
     height: auto;
-    border: 3px solid $background;
+    border: 3px solid rgba(139, 157, 124, 0.12);
     
     &:hover {
-      box-shadow: 0 6px 25px rgba(61, 90, 79, 0.18);
+      box-shadow: 0 6px 25px rgba(58, 82, 72, 0.16);
       border-color: $accent-color;
     }
   }
@@ -474,21 +477,43 @@ a:hover, a:focus {
     aspect-ratio: 16 / 9;
     min-height: 220px;
     border-radius: 10px;
-    box-shadow: 0 4px 20px rgba(61, 90, 79, 0.15);
-    border: 2px solid $background;
+    box-shadow: 0 4px 18px rgba(58, 82, 72, 0.12);
+    border: 3px solid rgba(139, 157, 124, 0.12);
     background: #000;
   }
 }
 
-/* Improve paper-box text spacing */
+/* Paper-box text hierarchy */
 .paper-box-text {
   h2, h3, h4 {
-    margin-top: 0.5em;
+    margin-top: 0.6em;
     color: $primary-hover;
   }
   
   h3 {
     color: $primary-color;
+    font-weight: 600;
+  }
+  
+  p {
+    color: $text-medium;
+    line-height: 1.75;
+  }
+}
+
+/* Improved typography */
+p {
+  color: $text-medium;
+  line-height: 1.75;
+  margin-bottom: 1em;
+}
+
+/* Refined link underlines for body text */
+.page__content p a {
+  border-bottom: 1px solid rgba(74, 139, 125, 0.3);
+  
+  &:hover {
+    border-bottom-color: $primary-color;
   }
 }
 
@@ -496,30 +521,30 @@ a:hover, a:focus {
 @media (max-width: 768px) {
   .paper-box {
     margin-bottom: 2em;
-    padding: 1.2em;
+    padding: 1.3em 1.2em;
   }
   
   .about-box {
-    padding: 1.2em;
+    padding: 1.3em 1.3em;
   }
   
   .page__content h1 {
     font-size: 1.4em;
-    margin-top: 1.2em;
+    margin-top: 1.5em;
   }
   
   .media-center iframe {
     max-width: 100%;
-    min-height: 170px;
+    min-height: 180px;
   }
 }
 
 @media (max-width: 700px) {
   .paper-box {
-    padding: 1em 0.6em;
+    padding: 1em 0.8em;
   }
   .paper-box h3 {
-    font-size: 1.08em;
+    font-size: 1.06em;
   }
   .paper-box .media-center iframe {
     max-width: 100%;
@@ -527,11 +552,11 @@ a:hover, a:focus {
   }
 }
 
-/* Subtle fade-in animation for paper boxes */
+/* Subtle fade-in animation */
 @keyframes fadeInUp {
   from {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(15px);
   }
   to {
     opacity: 1;
@@ -540,22 +565,28 @@ a:hover, a:focus {
 }
 
 .paper-box {
-  animation: fadeInUp 0.6s ease-out;
+  animation: fadeInUp 0.5s ease-out;
 }
 
-/* Improve overall text readability */
-p {
-  color: $text-medium;
-  line-height: 1.7;
-}
-
-/* Better focus states for accessibility */
+/* Accessibility - better focus states */
 a:focus, button:focus {
   outline: 2px solid $primary-color;
-  outline-offset: 2px;
+  outline-offset: 3px;
+  border-radius: 2px;
 }
 
 /* Smooth scrolling */
 html {
   scroll-behavior: smooth;
+}
+
+/* Selection color - brand consistency */
+::selection {
+  background-color: rgba(74, 139, 125, 0.2);
+  color: $text-dark;
+}
+
+::-moz-selection {
+  background-color: rgba(74, 139, 125, 0.2);
+  color: $text-dark;
 }
