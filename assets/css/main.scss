@@ -242,57 +242,145 @@ a:hover, a:focus {
 }
 
 /* ==========================================================================
-   CUSTOM ENHANCEMENTS - Added December 2024
+   OPTION 1: WARM PROFESSIONAL PALETTE
+   Personal Website Enhancement - December 2024
    ========================================================================== */
 
-/* Enhanced section headers with teal accent line */
-.page__content {
-  h1 {
-    border-bottom: 3px solid #2C7873;
-    padding-bottom: 0.4em;
-    margin-bottom: 1.2em;
-    margin-top: 1.8em;
-    color: #2255a3;
-  }
+/* Color Variables */
+$primary-color: #5B9A8B;
+$primary-hover: #3D7A6B;
+$accent-color: #D68B6C;
+$text-dark: #2C3E3A;
+$text-medium: #5A6B66;
+$background: #F8F9F7;
+
+/* Body - warmer background */
+body {
+  background: $background;
+  color: $text-dark;
+  font-family: 'Lato', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.0em;
+  line-height: 1.65;
 }
 
-/* Better link styling with teal theme */
+/* Headings - warm green instead of corporate blue */
+h1, h2, h3, h4, h5, h6,
+.paper-box h3, .card h3 {
+  font-family: 'Raleway', Arial, sans-serif;
+  color: $text-dark;
+}
+
+h1 {
+  color: $primary-color;
+  font-weight: 600;
+  font-size: 1.5em;
+  line-height: 1.1;
+  margin-bottom: 0.2em;
+}
+
+h2 {
+  color: $primary-hover;
+  font-size: 1.22em;
+  margin-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.08em;
+  margin-bottom: 0.2em;
+}
+
+/* Links - warm teal with personality */
 a {
-  color: #2255a3;
+  color: $primary-color;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.2s ease;
 }
 
 a:hover, a:focus {
-  color: #2C7873;
-  border-bottom-color: #2C7873;
+  color: $primary-hover;
+  border-bottom-color: $primary-hover;
 }
 
-/* Improved paper-box spacing and borders */
-.paper-box {
-  margin-bottom: 2.5em;
-  padding: 1.5em;
-  border-bottom: 1px solid #e0e0e0;
-  
-  &:last-child {
-    border-bottom: none;
+/* Enhanced section headers with warm accent */
+.page__content {
+  h1 {
+    border-bottom: 3px solid $accent-color;
+    padding-bottom: 0.4em;
+    margin-bottom: 1.2em;
+    margin-top: 1.8em;
+    color: $primary-color;
   }
 }
 
-/* Enhanced image treatment with better shadows */
-.paper-box-image img {
-  border-radius: 10px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+/* About box - warm forest green instead of grey */
+.about-box {
+  background: linear-gradient(135deg, #3D5A4F 0%, #4A6B5E 100%);
+  color: #fff;
+  padding: 1.5em 1.5em;
+  border-radius: 12px;
+  margin-bottom: 1.8em;
+  font-family: 'Raleway', Arial, sans-serif;
+  box-shadow: 0 4px 20px rgba(61, 90, 79, 0.15);
+  border-left: 4px solid $accent-color;
+}
+
+.about-box h1 {
+  color: #fff;
+  font-size: 1.25em;
+  font-weight: 600;
+  margin-bottom: 0.15em;
+  letter-spacing: 0.01em;
+}
+
+.about-box h2, .about-box h3 {
+  color: #E8F0ED;
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 0.15em;
+  text-decoration: none;
+}
+
+.about-box p {
+  color: #F5FAF8;
+  font-size: 0.97em;
+  margin-bottom: 0.5em;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+/* Paper boxes - warmer, more inviting */
+.paper-box {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(61, 90, 79, 0.06);
+  border-left: 3px solid $primary-color;
+  margin-bottom: 2.5em;
+  padding: 1.8em;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
   transition: all 0.3s ease;
   
   &:hover {
-    box-shadow: 0 6px 25px rgba(0,0,0,0.18);
+    box-shadow: 0 4px 24px rgba(61, 90, 79, 0.12);
     transform: translateY(-3px);
+    border-left-color: $accent-color;
   }
 }
 
-/* Improved badge styling - more modern look */
+.paper-box h3 {
+  font-family: 'Raleway', Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1.08em;
+  color: $primary-color;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  line-height: 1.2;
+}
+
+/* Enhanced badges - warm accent colors */
 .badge {
   padding: 0.5em 1em;
   border-radius: 6px;
@@ -301,14 +389,35 @@ a:hover, a:focus {
   text-transform: uppercase;
   letter-spacing: 0.8px;
   color: white;
-  background-color: #4A7C89;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+  background: linear-gradient(135deg, $primary-color 0%, $primary-hover 100%);
+  box-shadow: 0 2px 8px rgba(91, 154, 139, 0.25);
   margin-top: 0.3em;
   margin-left: -0.3em;
   position: absolute;
 }
 
-/* Better bullet lists in publications */
+/* Alternating badge colors for visual variety */
+.paper-box:nth-child(2n) .badge {
+  background: linear-gradient(135deg, $accent-color 0%, #C77A5C 100%);
+}
+
+/* Enhanced image treatment */
+.paper-box-image img {
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(61, 90, 79, 0.15);
+  transition: all 0.3s ease;
+  border: 2px solid $background;
+  max-width: 400px;
+  object-fit: cover;
+  
+  &:hover {
+    box-shadow: 0 8px 30px rgba(61, 90, 79, 0.25);
+    transform: translateY(-4px);
+    border-color: $accent-color;
+  }
+}
+
+/* Better bullet lists */
 .paper-box ul {
   margin-top: 1em;
   padding-left: 1.5em;
@@ -316,67 +425,82 @@ a:hover, a:focus {
   li {
     margin-bottom: 0.6em;
     line-height: 1.7;
+    color: $text-medium;
+    
+    &::marker {
+      color: $accent-color;
+    }
   }
 }
 
-/* Enhanced talk metadata styling */
+/* Enhanced talk metadata */
 .talk-meta {
-  color: #666;
+  color: $text-medium;
   font-size: 0.95em;
   margin-bottom: 1.2em;
   font-style: italic;
   
   .speaker {
     font-weight: 600;
-    color: #444;
+    color: $primary-color;
     font-style: normal;
   }
 }
 
-/* Better media center with improved shadows */
+/* Better media center */
 .media-center {
   margin: 1.8em 0;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
   
   img {
     border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+    box-shadow: 0 4px 20px rgba(61, 90, 79, 0.12);
     max-width: 100%;
     height: auto;
+    border: 3px solid $background;
     
     &:hover {
-      box-shadow: 0 6px 20px rgba(0,0,0,0.16);
+      box-shadow: 0 6px 25px rgba(61, 90, 79, 0.18);
+      border-color: $accent-color;
     }
   }
   
   iframe {
+    width: 100%;
+    max-width: 480px;
+    aspect-ratio: 16 / 9;
+    min-height: 220px;
     border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+    box-shadow: 0 4px 20px rgba(61, 90, 79, 0.15);
+    border: 2px solid $background;
+    background: #000;
   }
 }
 
-/* Improve spacing in paper-box text */
+/* Improve paper-box text spacing */
 .paper-box-text {
   h2, h3, h4 {
     margin-top: 0.5em;
+    color: $primary-hover;
+  }
+  
+  h3 {
+    color: $primary-color;
   }
 }
 
-/* Better about box with improved contrast */
-.about-box {
-  background: linear-gradient(135deg, #343a45 0%, #3d4552 100%);
-  box-shadow: 0 4px 15px rgba(0,0,0,0.12);
-}
-
-/* Mobile responsiveness improvements */
+/* Mobile responsiveness */
 @media (max-width: 768px) {
   .paper-box {
     margin-bottom: 2em;
     padding: 1.2em;
   }
   
-  .paper-box-image {
-    margin-bottom: 1.2em;
+  .about-box {
+    padding: 1.2em;
   }
   
   .page__content h1 {
@@ -385,16 +509,53 @@ a:hover, a:focus {
   }
   
   .media-center iframe {
-    min-height: 200px;
+    max-width: 100%;
+    min-height: 170px;
   }
 }
 
-/* Subtle hover effect for entire paper boxes */
-.paper-box {
-  transition: all 0.3s ease;
-  
-  &:hover {
-    box-shadow: 0 4px 20px rgba(52, 58, 69, 0.1);
-    transform: translateY(-2px);
+@media (max-width: 700px) {
+  .paper-box {
+    padding: 1em 0.6em;
   }
+  .paper-box h3 {
+    font-size: 1.08em;
+  }
+  .paper-box .media-center iframe {
+    max-width: 100%;
+    min-height: 170px;
+  }
+}
+
+/* Subtle fade-in animation for paper boxes */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.paper-box {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Improve overall text readability */
+p {
+  color: $text-medium;
+  line-height: 1.7;
+}
+
+/* Better focus states for accessibility */
+a:focus, button:focus {
+  outline: 2px solid $primary-color;
+  outline-offset: 2px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
 }
