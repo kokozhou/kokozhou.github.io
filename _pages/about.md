@@ -207,7 +207,8 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
     <li>Moving from causal loop diagrams to simulation models for data-driven policy decisions</li>
   </ul>
   
-  [LinkedIn post](https://www.linkedin.com/posts/ke-koko-zhou_netzerocentre-netzero-sustainablecities-activity-7400139974148476928-78WW) · [Event details](https://www.kcl.ac.uk/events/advancing-sustainability-through-participatory-systems-thinking-from-urban-regeneration-to-net-zero-1)
+  <a href="https://www.linkedin.com/posts/ke-koko-zhou_netzerocentre-netzero-sustainablecities-activity-7400139974148476928-78WW" target="_blank">LinkedIn post</a> · 
+  <a href="https://www.kcl.ac.uk/events/advancing-sustainability-through-participatory-systems-thinking-from-urban-regeneration-to-net-zero-1" target="_blank">Event details</a>
 </div>
 
 <div class="paper-box">
@@ -219,7 +220,12 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
   <h3>2025.07 – Showcasing System Dynamics Interventions in Environmental Research</h3>
   <div class="talk-meta"><span class="speaker">Ke Zhou</span> · Webinar Series, The Bartlett, UCL</div>
   
-  Projects discussed: [VENTURA](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura), [CUSSH](https://www.ucl.ac.uk/complex-urban-systems/), [PAICE](https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice), [CAMELLIA](https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia)
+  <p>Projects discussed: 
+  <a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura" target="_blank">VENTURA</a>, 
+  <a href="https://www.ucl.ac.uk/complex-urban-systems/" target="_blank">CUSSH</a>, 
+  <a href="https://www.ucl.ac.uk/bartlett/research-projects/2024/sep/policy-and-implementation-climate-health-equity-paice" target="_blank">PAICE</a>, 
+  <a href="https://www.ucl.ac.uk/bartlett/research-projects/2018/jun/community-water-management-liveable-london-camellia" target="_blank">CAMELLIA</a>
+  </p>
   
   <div class="media-center">
     <iframe src="https://www.youtube.com/embed/GuU4W2P-UC0?start=878&end=1760" 
@@ -232,7 +238,7 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
   <h3>2025.06 – Environmental Neutrality and Policy Engagement Through Models and Dialogue</h3>
   <div class="talk-meta"><span class="speaker">Ke Zhou</span> · UCL Bartlett Research and Impact Policy Spotlight</div>
   
-  [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7341429047572221952/)
+  <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7341429047572221952/" target="_blank">LinkedIn post</a></p>
   
   <div class="media-center">
     <img src="images/IMG_0701.jpeg" alt="Environmental Neutrality Talk" width="400">
@@ -243,7 +249,7 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
   <h3>2025 – Exploring Soundscape Quality and Public Health</h3>
   <div class="talk-meta"><span class="speaker">Francesco Aletta and Ke Zhou</span> · UCL Institute for Environmental Design and Engineering</div>
   
-  [Watch recording](https://www.youtube.com/watch?v=zPvQgWhKn_8&t=15s)
+  <p><a href="https://www.youtube.com/watch?v=zPvQgWhKn_8&t=15s" target="_blank">Watch recording</a></p>
 </div>
 
 <div class="paper-box">
@@ -256,7 +262,6 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
     </iframe>
   </div>
 </div>
-
 ---
 
 # Teaching
