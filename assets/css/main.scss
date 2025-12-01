@@ -240,3 +240,161 @@ a:hover, a:focus {
     min-height: 170px;
   }
 }
+
+/* ==========================================================================
+   CUSTOM ENHANCEMENTS - Added December 2024
+   ========================================================================== */
+
+/* Enhanced section headers with teal accent line */
+.page__content {
+  h1 {
+    border-bottom: 3px solid #2C7873;
+    padding-bottom: 0.4em;
+    margin-bottom: 1.2em;
+    margin-top: 1.8em;
+    color: #2255a3;
+  }
+}
+
+/* Better link styling with teal theme */
+a {
+  color: #2255a3;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover, a:focus {
+  color: #2C7873;
+  border-bottom-color: #2C7873;
+}
+
+/* Improved paper-box spacing and borders */
+.paper-box {
+  margin-bottom: 2.5em;
+  padding: 1.5em;
+  border-bottom: 1px solid #e0e0e0;
+  
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+/* Enhanced image treatment with better shadows */
+.paper-box-image img {
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    box-shadow: 0 6px 25px rgba(0,0,0,0.18);
+    transform: translateY(-3px);
+  }
+}
+
+/* Improved badge styling - more modern look */
+.badge {
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  font-size: 0.75em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: white;
+  background-color: #4A7C89;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+  margin-top: 0.3em;
+  margin-left: -0.3em;
+  position: absolute;
+}
+
+/* Better bullet lists in publications */
+.paper-box ul {
+  margin-top: 1em;
+  padding-left: 1.5em;
+  
+  li {
+    margin-bottom: 0.6em;
+    line-height: 1.7;
+  }
+}
+
+/* Enhanced talk metadata styling */
+.talk-meta {
+  color: #666;
+  font-size: 0.95em;
+  margin-bottom: 1.2em;
+  font-style: italic;
+  
+  .speaker {
+    font-weight: 600;
+    color: #444;
+    font-style: normal;
+  }
+}
+
+/* Better media center with improved shadows */
+.media-center {
+  margin: 1.8em 0;
+  text-align: center;
+  
+  img {
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+    max-width: 100%;
+    height: auto;
+    
+    &:hover {
+      box-shadow: 0 6px 20px rgba(0,0,0,0.16);
+    }
+  }
+  
+  iframe {
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+  }
+}
+
+/* Improve spacing in paper-box text */
+.paper-box-text {
+  h2, h3, h4 {
+    margin-top: 0.5em;
+  }
+}
+
+/* Better about box with improved contrast */
+.about-box {
+  background: linear-gradient(135deg, #343a45 0%, #3d4552 100%);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+}
+
+/* Mobile responsiveness improvements */
+@media (max-width: 768px) {
+  .paper-box {
+    margin-bottom: 2em;
+    padding: 1.2em;
+  }
+  
+  .paper-box-image {
+    margin-bottom: 1.2em;
+  }
+  
+  .page__content h1 {
+    font-size: 1.4em;
+    margin-top: 1.2em;
+  }
+  
+  .media-center iframe {
+    min-height: 200px;
+  }
+}
+
+/* Subtle hover effect for entire paper boxes */
+.paper-box {
+  transition: all 0.3s ease;
+  
+  &:hover {
+    box-shadow: 0 4px 20px rgba(52, 58, 69, 0.1);
+    transform: translateY(-2px);
+  }
+}
