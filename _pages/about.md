@@ -59,7 +59,7 @@ I combine participatory systems modeling with quantitative methods to both study
   <div class="paper-box-text" markdown="1">
 
 **[Exploring the relationships between soundscape quality and public health using a systems thinking approach](https://www.nature.com/articles/s44384-025-00003-y.pdf)** (2025)  
-*npj Sustainable Mobility and Transport*
+*npj Acoustics*
 
 Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, Simone Torresin, et al.
 
@@ -148,7 +148,7 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
   <div class="paper-box-text" markdown="1">
 
 **[Dynamics of short-term and long-term decision-making in English housing associations: A study of using systems thinking to inform policy design](https://www.sciencedirect.com/science/article/pii/S2193943822000061)** (2022)  
-*Urban Planning*
+*EURO Journal on Decision Processes*
 
 **Ke Zhou**, Nici Zimmermann, Elanor Warwick, Helen Pineo, Marcella Ucci, Michael Davies
 
@@ -180,7 +180,7 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
 
 - **UCL Research Future Funding** (2025, PI) — *AI-Facilitated Collaborative Decision-Making Tool in Participatory Environmental Health Research*
 
-- **UCL Bartlett Public Policy Support Fund** (2024, PI) — [*Advancing Environmental Neutrality through Strategic Systems Thinking*](https://www.ucl.ac.uk/bartlett/bartlett-policy-support-fund)  
+- **UCL Bartlett Public Policy Support Fund** (2024, PI) — [*Project funding page: Advancing Environmental Neutrality through Strategic Systems Thinking*](https://www.ucl.ac.uk/bartlett/bartlett-policy-support-fund)  
   [Policy report →](https://discovery.ucl.ac.uk/id/eprint/10200567/1/Zhou_K.%20%20Nita%20A.%20Neutrality%20project%20policy%20%282024%29.pdf)
 - National Institute for Health and Care Research Scholarship (2018–2023, £100,000)
 - Washington University in St. Louis Scholarship (2015–2017)
