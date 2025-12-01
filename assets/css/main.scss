@@ -241,15 +241,15 @@ a:hover, a:focus {
 }
 
 /* ==========================================================================
-   REFINED SOPHISTICATED PALETTE
-   Balanced, professional, personal - December 2024
+   FINAL POLISHED VERSION - CHIC & CLEAN
+   Consistent badges, clickable images, elegant hover effects
    ========================================================================== */
 
-/* Color Variables - Sophisticated & Cohesive */
-$primary-color: #4A8B7D;          // Balanced teal-green (professional + environmental)
-$primary-hover: #3A6E62;          // Deeper on hover
-$accent-color: #8B9D7C;           // Subtle sage green (not orange!)
-$accent-warm: #A89B7E;            // Warm taupe for variety
+/* Color Variables - Sophisticated Palette */
+$primary-color: #4A8B7D;          // Balanced teal-green
+$primary-hover: #3A6E62;          // Deeper teal
+$accent-color: #7B9E87;           // Sage green
+$accent-warm: #9B8B7E;            // Warm taupe
 $text-dark: #2A3B3C;              // Rich dark teal-grey
 $text-medium: #5A6B67;            // Muted green-grey
 $background: #F9FAF8;             // Subtle warm off-white
@@ -264,7 +264,7 @@ body {
   line-height: 1.7;
 }
 
-/* Headings - cohesive teal palette */
+/* Headings - cohesive palette */
 h1, h2, h3, h4, h5, h6,
 .paper-box h3, .card h3 {
   font-family: 'Raleway', Arial, sans-serif;
@@ -305,7 +305,7 @@ a:hover, a:focus {
   border-bottom-color: $accent-color;
 }
 
-/* Section headers - subtle sage accent line */
+/* Section headers - subtle sage accent */
 .page__content {
   h1 {
     border-bottom: 3px solid $accent-color;
@@ -352,7 +352,7 @@ a:hover, a:focus {
   line-height: 1.75;
 }
 
-/* Paper boxes - refined elegance */
+/* Paper boxes - clean hover effect */
 .paper-box {
   background: #fff;
   border-radius: 12px;
@@ -363,12 +363,13 @@ a:hover, a:focus {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  transition: all 0.3s ease;
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
   
   &:hover {
-    box-shadow: 0 6px 25px rgba(58, 82, 72, 0.1);
-    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(58, 82, 72, 0.12);
+    transform: translateY(-3px);
     border-left-color: $primary-color;
+    background: #FAFCFB;
   }
 }
 
@@ -382,41 +383,88 @@ a:hover, a:focus {
   line-height: 1.3;
 }
 
-/* Badges - sophisticated two-tone */
+/* ==========================================================================
+   ISSUE 1: CONSISTENT BADGE COLORS - CLEAN & CHIC
+   ========================================================================== */
+
 .badge {
-  padding: 0.5em 1.1em;
-  border-radius: 6px;
-  font-size: 0.75em;
+  padding: 0.55em 1.2em;
+  border-radius: 8px;
+  font-size: 0.72em;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.9px;
+  letter-spacing: 1px;
   color: white;
+  /* CONSISTENT COLOR - All badges use primary teal */
   background: linear-gradient(135deg, $primary-color 0%, $primary-hover 100%);
-  box-shadow: 0 2px 6px rgba(74, 139, 125, 0.2);
+  box-shadow: 0 2px 8px rgba(74, 139, 125, 0.25);
   margin-top: 0.3em;
   margin-left: -0.3em;
   position: absolute;
-}
-
-/* Alternate badge style - subtle variety */
-.paper-box:nth-child(even) .badge {
-  background: linear-gradient(135deg, #6B8A7A 0%, #5A7869 100%);
-}
-
-/* Enhanced images - elegant borders */
-.paper-box-image img {
-  border-radius: 10px;
-  box-shadow: 0 4px 18px rgba(58, 82, 72, 0.12);
   transition: all 0.3s ease;
-  border: 3px solid rgba(139, 157, 124, 0.15);
-  max-width: 400px;
-  object-fit: cover;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+/* When hovering over the PAPER BOX, badge changes to accent color */
+.paper-box:hover .badge {
+  background: linear-gradient(135deg, $accent-color 0%, #6B8A77 100%);
+  box-shadow: 0 3px 12px rgba(123, 158, 135, 0.35);
+  transform: translateY(-2px);
+}
+
+/* ==========================================================================
+   ISSUE 2: CLICKABLE IMAGES WITH ZOOM EFFECT
+   ========================================================================== */
+
+/* Make images clickable and zoomable */
+.paper-box-image {
+  position: relative;
+  cursor: pointer;
   
-  &:hover {
-    box-shadow: 0 8px 30px rgba(58, 82, 72, 0.18);
-    transform: translateY(-3px);
-    border-color: $accent-color;
+  img {
+    border-radius: 10px;
+    box-shadow: 0 4px 18px rgba(58, 82, 72, 0.12);
+    transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 3px solid rgba(123, 158, 135, 0.15);
+    max-width: 400px;
+    object-fit: cover;
+    cursor: zoom-in;
+    
+    &:hover {
+      box-shadow: 0 8px 35px rgba(58, 82, 72, 0.20);
+      transform: scale(1.03) translateY(-3px);
+      border-color: $accent-color;
+    }
+    
+    &:active {
+      transform: scale(0.98);
+    }
   }
+  
+  /* Add subtle indicator that image is clickable */
+  &::after {
+    content: '🔍';
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: rgba(74, 139, 125, 0.9);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 0.8em;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+  
+  &:hover::after {
+    opacity: 1;
+  }
+}
+
+/* Simple lightbox effect when image is clicked */
+.paper-box-image img[data-action="zoom"] {
+  cursor: zoom-in;
 }
 
 /* Refined bullet lists */
@@ -463,11 +511,14 @@ a:hover, a:focus {
     box-shadow: 0 4px 18px rgba(58, 82, 72, 0.12);
     max-width: 100%;
     height: auto;
-    border: 3px solid rgba(139, 157, 124, 0.12);
+    border: 3px solid rgba(123, 158, 135, 0.12);
+    transition: all 0.3s ease;
+    cursor: zoom-in;
     
     &:hover {
       box-shadow: 0 6px 25px rgba(58, 82, 72, 0.16);
       border-color: $accent-color;
+      transform: scale(1.02);
     }
   }
   
@@ -478,7 +529,7 @@ a:hover, a:focus {
     min-height: 220px;
     border-radius: 10px;
     box-shadow: 0 4px 18px rgba(58, 82, 72, 0.12);
-    border: 3px solid rgba(139, 157, 124, 0.12);
+    border: 3px solid rgba(123, 158, 135, 0.12);
     background: #000;
   }
 }
@@ -508,7 +559,7 @@ p {
   margin-bottom: 1em;
 }
 
-/* Refined link underlines for body text */
+/* Refined link underlines */
 .page__content p a {
   border-bottom: 1px solid rgba(74, 139, 125, 0.3);
   
@@ -536,6 +587,11 @@ p {
   .media-center iframe {
     max-width: 100%;
     min-height: 180px;
+  }
+  
+  /* Hide zoom indicator on mobile */
+  .paper-box-image::after {
+    display: none;
   }
 }
 
@@ -568,7 +624,7 @@ p {
   animation: fadeInUp 0.5s ease-out;
 }
 
-/* Accessibility - better focus states */
+/* Accessibility */
 a:focus, button:focus {
   outline: 2px solid $primary-color;
   outline-offset: 3px;
@@ -580,7 +636,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Selection color - brand consistency */
+/* Selection color */
 ::selection {
   background-color: rgba(74, 139, 125, 0.2);
   color: $text-dark;
