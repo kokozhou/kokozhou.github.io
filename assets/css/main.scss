@@ -322,7 +322,7 @@ h3 {
 
 /* Links */
 a {
-  color: $C9480C;
+  color: #C9480C;
   text-decoration: none;
   transition: all 0.25s ease;
   border-bottom: 1px solid transparent;
@@ -470,7 +470,7 @@ a:hover, a:focus {
     
     &:hover {
       box-shadow: 0 8px 35px rgba(58, 82, 72, 0.20);
-      transform: scale(1.5);
+      transform: scale(1.2);
       border-color: $accent-color;
     }
   }
@@ -552,7 +552,7 @@ a:hover, a:focus {
     &:hover {
       box-shadow: 0 6px 25px rgba(58, 82, 72, 0.16);
       border-color: $accent-color;
-      transform: scale(1.8);
+      transform: scale(1.2);
     }
   }
   
