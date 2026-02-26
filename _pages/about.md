@@ -66,7 +66,7 @@ My research connects three strands:
   <div class="paper-box-image">
     <div>
       <div class="badge">Climate & health</div>
-      <img src="images/paice.jpg" alt="PAICE" width="100%">
+      <img src="images/paice.jpeg" alt="PAICE" width="100%">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
