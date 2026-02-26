@@ -371,11 +371,7 @@ Contributed systems analysis and scientific evidence to WHO's healthy housing po
 
 ### Institutional Service
 
-- **Systems Thinking and Transdisciplinarity research theme**, UCL Institute for Environmental Design and Engineering — one of [eight core research themes](https://www.ucl.ac.uk/bartlett/environment-energy-resources/environmental-design/about/60-years-bartlett-institute-environmental-design-and-engineering) documented in the [IEDE 60th anniversary book](https://www.linkedin.com/feed/update/urn:li:share:7369387178092658696/) (*Shaping the Sustainable Built Environment in a Changing Climate*), which I contributed to systems maps of all eight research themes
-
-  <div class="media-center">
-    <img src="images/IEDE book.png" alt="IEDE 60th Anniversary Book" width="400">
-  </div>
+- **Systems Thinking and Transdisciplinarity research theme**, UCL Institute for Environmental Design and Engineering — one of [eight core research themes](https://www.ucl.ac.uk/bartlett/environment-energy-resources/environmental-design/about/60-years-bartlett-institute-environmental-design-and-engineering) documented in the [IEDE 60th anniversary book](https://www.linkedin.com/feed/update/urn:li:share:7369387178092658696/) (*Shaping the Sustainable Built Environment in a Changing Climate*), which I contributed to systems maps of all eight research themes. 
 
 ---
 
