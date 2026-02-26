@@ -28,7 +28,7 @@ My research connects three strands:
 
 - **Climate and sustainability governance**: How decision-makers navigate net-zero transitions, water governance, and environmental policy, and why long-term sustainability commitments erode under short-term pressures, inconsistent policy changes ([Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972); [Zhou et al., 2025, *Journal of Cleaner Production*](https://www.sciencedirect.com/science/article/pii/S0959652625010054))
 - **Health equity in environmental transitions**: How climate and environmental policies create unequal health impacts across communities, such as indoor air pollution and heat pump adoption ([Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100); PAICE project with CCC/DESNZ), resilience under multiple shocks ([Zhou & Zhang, 2022, *Systems*](https://www.mdpi.com/2079-8954/10/5/183)), and importance of expanding system boundary to include health equity.
-- **Participatory systems modelling**: Developing methods that make complex systems accessible to decision-makers through co-constructed models ([Pluchinotta, Zhou et al., 2024, *Journal of Environmental Management*](https://www.sciencedirect.com/science/article/pii/S0301479724000963)) and quantification of soft variables ([Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770))
+- **Participatory systems modelling and process**: Developing methods that make complex systems accessible to decision-makers through co-constructed models ([Pluchinotta, Zhou et al., 2024, *Journal of Environmental Management*](https://www.sciencedirect.com/science/article/pii/S0301479724000963)) and quantification of soft variables ([Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770))
 
 ---
 
@@ -52,7 +52,7 @@ My research connects three strands:
 
 **Ke Zhou**, Elanor Warwick, Marcella Ucci, Mike Davies, Nici Zimmermann
 
-**Key finding:** Organisations pursuing both market and social missions systematically shift attention to short-term financial pressures — sustainability erodes gradually through structural dynamics, not individual failure.
+**Key finding:** Organisations pursuing both market and social missions systematically shift attention to short-term financial pressures, as part of paradoxical tensions in decision-making.
   </div>
 </div>
 
@@ -70,7 +70,7 @@ My research connects three strands:
 
 Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 
-**Key finding:** Housing policy interventions produce unintended health consequences through feedback loops that standard policy appraisal misses.
+**Key finding:** Housing policy interventions and dynamics cross policy cycles.
   </div>
 </div>
 
@@ -88,7 +88,7 @@ Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 
 **Ke Zhou**, Nici Zimmermann, Elanor Warwick, Helen Pineo, Marcella Ucci, Michael Davies
 
-**Key finding:** Policy inconsistencies trigger short-term decisions with unintended consequences — revealing a lack of tools supporting systems thinking throughout the full policy cycle.
+**Key finding:** Policy inconsistencies trigger short-term decisions with unintended consequences, revealing a lack of tools supporting systems thinking throughout the full policy cycle.
 
 [Blog: Six steps of the systems thinking approach in policy design →](https://sphr.nihr.ac.uk/news-and-events/training/six-steps-of-the-systems-thinking-approach-in-policy-design-and-why-it-matters/)
   </div>
@@ -108,13 +108,13 @@ Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 
 Helen Pineo, **Ke Zhou**, Ying Niu, ... Michael Davies
 
-**Key finding:** Local evidence exists but gets lost between policy cycles at different governance levels — a structural, not informational, failure.
+**Key finding:** Local evidence exists but have divergences at different governance levels.
   </div>
 </div>
 
 ## Building Models with Stakeholders
 
-*How do we make complex systems visible and actionable? These papers develop participatory methods, quantification frameworks, and systems mapping approaches — working with engineers, policymakers, and communities.*
+*How do we make complex systems visible and actionable? These papers develop participatory methods, quantification frameworks, systems mapping approaches, and broader systems boundary analysis working with engineers, policymakers, and communities.*
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -130,7 +130,7 @@ Helen Pineo, **Ke Zhou**, Ying Niu, ... Michael Davies
 
 Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, Simone Torresin, et al.
 
-**Key finding:** Systems methods transfer across domains — health-perception feedback loops identified here now inform housing and urban health research.
+**Key finding:** Critical to embed health feedback loops in soundscape quality, otherwise gentrification will push out vulnerable communities. 
   </div>
 </div>
 
@@ -147,6 +147,9 @@ Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, 
 *Housing Studies* · IF: 3.9
 
 Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
+
+**Key finding:** Complexities of social housing, directly empirical learnings from London.
+
   </div>
 </div>
 
@@ -164,7 +167,7 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
 
 Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann
 
-**Key finding:** A structured framework for when to quantify soft variables (trust, perception, engagement) and when to keep them qualitative — replacing ad hoc judgement with systematic decision criteria. Cited by researchers at MIT and TU Delft.
+**Key finding:** A structured framework for when to quantify soft variables (trust, perception, engagement) and when to keep them qualitative — replacing ad hoc judgement with systematic decision criteria.
 
 [Webinar Recording →](https://www.youtube.com/watch?v=38CoKifnWnI&t=1s)
   </div>
@@ -184,7 +187,7 @@ Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann
 
 **Ke Zhou**, Mengru Zhang
 
-**Key finding:** Multiple shocks compound through reinforcing feedback loops — mental health deterioration is caused by sequential crises that interact, not single events.
+**Key finding:** Multiple shocks compound through reinforcing feedback loops: mental health deterioration is caused by sequential crises that interact, not single events.
   </div>
 </div>
 
@@ -202,7 +205,7 @@ Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann
 
 Lauren Ferguson, Jonathon Taylor, **Ke Zhou**, et al.
 
-**Key finding:** Expanding the system boundary to include deprivation reveals reinforcing feedback — deprived communities face compounding air pollution burdens through housing quality, outdoor exposure, and reduced capacity to intervene. Cited in *The Lancet*, *Nature*, and *BMJ*.
+**Key finding:** Expanding the system boundary to include deprivation, deprived communities face indoor and outdoor air pollution burdens disproportionally. Cited in *The Lancet*, *Nature*, and *BMJ*.
   </div>
 </div>
 
@@ -270,7 +273,7 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
   <div class="paper-box-image">
     <div>
       <div class="badge">Transdisciplinary methods · 2021</div>
-      <img src="images/500x300.png" alt="Programme Theory" width="100%">
+      <img src="images/programme.jpg" alt="Programme Theory" width="100%">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
@@ -279,6 +282,9 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
 *Wellcome Open Research*
 
 Gemma Moore, Susan Michie, James Anderson, ... **Ke Zhou**, et al.
+
+**Impact:** Shaping transdisciplinary approach in large grant projects.
+
   </div>
 </div>
 
@@ -296,7 +302,9 @@ Gemma Moore, Susan Michie, James Anderson, ... **Ke Zhou**, et al.
 **[Advancing Environmental Neutrality: Leveraging Systems Thinking for Policy Innovation](https://discovery.ucl.ac.uk/id/eprint/10200567/1/Zhou_K.%20%20Nita%20A.%20Neutrality%20project%20policy%20%282024%29.pdf)** (2024)
 *UCL Institute for Environmental Design and Engineering*
 
-**Ke Zhou** & Anda Nita
+**Ke Zhou** & Arfenia Nita
+
+**Impact:** Found that no existing systems tools support decision-making, evaluation, or monitoring across environmental neutrality policy cycles — driving the case for new analytical tools to bridge the gap between systems thinking and policy practice.
   </div>
 </div>
 
@@ -493,4 +501,3 @@ I teach systems thinking, sustainability governance, and participatory research 
 ---
 
 *Website updated February 2026*
-
