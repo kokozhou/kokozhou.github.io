@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## About
+# About
 
 I am a senior systems scientist at UCL Bartlett. My research uses systems thinking and facilitated modelling to identify the co-benefits, trade-offs, and leverage points of net-zero policy, with a focus on climate-health equity, water governance, and urban regeneration. I combine participatory modelling with system dynamics simulation to surface leverage points that decision-makers can act on. My active research partners and funders include the UK Climate Change Committee (CCC), the Department for Energy Security and Net Zero (DESNZ), the Greater London Authority (GLA), and major housing and water organisations. 
 
-# Recognition & Leadership
+## Recognition & Leadership
 - **Fellow of the Higher Education Academy** (FHEA, 2026)
 - **Elected Policy Council Member**, International System Dynamics Society (2026–2028)
 - **Co-lead of the Environment and Natural Resource Management (ENRM) Special Interest Group**, International System Dynamics Society (2026–present)
@@ -20,7 +20,7 @@ I am a senior systems scientist at UCL Bartlett. My research uses systems thinki
 - **Programme Committee Member**, Winter Simulation Conference 2026 — System Dynamics Track
 - **Peer reviewer** for over 10 international journals including *Nature Cities*,  *Buildings & Cities*, *System Dynamics Review*, *BMC Health Services Research*, and *Cities & Health*
 
-# Research Themes
+## Research Themes
 
 My research connects three strands:
 
