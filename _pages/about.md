@@ -8,27 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About
 
-I research how societies govern sustainability and climate transitions, from net-zero policy and regeneration to health equity. I use systems theory to understand sustainability and health equity challenges, develop participatory models that make complexity accessible, and work with policy partners to turn evidence into action.
+I am a senior systems scientist at UCL Bartlett. My research uses systems thinking and facilitated modelling to identify the co-benefits, trade-offs, and leverage points of net-zero policy, with a focus on climate-health equity, water governance, and urban regeneration. I combine participatory modelling with system dynamics simulation to surface leverage points that decision-makers can act on. My active research partners and funders include the UK Climate Change Committee (CCC), the Department for Energy Security and Net Zero (DESNZ), the Greater London Authority (GLA), and major housing and water organisations. 
 
-I combine participatory modelling with systems simulation to both study and support real-world decision-making. My research partners include the UK Climate Change Committee, Department for Energy Security and Net Zero, Greater London Authority, and housing and water organisations.
-
-I am an elected Policy Council Member of the [International System Dynamics Society](https://systemdynamics.org/) and a peer reviewer for 10 journals including *Nature Cities*. I hold Associate Fellowship of the Higher Education Academy (AFHEA).
-
-**Current role**: Senior Research Fellow, University College London
-**Research areas**: Systems thinking for sustainability · Climate adaptation and net-zero governance · Health equity in environmental policy · Participatory modelling
-**Teaching**: 400+ students taught · Systems thinking, sustainability governance, and climate policy
-
----
+# Recognition & Leadership
+- **Fellow of the Higher Education Academy** (FHEA, 2026)
+- **Elected Policy Council Member**, International System Dynamics Society (2026–2028)
+- **Co-lead of the Environment and Natural Resource Management (ENRM) Special Interest Group**, International System Dynamics Society (2026–present)
+- **Conference Co-Chair**, Environment Track, International System Dynamics Conference (2025 & 2026)
+- **Programme Committee Member**, Winter Simulation Conference 2026 — System Dynamics Track
+- **Peer reviewer** for over 10 international journals including *Nature Cities*,  *Buildings & Cities*, *System Dynamics Review*, *BMC Health Services Research*, and *Cities & Health*
 
 # Research Themes
 
 My research connects three strands:
 
-- **Climate and sustainability governance**: How decision-makers navigate net-zero transitions, water governance, and environmental policy, and why long-term sustainability commitments erode under short-term pressures, inconsistent policy changes ([Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972); [Zhou et al., 2025, *Journal of Cleaner Production*](https://www.sciencedirect.com/science/article/pii/S0959652625010054))
-- **Health equity in environmental transitions**: How climate and environmental policies create unequal health impacts across communities, such as indoor air pollution and heat pump adoption ([Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100); PAICE project with CCC/DESNZ), resilience under multiple shocks ([Zhou & Zhang, 2022, *Systems*](https://www.mdpi.com/2079-8954/10/5/183)), and importance of expanding system boundary to include health equity.
-- **Participatory systems modelling and process**: Developing methods that make complex systems accessible to decision-makers through co-constructed models ([Pluchinotta, Zhou et al., 2024, *Journal of Environmental Management*](https://www.sciencedirect.com/science/article/pii/S0301479724000963)) and quantification of soft variables ([Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770))
+- **Climate and sustainability policy**: How decision-makers navigate net-zero transitions, water governance, and environmental policy, and why long-term sustainability commitments erode under short-term pressures and inconsistent policy changes ([Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972); [Zhou et al., 2025, *Journal of Cleaner Production*](https://www.sciencedirect.com/science/article/pii/S0959652625010054))
+- **Systems modelling**: Developing methods that make complex systems accessible to decision-makers through co-constructed models ([Pluchinotta, Zhou et al., 2024, *Journal of Environmental Management*](https://www.sciencedirect.com/science/article/pii/S0301479724000963); [Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770))
+
+- **Health equity**: How climate and environmental policies create unequal health impacts across communities — including indoor air pollution and heat pump adoption ([Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100); PAICE project with CCC/DESNZ), resilience under multiple shocks ([Zhou & Zhang, 2022, *Systems*](https://www.mdpi.com/2079-8954/10/5/183)), and the importance of expanding system boundary to include health equity.
 
 ---
 
@@ -36,7 +35,7 @@ My research connects three strands:
 
 ## Understanding Sustainability Challenges
 
-*Why do well-intended sustainability policies produce unintended consequences? These papers diagnose the decision dynamics, attention shifts, and governance failures that undermine long-term goals.*
+*Why doenvironmental policies produce unintended consequences? These papers show the decision dynamics, attention shifts, and governance failures that undermine long-term goals.*
 
 <div class="paper-box">
   <div class="paper-box-image">
