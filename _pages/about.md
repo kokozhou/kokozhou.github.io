@@ -15,27 +15,42 @@ I am a senior systems scientist at UCL Bartlett. My research uses systems thinki
 ## Recognition & Leadership
 - **Fellow of the Higher Education Academy** (FHEA, 2026)
 - **Elected Policy Council Member**, International System Dynamics Society (2026–2028)
-- **Co-lead of the Environment and Natural Resource Management (ENRM) Special Interest Group**, International System Dynamics Society (2026–present)
+- **Co-Lead**, [Environment and Natural Resource Management (ENRM) Special Interest Group](https://systemdynamics.org/special-interest-groups/environmental/), International System Dynamics Society — [Event recordings](https://www.youtube.com/playlist?list=PLWTEBISypYFvYNnlXCdg-sc6zlz8kOIAt)
 - **Conference Co-Chair**, Environment Track, International System Dynamics Conference (2025 & 2026)
-- **Programme Committee Member**, Winter Simulation Conference 2026 — System Dynamics Track
+- **Programme Committee Member**, [Winter Simulation Conference 2026](https://www.wintersim.org/) — System Dynamics Track
 - **Peer reviewer** for over 10 international journals including *Nature Cities*,  *Buildings & Cities*, *System Dynamics Review*, *BMC Health Services Research*, and *Cities & Health*
 
-## Research Themes
+# Recent Publications
 
-My research connects three strands:
+**Modelling Built Environment and Health** — How do environmental conditions produce unequal health outcomes across communities? Recent publications: [Aletta, Zhou et al., 2025, *npj Acoustics*](https://www.nature.com/articles/s44384-025-00003-y); [Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100);[Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972)
 
-- **Climate and sustainability policy**: How decision-makers navigate net-zero transitions, water governance, and environmental policy, and why long-term sustainability commitments erode under short-term pressures and inconsistent policy changes ([Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972); [Zhou et al., 2025, *Journal of Cleaner Production*](https://www.sciencedirect.com/science/article/pii/S0959652625010054))
-- **Systems modelling**: Developing methods that make complex systems accessible to decision-makers through co-constructed models ([Pluchinotta, Zhou et al., 2024, *Journal of Environmental Management*](https://www.sciencedirect.com/science/article/pii/S0301479724000963); [Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770))
+**Climate and Sustainability Policy** — Why do sustainability commitments erode, and how can governance be redesigned? Recent publications: [Zhou et al., 2025, *Journal of Cleaner Production*](https://www.sciencedirect.com/science/article/pii/S0959652625010054); [Zhou et al., 2022, *EURO Journal on Decision Processes*](https://www.sciencedirect.com/science/article/pii/S2193943822000061)
 
-- **Health equity**: How climate and environmental policies create unequal health impacts across communities — including indoor air pollution and heat pump adoption ([Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100); PAICE project with CCC/DESNZ), resilience under multiple shocks ([Zhou & Zhang, 2022, *Systems*](https://www.mdpi.com/2079-8954/10/5/183)), and the importance of expanding system boundary to include health equity.
+**Systems Modelling Reflections** — How do we make complex systems visible and actionable for decision-makers? Recent publications: [Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770)
 
 ---
 
-# Publications
+## Modelling Built Environment and Health
 
-## Understanding Sustainability Challenges
+*How does the built environment shape health, and who bears the burden? These papers study soundscape, air quality, urban green space and health inequalities.*
 
-*Why doenvironmental policies produce unintended consequences? These papers show the decision dynamics, attention shifts, and governance failures that undermine long-term goals.*
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Health & sound · 2025</div>
+      <img src="images/soundscape.png" alt="Soundscape" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[Exploring the relationships between soundscape quality and public health using a systems thinking approach](https://www.nature.com/articles/s44384-025-00003-y)** (2025)
+*npj Acoustics* · Nature Portfolio
+
+Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, Simone Torresin, et al.
+
+**Key finding:** Embedding health feedback loops in soundscape is critical; without them, soundscape improvements may displace rather than benefit vulnerable communities.
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -47,11 +62,125 @@ My research connects three strands:
   <div class="paper-box-text" markdown="1">
 
 **[Sustaining Attention to Sustainability, Health, and Well-Being in Urban Regeneration](https://journals.sagepub.com/doi/full/10.1177/10860266241236972)** (2024)
-*Organization & Environment* · ABS 3 · IF: 7.5
+*Organization & Environment*
 
 **Ke Zhou**, Elanor Warwick, Marcella Ucci, Mike Davies, Nici Zimmermann
 
-**Key finding:** Organisations pursuing both market and social missions systematically shift attention to short-term financial pressures, as part of paradoxical tensions in decision-making.
+**Key finding:** Organisations pursuing both market and social missions systematically shift attention toward short-term financial pressures, as part of paradoxical tensions that undermine long-term health and sustainability commitments.
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Participatory modelling · 2024</div>
+      <img src="images/TMmodel.jpg" alt="Natural Space" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[Co-producing knowledge on the use of urban natural space: Participatory system dynamics modelling to understand a complex urban system](https://www.sciencedirect.com/science/article/pii/S0301479724000963)** (2024)
+*Journal of Environmental Management*
+
+Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova, et al.
+
+**Impact:** A system dynamics model and digital interface enabling stakeholders to explore urban green space scenarios. Co-constructing models with diverse communities reveals importance of equality and maintainance.
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Health resilience · 2022</div>
+      <img src="images/resilience.jpg" alt="Resilience" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[Resilience Development in Multiple Shocks: Lessons in Mental Health and Well-Being Deterioration during COVID-19](https://www.mdpi.com/2079-8954/10/5/183)** (2022)
+*Systems*
+
+**Ke Zhou**, Mengru Zhang
+
+**Key finding:** Mental health deterioration during COVID-19 was driven by sequential crises that interact.
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Health inequality · 2021</div>
+      <img src="images/air pollution.jpg" alt="Indoor Air Pollution" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[Systemic inequalities in indoor air pollution exposure in London, UK](https://journal-buildingscities.org/articles/10.5334/bc.100)** (2021)
+*Buildings & Cities* · **89 citations** · Covered by BBC
+
+Lauren Ferguson, Jonathon Taylor, **Ke Zhou**, et al.
+
+**Key finding:** Deprived communities bear disproportionate indoor and outdoor air pollution burdens. Cited in *The Lancet*, *Nature*, and *BMJ*.
+  </div>
+</div>
+
+## Climate and Sustainability Policy
+
+*What are dynamics within policy-making and environmental management? These explore the governance dynamics, policy inconsistencies, and institutional failures that undermine long-term sustainability commitments, with direct engagement with the Climate Change Committee, DESNZ, WHO, and local government.*
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Climate & health equity · 2025</div>
+      <img src="images/PAICE.jpeg" alt="PAICE" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[The PAICE project: Integrating health and health equity into UK climate change policy](https://wellcomeopenresearch.org/articles/10-14)** (2025)
+*Wellcome Open Research*
+
+Michael Davies, Catalina Dearman, Rosemary Green, ... **Ke Zhou**, et al.
+
+**Impact:** Wellcome-funded project working directly with the Climate Change Committee to embed health equity considerations into UK climate adaptation policy.
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Climate policy · 2025</div>
+      <img src="images/ventura.jpg" alt="VENTURA" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[Systems Thinking in Water Neutrality Governance: Moving from system failures to resilient urban water systems](https://www.sciencedirect.com/science/article/pii/S0959652625010054)** (2025)
+*Journal of Cleaner Production*
+
+**Ke Zhou**, Pepe Puchol-Salort, Irene Pluchinotta, Darren Beriro, Ana Mijic, Nici Zimmermann
+
+[Project Details & Highlights →](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura)
+
+**Impact:** Causal loop diagrams adopted into Manchester's water neutrality governance framework. Collaboration with Imperial College London's water engineering group.
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Housing systems · 2025</div>
+      <img src="images/socialhousing.png" alt="Social Housing" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[Systemic issues in the English social housing sector: mapping interconnected challenges faced by London-based housing associations](https://www.tandfonline.com/doi/full/10.1080/02673037.2025.2467093)** (2025)
+*Housing Studies*
+
+Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
+
+**Key finding:** Complexities of social housing, directly empirical learnings from London.
   </div>
 </div>
 
@@ -64,12 +193,12 @@ My research connects three strands:
   </div>
   <div class="paper-box-text" markdown="1">
 
-**[Getting to effective housing policy for health: a system dynamics study](https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
+**[Getting to effective housing policy for health: a system dynamics study (https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
 *Cities & Health*
 
 Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 
-**Key finding:** Housing policy interventions and dynamics cross policy cycles.
+**Key finding:** Housing policy interventions and their health consequences operate across multiple policy cycles.
   </div>
 </div>
 
@@ -87,7 +216,7 @@ Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 
 **Ke Zhou**, Nici Zimmermann, Elanor Warwick, Helen Pineo, Marcella Ucci, Michael Davies
 
-**Key finding:** Policy inconsistencies trigger short-term decisions with unintended consequences, revealing a lack of tools supporting systems thinking throughout the full policy cycle.
+**Key finding:** Policy inconsistencies trigger short-term decisions with unintended consequences, revealing the absence of tools that support systems thinking across the full policy cycle.
 
 [Blog: Six steps of the systems thinking approach in policy design →](https://sphr.nihr.ac.uk/news-and-events/training/six-steps-of-the-systems-thinking-approach-in-policy-design-and-why-it-matters/)
   </div>
@@ -107,50 +236,13 @@ Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 
 Helen Pineo, **Ke Zhou**, Ying Niu, ... Michael Davies
 
-**Key finding:** Local evidence exists but have divergences at different governance levels.
+**Key finding:** Local evidence exists but diverges across governance levels, limiting the uptake of urban health and sustainability decisions.
   </div>
 </div>
 
-## Building Models with Stakeholders
+## Systems Modelling Reflections
 
-*How do we make complex systems visible and actionable? These papers develop participatory methods, quantification frameworks, systems mapping approaches, and broader systems boundary analysis working with engineers, policymakers, and communities.*
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Health & sound · 2025</div>
-      <img src="images/soundscape.png" alt="Soundscape" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[Exploring the relationships between soundscape quality and public health using a systems thinking approach](https://www.nature.com/articles/s44384-025-00003-y)** (2025)
-*npj Acoustics* · Nature Portfolio
-
-Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, Simone Torresin, et al.
-
-**Key finding:** Critical to embed health feedback loops in soundscape quality, otherwise gentrification will push out vulnerable communities. 
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Housing systems · 2025</div>
-      <img src="images/socialhousing.png" alt="Social Housing" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[Systemic issues in the English social housing sector: mapping interconnected challenges faced by London-based housing associations](https://www.tandfonline.com/doi/full/10.1080/02673037.2025.2467093)** (2025)
-*Housing Studies* · IF: 3.9
-
-Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
-
-**Key finding:** Complexities of social housing, directly empirical learnings from London.
-
-  </div>
-</div>
+*How do we think about and advance the role of models in supporting decisions? These papers develop and enhance participatory methods, quantification frameworks, and systems mapping approaches to develop useful models.*
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -162,109 +254,13 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
   <div class="paper-box-text" markdown="1">
 
 **[Dealing with soft variables and data scarcity: lessons learnt from quantification in a participatory system dynamics modelling process](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770)** (2024)
-*System Dynamics Review* · ABS 2
+*System Dynamics Review*
 
 Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann
 
-**Key finding:** A structured framework for when to quantify soft variables (trust, perception, engagement) and when to keep them qualitative — replacing ad hoc judgement with systematic decision criteria.
+**Key finding:** A structured framework for deciding when to quantify soft variables such as trust and perception.
 
 [Webinar Recording →](https://www.youtube.com/watch?v=38CoKifnWnI&t=1s)
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Health resilience · 2022</div>
-      <img src="images/resilience.jpg" alt="Resilience" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[Resilience Development in Multiple Shocks: Lessons in Mental Health and Well-Being Deterioration during COVID-19](https://www.mdpi.com/2079-8954/10/5/183)** (2022)
-*Systems*
-
-**Ke Zhou**, Mengru Zhang
-
-**Key finding:** Multiple shocks compound through reinforcing feedback loops: mental health deterioration is caused by sequential crises that interact, not single events.
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Health inequality · 2021</div>
-      <img src="images/air pollution.jpg" alt="Indoor Air Pollution" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[Systemic inequalities in indoor air pollution exposure in London, UK](https://journal-buildingscities.org/articles/10.5334/bc.100)** (2021)
-*Buildings & Cities* · **89 citations** · Covered by BBC
-
-Lauren Ferguson, Jonathon Taylor, **Ke Zhou**, et al.
-
-**Key finding:** Expanding the system boundary to include deprivation, deprived communities face indoor and outdoor air pollution burdens disproportionally. Cited in *The Lancet*, *Nature*, and *BMJ*.
-  </div>
-</div>
-
-## Shaping Policy and Practice
-
-*Where do models meet real decisions? These papers show traceable pathways from research to policy change — accessible digital solutions built with partners including the Climate Change Committee, DESNZ, WHO, and local government.*
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Climate & health equity · 2025</div>
-      <img src="images/PAICE.jpeg" alt="PAICE" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[The PAICE project: Integrating health and health equity into UK climate change policy](https://wellcomeopenresearch.org/articles/10-14)** (2025)
-*Wellcome Open Research*
-
-Michael Davies, Catalina Dearman, Rosemary Green, ... **Ke Zhou**, et al.
-
-**Impact:** Wellcome-funded project working directly with the Climate Change Committee and DESNZ to embed health equity considerations into UK climate adaptation policy.
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Climate policy · 2025</div>
-      <img src="images/ventura.jpg" alt="VENTURA" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[Systems Thinking in Water Neutrality Governance: Moving from system failures to resilient urban water systems](https://www.sciencedirect.com/science/article/pii/S0959652625010054)** (2025)
-*Journal of Cleaner Production* · IF: 10.7
-
-**Ke Zhou**, Pepe Puchol-Salort, Irene Pluchinotta, Darren Beriro, Ana Mijic, Nici Zimmermann
-
-[Project Details & Highlights →](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura)
-
-**Impact:** Causal loop diagrams adopted into Manchester's water governance framework. Collaboration with Imperial College London's water engineering group.
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Participatory modelling · 2024</div>
-      <img src="images/TMmodel.jpg" alt="Natural Space" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[Co-producing knowledge on the use of urban natural space: Participatory system dynamics modelling to understand a complex urban system](https://www.sciencedirect.com/science/article/pii/S0301479724000963)** (2024)
-*Journal of Environmental Management* · IF: 8.6
-
-Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova, et al.
-
-**Impact:** Accessible digital interface enabling stakeholders to explore urban green space scenarios — co-constructing models with diverse communities reveals feedback loops that no single disciplinary perspective identifies alone.
   </div>
 </div>
 
@@ -282,8 +278,7 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
 
 Gemma Moore, Susan Michie, James Anderson, ... **Ke Zhou**, et al.
 
-**Impact:** Shaping transdisciplinary approach in large grant projects.
-
+**Impact:** Establishes a programme theory for structuring large transdisciplinary research programmes.
   </div>
 </div>
 
@@ -359,13 +354,8 @@ Contributed systems analysis and scientific evidence to WHO's healthy housing po
 
 ---
 
-# Professional Service
+# Professional Members
 
-- **Elected Policy Council Member**, [International System Dynamics Society](https://systemdynamics.org/) (2024–present)
-- **Co-Lead**, [Environment and Natural Resource Management (ENRM) Special Interest Group](https://systemdynamics.org/special-interest-groups/environmental/), International System Dynamics Society — [Event recordings](https://www.youtube.com/playlist?list=PLWTEBISypYFvYNnlXCdg-sc6zlz8kOIAt)
-- **Conference Co-Chair**, Environment Track, International System Dynamics Conference (2025 & 2026)
-- **Programme Committee Member**, [Winter Simulation Conference 2026](https://www.wintersim.org/) — System Dynamics Track
-- **Peer reviewer** for 10 journals, including *Nature Cities*, *System Dynamics Review*, *Journal of Cleaner Production*, *Organization & Environment*
 - **Member**: [Academy of Management](https://aom.org/) (ONE Division) · [European Group for Organizational Studies](https://www.egosnet.org/) · [Operational Research Society](https://www.theorsociety.com/) · International System Dynamics Society
 
 ### Institutional Service
@@ -461,7 +451,7 @@ I teach systems thinking, sustainability governance, and participatory research 
 
 - **Carbon Neutral Economics** (Apr 2025, 2 hours) — Guest Lecturer on *Advancements in UK's Net Zero Policies* (module lead: Prof. Yao Jian). Postgraduate: College of Carbon Neutrality Future Technology, Sichuan University, China.
 - **[Systems Thinking and Participatory Approaches for Sustainability (BENV0162)](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162)** (Jan–Mar 2025 and 2026) — Teaching Fellow. Designed and delivered 5 teaching session's original content for this new undergraduate module (module lead: Dr. Irene Pluchinotta) as part of the [BSc Sustainable Built Environments, Energy and Resources](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2). Classes included: *Transdisciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping: Strategies, Examples, and Software*. University College London.
-- **[Health and Wellbeing in Cities: Theory and Practice (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056)** (Mar 2025, 2 hours) — Guest Lecturer on *Climate Change Adaptation, Mitigation, and Health* (module lead: Dr. Gemma Moore). Postgraduate: MSc Health, Wellbeing and Sustainable Buildings, UCL.
+- **[Health and Wellbeing in Cities: Theory and Practice (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056)** (Mar 2025 & 2026, 2 hours) — Guest Lecturer on *Climate Change Adaptation, Mitigation, and Health* (module lead: Dr. Gemma Moore). Postgraduate: MSc Health, Wellbeing and Sustainable Buildings, UCL.
 - **Digital Innovation: Collaborative Practice (BIDI0002)** (Mar 2025, 2 hours) — Co-Guest Lecturer on *Case Studies of Digital Tools in Action* (module lead: Dr. Andrew Mitchell). Postgraduate: MSc Digital Innovation Built Asset Management, UCL.
 - **Systems Thinking and System Dynamics (BENV0047)** (Mar 2025, 3 hours) — Co-Guest Lecturer on *Constructing Causal Loop Diagrams from Texts* (module lead: Prof. Nici Zimmermann). Postgraduate: MSc Environmental Design and Engineering, UCL.
 - **Managing ESG (Environmental, Social and Governance) (SMM916)** (Nov 2024, 3 hours) — Co-Guest Lecturer on *Energy, World and Climate Dynamics through En-ROADS Climate Simulation* (module lead: Dr. Daniel Beunza). Postgraduate: MSc Management, Bayes Business School, City University of London.
