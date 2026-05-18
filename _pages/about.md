@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About
+# About Me
 
 I am a senior systems scientist at UCL Bartlett. My research uses systems thinking and facilitated modelling to identify the co-benefits, trade-offs, and leverage points of net-zero policy, with a focus on climate-health equity, water governance, and urban regeneration. I combine participatory modelling with system dynamics simulation to surface leverage points that decision-makers can act on. My active research partners and funders include the UK Climate Change Committee (CCC), the Department for Energy Security and Net Zero (DESNZ), the Greater London Authority (GLA), and major housing and water organisations. 
 
