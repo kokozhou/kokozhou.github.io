@@ -20,7 +20,7 @@ I am a senior systems scientist at UCL Bartlett. My research uses systems thinki
 - **Programme Committee Member**, [Winter Simulation Conference 2026](https://www.wintersim.org/) — System Dynamics Track
 - **Peer reviewer** for over 10 international journals including *Nature Cities*,  *Buildings & Cities*, *System Dynamics Review*, *BMC Health Services Research*, and *Cities & Health*
 
-# Recent Publications
+## Recent Publications
 
 **Modelling Built Environment and Health** — How do environmental conditions produce unequal health outcomes across communities? Recent publications: [Aletta, Zhou et al., 2025, *npj Acoustics*](https://www.nature.com/articles/s44384-025-00003-y); [Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100);[Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972)
 
@@ -29,6 +29,7 @@ I am a senior systems scientist at UCL Bartlett. My research uses systems thinki
 **Systems Modelling Reflections** — How do we make complex systems visible and actionable for decision-makers? Recent publications: [Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770)
 
 ---
+# Publications 
 
 ## Modelling Built Environment and Health
 
@@ -193,7 +194,7 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
   </div>
   <div class="paper-box-text" markdown="1">
 
-**[Getting to effective housing policy for health: a system dynamics study (https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
+**[Getting to effective housing policy for health: a system dynamics study] (https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
 *Cities & Health*
 
 Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
