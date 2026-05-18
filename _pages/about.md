@@ -446,7 +446,7 @@ Contributed systems analysis and scientific evidence to WHO's healthy housing po
 
 # Teaching
 
-I teach systems thinking, sustainability governance, and participatory research methods at undergraduate and postgraduate levels. I have taught 400+ students, designed original module content, and hold Associate Fellowship of the Higher Education Academy (AFHEA, 2024).
+I teach systems thinking, sustainability governance, and participatory research methods at undergraduate and postgraduate levels. I have taught 450+ students, designed original module content, and hold Associate Fellowship of the Higher Education Academy (AFHEA, 2024) and Fellowship of the Higher Education Academy (FHEA, 2026).
 
 ## Recent Teaching
 
