@@ -463,10 +463,11 @@ I teach systems thinking, sustainability governance, and participatory research 
   <img src="images/teaching.JPG" alt="Teaching at UCL" width="500">
 </div>
 
-## Postgraduate Supervision (2020–2025)
+## Postgraduate Supervision (2020–now)
 
 **Primary/Secondary Supervisor** — University College London
 
+- (2026) **Primary supervisor**. MSc Environmental Design and Engineering. Student: Molly Behling. Dissertation: *Rethinking Stadium Design: AI‑Supported Approaches to Overheating and Ventilation for Women Athletes*.
 - (2025) **Primary supervisor**. MSc Environmental Design and Engineering. Student: Jiarui Ma. Dissertation: *Health and Wellbeing in Net Zero Transitions*. **Result: Distinction**. 
 - (2024) **Primary supervisor**. MSc Health, Wellbeing and Sustainable Buildings. Student: Junsheng Zhou. Dissertation: *Systems Thinking in Urban Regeneration: Exploring Health and Well-being Impacts*. Result: Pass.
 - (2020) **Secondary supervisor**. MSc Health, Wellbeing and Sustainable Buildings. Student: Hanting Liu. Dissertation: *Health and Wellbeing in New Developments: A Case Study of Linked Hybrid in China*. **Result: Distinction**.
