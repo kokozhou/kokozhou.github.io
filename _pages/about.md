@@ -14,6 +14,7 @@ I am a senior systems scientist at UCL Bartlett. My research uses systems thinki
 
 ## Recognition & Leadership
 - **Fellow of the Higher Education Academy** (FHEA, 2026)
+- **Bartlett Early Career Research Award**, Bartlett Faculty of the Built Environment (University College London, 2026)
 - **Elected Policy Council Member**, International System Dynamics Society (2026–2028)
 - **Co-Lead**, [Environment and Natural Resource Management (ENRM) Special Interest Group](https://systemdynamics.org/special-interest-groups/environmental/), International System Dynamics Society — [Event recordings](https://www.youtube.com/playlist?list=PLWTEBISypYFvYNnlXCdg-sc6zlz8kOIAt)
 - **Conference Co-Chair**, Environment Track, International System Dynamics Conference (2025 & 2026)
