@@ -195,12 +195,13 @@ Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
   </div>
   <div class="paper-box-text" markdown="1">
 
-**[Getting to effective housing policy for health: a system dynamics study] (https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
+**[Getting to effective housing policy for health: a system dynamics study](https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
 *Cities & Health*
 
 Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 
 **Key finding:** Housing policy interventions and their health consequences operate across multiple policy cycles.
+
   </div>
 </div>
 
@@ -212,6 +213,11 @@ Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
+
+<!-- 这里填写第二篇论文的 Markdown 内容 -->
+
+  </div>
+</div>
 
 **[Dynamics of short-term and long-term decision-making in English housing associations: A study of using systems thinking to inform policy design](https://www.sciencedirect.com/science/article/pii/S2193943822000061)** (2022)
 *EURO Journal on Decision Processes*
