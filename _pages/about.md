@@ -10,32 +10,79 @@ redirect_from:
 
 # About Me
 
-I am a senior systems scientist at UCL Bartlett. My research uses systems thinking and facilitated modelling to identify the co-benefits, trade-offs, and leverage points of net-zero policy, with a focus on climate-health equity, water governance, and urban regeneration. I combine participatory modelling with system dynamics simulation to surface leverage points that decision-makers can act on. My active research partners and funders include the UK Climate Change Committee (CCC), the Department for Energy Security and Net Zero (DESNZ), the Greater London Authority (GLA), and major housing and water organisations. 
+I am a senior systems scientist at UCL Bartlett. My research uses systems thinking and facilitated modelling to identify the co-benefits, trade-offs, and leverage points of net-zero policy, with a focus on climate-health equity, water governance, and urban regeneration. I combine participatory modelling with system dynamics simulation to surface leverage points that decision-makers can act on. 
+
+## What I Am Working On
+
+I am currently writing on four topics and welcome chats with anyone working in these areas.
+
+- Net zero housing, fuel poverty, and health equity
+- System boundaries and building confidence in large systems maps use across scales
+- Advanced methods such as machine learning and network analysis for environmental health equity
 
 ## Recognition & Leadership
-- **Honorable Mention for the Early Career Health Paper Award** (International System Dynamics Society, 2026)
 - **Fellow of the Higher Education Academy** (FHEA, 2026)
+- **Honourable Mention, Early Career Health Paper Award**, International System Dynamics Conference (2026)
 - **Bartlett Early Career Research Award**, Bartlett Faculty of the Built Environment (University College London, 2026)
 - **Elected Policy Council Member**, International System Dynamics Society (2026–2028)
-- **Co-Lead**, [Environment and Natural Resource Management (ENRM) Special Interest Group](https://systemdynamics.org/special-interest-groups/environmental/), International System Dynamics Society — [Event recordings](https://www.youtube.com/playlist?list=PLWTEBISypYFvYNnlXCdg-sc6zlz8kOIAt)
+- **Programme Co-Chair**, International System Dynamics Conference 2028, London
+- **Co-Lead**, [Environment and Natural Resource Management (ENRM) Special Interest Group](https://systemdynamics.org/special-interest-groups/environmental/), International System Dynamics Society · [Event recordings](https://www.youtube.com/playlist?list=PLWTEBISypYFvYNnlXCdg-sc6zlz8kOIAt)
 - **Conference Co-Chair**, Environment Track, International System Dynamics Conference (2025 & 2026)
-- **Programme Committee Member**, [Winter Simulation Conference 2026](https://www.wintersim.org/) — System Dynamics Track
-- **Peer reviewer** for over 10 international journals including *Nature Cities*,  *Buildings & Cities*, *System Dynamics Review*, *BMC Health Services Research*, and *Cities & Health*
+- **Co-Editor**, Springer special issue on Systems Thinking and the SDGs, *Systemic Practice and Action Research* (2025–)
+- **Programme Committee Member**, [Winter Simulation Conference 2026](https://www.wintersim.org/), System Dynamics Track
+- **Best Poster Award**, International System Dynamics Conference, Bergen (2024)
+- **Peer reviewer** for over 10 international journals including *Nature Cities*, *Buildings & Cities*, *System Dynamics Review*, *BMC Health Services Research*, and *Cities & Health*
 
 ## Recent Publications
 
-**Modelling Built Environment and Health** — How do environmental conditions produce unequal health outcomes across communities? Recent publications: [Aletta, Zhou et al., 2025, *npj Acoustics*](https://www.nature.com/articles/s44384-025-00003-y); [Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100);[Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972)
+**Environment, Health and Equity:** Who bears the health burden of environmental conditions and climate policy? Recent publications: [Zhou et al., 2026, preprint under review at *Global Environmental Change*](https://doi.org/10.2139/ssrn.7442468); [Aletta, Zhou et al., 2025, *npj Acoustics*](https://www.nature.com/articles/s44384-025-00003-y); [Ferguson, Zhou et al., 2021, *Buildings & Cities*](https://journal-buildingscities.org/articles/10.5334/bc.100)
 
-**Climate and Sustainability Policy** — Why do sustainability commitments erode, and how can governance be redesigned? Recent publications: [Zhou et al., 2025, *Journal of Cleaner Production*](https://www.sciencedirect.com/science/article/pii/S0959652625010054); [Zhou et al., 2022, *EURO Journal on Decision Processes*](https://www.sciencedirect.com/science/article/pii/S2193943822000061)
+**Sustainability Governance and Decision-Making:** Why do sustainability commitments erode, and how can governance be redesigned? Recent publications: [Zhou et al., 2025, *Journal of Cleaner Production*](https://www.sciencedirect.com/science/article/pii/S0959652625010054); [Zhou et al., 2024, *Organization & Environment*](https://journals.sagepub.com/doi/full/10.1177/10860266241236972); [Zhou et al., 2022, *EURO Journal on Decision Processes*](https://www.sciencedirect.com/science/article/pii/S2193943822000061)
 
-**Systems Modelling Reflections** — How do we make complex systems visible and actionable for decision-makers? Recent publications: [Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770)
+**Participatory Systems Methods:** How do we make complex systems visible and actionable for decision-makers? Recent publications: [Pluchinotta, Zhou et al., 2024, *System Dynamics Review*](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1770); [Pluchinotta, Zhou et al., 2024, *Journal of Environmental Management*](https://www.sciencedirect.com/science/article/pii/S0301479724000963)
 
 ---
 # Publications 
 
-## Modelling Built Environment and Health
+## Environment, Health and Equity
 
-*How does the built environment shape health, and who bears the burden? These papers study soundscape, air quality, urban green space and health inequalities.*
+*Who bears the health burden of environmental conditions and climate policy? These papers trace how net zero policy, air pollution, soundscape, and housing shape health, and how those effects fall unequally across communities.*
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Preprint · 2026</div>
+      <img src="images/preprint.png" alt="Net zero and health equity" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[System feedback loops and pathways linking net zero policy and health equity in the UK](https://doi.org/10.2139/ssrn.7442468)** (2026)
+*SSRN preprint* · Under review at *Global Environmental Change*
+
+**Ke Zhou**, Nici Zimmermann, Michael Davies, Irene Pluchinotta
+
+**Key finding:** 31 of 32 feedback loops in UK net zero policy cross between the mitigation and adaptation monitoring maps. The loops converge on four health and equity variables (health, productivity, income per capita, and household adaptive capacity), the least quantified part of the monitoring architecture.
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Climate & health equity · 2025</div>
+      <img src="images/PAICE.jpeg" alt="PAICE" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[The PAICE project: Integrating health and health equity into UK climate change policy](https://wellcomeopenresearch.org/articles/10-14)** (2025)
+*Wellcome Open Research*
+
+Michael Davies, Charlie Dearman, Rosemary Green, ... **Ke Zhou**, Nici Zimmermann
+
+**Impact:** Wellcome-funded project working directly with the Climate Change Committee to embed health equity considerations into UK climate change policy.
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -58,36 +105,18 @@ Francesco Aletta, **Ke Zhou**, Andrew Mitchell, Tin Oberman, Irene Pluchinotta, 
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">Sustainability governance · 2024</div>
-      <img src="images/attention.jpg" alt="Urban Regeneration" width="100%">
+      <div class="badge">Housing & health · 2024</div>
+      <img src="images/Nix.png" alt="Housing Policy" width="100%">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
 
-**[Sustaining Attention to Sustainability, Health, and Well-Being in Urban Regeneration](https://journals.sagepub.com/doi/full/10.1177/10860266241236972)** (2024)
-*Organization & Environment*
+**[Getting to effective housing policy for health: a thematic synthesis of policy development and implementation](https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
+*Cities & Health*
 
-**Ke Zhou**, Elanor Warwick, Marcella Ucci, Mike Davies, Nici Zimmermann
+Emily Nix, Andrew Ibbetson, **Ke Zhou**, Michael Davies, Paul Wilkinson, Ramona Ludolph, Helen Pineo
 
-**Key finding:** Organisations pursuing both market and social missions systematically shift attention toward short-term financial pressures, as part of paradoxical tensions that undermine long-term health and sustainability commitments.
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Participatory modelling · 2024</div>
-      <img src="images/TMmodel.jpg" alt="Natural Space" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[Co-producing knowledge on the use of urban natural space: Participatory system dynamics modelling to understand a complex urban system](https://www.sciencedirect.com/science/article/pii/S0301479724000963)** (2024)
-*Journal of Environmental Management*
-
-Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova, et al.
-
-**Impact:** A system dynamics model and digital interface enabling stakeholders to explore urban green space scenarios. Co-constructing models with diverse communities reveals importance of equality and maintainance.
+**Key finding:** Across 23 studies from four countries, healthy housing policy was implemented where enforcement worked: housing inspections, compliance certificates, and fines. Concerns about economic viability and housing seen as a private right held it back.
   </div>
 </div>
 
@@ -105,7 +134,9 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
 
 **Ke Zhou**, Mengru Zhang
 
-**Key finding:** Mental health deterioration during COVID-19 was driven by sequential crises that interact.
+**Key finding:** Across three simulated waves, population resilience grew but not enough to stop deterioration. Temporary adjustments and limited health and well-being services raised the cumulative risk.
+
+Reprinted in Homer & Hirsch (Eds.), *System Dynamics Models for Public Health and Health Care Policy* (MDPI, 2023).
   </div>
 </div>
 
@@ -123,36 +154,18 @@ Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova,
 
 Lauren Ferguson, Jonathon Taylor, **Ke Zhou**, et al.
 
-**Key finding:** Deprived communities bear disproportionate indoor and outdoor air pollution burdens. Cited in *The Lancet*, *Nature*, and *BMJ*.
+**Key finding:** Deprived communities bear disproportionate indoor and outdoor air pollution burdens. Cited by articles in *The Lancet*, *Nature*, and *BMJ*.
   </div>
 </div>
 
-## Climate and Sustainability Policy
+## Sustainability Governance and Decision-Making
 
-*What are dynamics within policy-making and environmental management? These explore the governance dynamics, policy inconsistencies, and institutional failures that undermine long-term sustainability commitments, with direct engagement with the Climate Change Committee, DESNZ, WHO, and local government.*
+*Why do sustainability commitments erode, and how can governance be redesigned? These papers examine how organisations and policy-makers decide under competing pressures, across housing, urban regeneration, water, and urban health governance, working with housing associations, water organisations, and local government.*
 
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">Climate & health equity · 2025</div>
-      <img src="images/PAICE.jpeg" alt="PAICE" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**[The PAICE project: Integrating health and health equity into UK climate change policy](https://wellcomeopenresearch.org/articles/10-14)** (2025)
-*Wellcome Open Research*
-
-Michael Davies, Catalina Dearman, Rosemary Green, ... **Ke Zhou**, et al.
-
-**Impact:** Wellcome-funded project working directly with the Climate Change Committee to embed health equity considerations into UK climate adaptation policy.
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Climate policy · 2025</div>
+      <div class="badge">Water governance · 2025</div>
       <img src="images/ventura.jpg" alt="VENTURA" width="100%">
     </div>
   </div>
@@ -165,7 +178,7 @@ Michael Davies, Catalina Dearman, Rosemary Green, ... **Ke Zhou**, et al.
 
 [Project Details & Highlights →](https://www.ucl.ac.uk/bartlett/research-projects/2024/apr/virtual-decision-rooms-water-neutral-urban-planning-ventura)
 
-**Impact:** Causal loop diagrams adopted into Manchester's water neutrality governance framework. Collaboration with Imperial College London's water engineering group.
+**Impact:** Systems thinking maps incorporated into Greater Manchester's statutory Integrated Water Management Plan (2023). Collaboration with Imperial College London's water engineering group.
   </div>
 </div>
 
@@ -183,26 +196,25 @@ Michael Davies, Catalina Dearman, Rosemary Green, ... **Ke Zhou**, et al.
 
 Anna Pagani, Nici Zimmermann, Alex Macmillan, **Ke Zhou**, Michael Davies
 
-**Key finding:** Complexities of social housing, directly empirical learnings from London.
+**Key finding:** Building more social homes does not raise the social housing share while sales and demolitions keep draining the stock. Developed with four London housing associations, the maps point to maintenance, repair, and retrofit as the higher leverage point.
   </div>
 </div>
 
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">Housing & health · 2024</div>
-      <img src="images/Nix.png" alt="Housing Policy" width="100%">
+      <div class="badge">Sustainability governance · 2024</div>
+      <img src="images/attention.jpg" alt="Urban Regeneration" width="100%">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
 
-**[Getting to effective housing policy for health: a system dynamics study](https://www.tandfonline.com/doi/full/10.1080/23748834.2024.2328951)** (2024)
-*Cities & Health*
+**[Sustaining Attention to Sustainability, Health, and Well-Being in Urban Regeneration](https://journals.sagepub.com/doi/full/10.1177/10860266241236972)** (2024)
+*Organization & Environment*
 
-Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
+**Ke Zhou**, Elanor Warwick, Marcella Ucci, Mike Davies, Nici Zimmermann
 
-**Key finding:** Housing policy interventions and their health consequences operate across multiple policy cycles.
-
+**Key finding:** Organisations pursuing both market and social missions systematically shift attention toward short-term financial pressures, as part of paradoxical tensions that undermine long-term health and sustainability commitments.
   </div>
 </div>
 
@@ -238,13 +250,13 @@ Emily Nix, Anna Ibbetson, **Ke Zhou**, et al.
 **[Evidence-informed urban health and sustainability governance in two Chinese cities](https://journal-buildingscities.org/articles/10.5334/bc.90)** (2021)
 *Buildings & Cities*
 
-Helen Pineo, **Ke Zhou**, Ying Niu, ... Michael Davies
+Helen Pineo, Melanie Crane, **Ke Zhou**, Nici Zimmermann, Yanlin Niu, ... Michael Davies
 
 **Key finding:** Local evidence exists but diverges across governance levels, limiting the uptake of urban health and sustainability decisions.
   </div>
 </div>
 
-## Systems Modelling Reflections
+## Participatory Systems Methods
 
 *How do we think about and advance the role of models in supporting decisions? These papers develop and enhance participatory methods, quantification frameworks, and systems mapping approaches to develop useful models.*
 
@@ -262,9 +274,27 @@ Helen Pineo, **Ke Zhou**, Ying Niu, ... Michael Davies
 
 Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann
 
-**Key finding:** A structured framework for deciding when to quantify soft variables such as trust and perception.
+**Key finding:** A framework that matches quantification methods to data availability and stakeholder engagement: literature and datasets when data are plentiful, online forms in between, and participatory workshops when data are scarce.
 
 [Webinar Recording →](https://www.youtube.com/watch?v=38CoKifnWnI&t=1s)
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Participatory modelling · 2024</div>
+      <img src="images/TMmodel.jpg" alt="Natural Space" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**[Co-producing knowledge on the use of urban natural space: Participatory system dynamics modelling to understand a complex urban system](https://www.sciencedirect.com/science/article/pii/S0301479724000963)** (2024)
+*Journal of Environmental Management*
+
+Irene Pluchinotta, **Ke Zhou**, Gemma Moore, Giuseppe Salvia, Kristine Belesova, et al.
+
+**Impact:** A system dynamics model and digital interface enabling stakeholders to explore urban green space scenarios. Co-constructing models with diverse communities reveals the importance of equality and maintenance.
   </div>
 </div>
 
@@ -277,16 +307,34 @@ Irene Pluchinotta, **Ke Zhou**, Nici Zimmermann
   </div>
   <div class="paper-box-text" markdown="1">
 
-**[Developing a programme theory for a transdisciplinary research programme](https://wellcomeopenresearch.org/articles/6-35)** (2021)
+**[Developing a programme theory for a transdisciplinary research collaboration: Complex Urban Systems for Sustainability and Health](https://wellcomeopenresearch.org/articles/6-35)** (2021)
 *Wellcome Open Research*
 
-Gemma Moore, Susan Michie, James Anderson, ... **Ke Zhou**, et al.
+Gemma Moore, Susan Michie, Jamie Anderson, ... **Ke Zhou**, Nici Zimmermann, Michael Davies, David Osrin
 
-**Impact:** Establishes a programme theory for structuring large transdisciplinary research programmes.
+**Key finding:** An action model and a change model tracing how a partnership of researchers, decision-makers, and advocates leads to health and sustainability improvement in cities, across the CUSSH programme.
   </div>
 </div>
 
 ## Policy Reports & Book Chapters
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Book chapter · 2026</div>
+      <img src="images/elgar.png" alt="Methodology to Address Grand Challenges" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**Keeping it complex: Advancing sustainability research through complexity-based integrative reviews** (2026)
+In *Methodology to Address Grand Challenges* (pp. 12–42) · Edward Elgar Publishing
+
+Cem Gürsan, Sara Gonella, Vincent de Gooyert, **Ke Zhou**
+
+**Contribution:** Proposes the complexity-based integrative review, an interdisciplinary literature review method with flexible boundaries for sustainability challenges driven by feedback.
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -302,23 +350,7 @@ Gemma Moore, Susan Michie, James Anderson, ... **Ke Zhou**, et al.
 
 **Ke Zhou** & Arfenia Nita
 
-**Impact:** Found that no existing systems tools support decision-making, evaluation, or monitoring across environmental neutrality policy cycles — driving the case for new analytical tools to bridge the gap between systems thinking and policy practice.
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Book chapter · 2023</div>
-      <img src="images/healthSystems.png" alt="Public Health SD Models" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-
-**System Dynamics Models for Public Health and Health Care Policy** (2023)
-*MDPI* · Book chapter
-
-Jack Homer & Gary Hirsch (Eds.)
+**Impact:** Found that no existing systems tools support decision-making, evaluation, or monitoring across environmental neutrality policy cycles, driving the case for new analytical tools to bridge the gap between systems thinking and policy practice.
   </div>
 </div>
 
@@ -334,7 +366,7 @@ Jack Homer & Gary Hirsch (Eds.)
 **[Policies, regulations & legislation promoting healthy housing: A review](https://www.who.int/publications/i/item/9789240011298)** (2021)
 *World Health Organization*
 
-Contributed systems analysis and scientific evidence to WHO's healthy housing policy guidance.
+Contributed evidence collection and analysis to WHO's healthy housing policy review.
   </div>
 </div>
 
@@ -342,8 +374,8 @@ Contributed systems analysis and scientific evidence to WHO's healthy housing po
 
 # Grants and Awards
 
-- **UCL Research Future Funding** (2025, PI) — *AI-Facilitated Collaborative Decision-Making Tool in Participatory Environmental Health Research*
-- **UCL Bartlett Public Policy Support Fund** (2024, PI) — [*Advancing Environmental Neutrality through Strategic Systems Thinking*](https://www.ucl.ac.uk/bartlett/bartlett-policy-support-fund)
+- **UCL Research Future Funding** (2025, PI): *AI-Facilitated Collaborative Decision-Making Tool in Participatory Environmental Health Research*
+- **UCL Bartlett Public Policy Support Fund** (2024, PI): [*Advancing Environmental Neutrality through Strategic Systems Thinking*](https://www.ucl.ac.uk/bartlett/bartlett-policy-support-fund)
   [Policy report →](https://discovery.ucl.ac.uk/id/eprint/10200567/1/Zhou_K.%20%20Nita%20A.%20Neutrality%20project%20policy%20%282024%29.pdf)
 - National Institute for Health and Care Research Scholarship (2018–2023, £100,000)
 - Washington University in St. Louis Scholarship (2015–2017)
@@ -352,19 +384,19 @@ Contributed systems analysis and scientific evidence to WHO's healthy housing po
 
 # Education
 
-- **PhD**, Environmental Systems and Decision-Making — University College London (2018–2023)
-- **MSW**, System Dynamics in Health Policies — Washington University in St. Louis (2015–2017)
-- **BA** — Sichuan International Studies University (2011–2015)
+- **PhD in Urban Environment Decision Making**, University College London (2018–2023)
+- **Master of Social Work (System Dynamics Specialisation)**, Washington University in St. Louis (2015–2017)
+- **BA**, Sichuan International Studies University (2011–2015)
 
 ---
 
-# Professional Members
+# Professional Memberships
 
 - **Member**: [Academy of Management](https://aom.org/) (ONE Division) · [European Group for Organizational Studies](https://www.egosnet.org/) · [Operational Research Society](https://www.theorsociety.com/) · International System Dynamics Society
 
 ### Institutional Service
 
-- **Systems Thinking and Transdisciplinarity research theme**, UCL Institute for Environmental Design and Engineering — one of [eight core research themes](https://www.ucl.ac.uk/bartlett/environment-energy-resources/environmental-design/about/60-years-bartlett-institute-environmental-design-and-engineering) documented in the [IEDE 60th anniversary book](https://www.linkedin.com/feed/update/urn:li:share:7369387178092658696/) (*Shaping the Sustainable Built Environment in a Changing Climate*), which I contributed to systems maps of all eight research themes. 
+- **Systems Thinking and Transdisciplinarity research theme**, UCL Institute for Environmental Design and Engineering: one of [eight core research themes](https://www.ucl.ac.uk/bartlett/environment-energy-resources/environmental-design/about/60-years-bartlett-institute-environmental-design-and-engineering) documented in the [IEDE 60th anniversary book](https://www.linkedin.com/feed/update/urn:li:share:7369387178092658696/) (*Shaping the Sustainable Built Environment in a Changing Climate*), to which I contributed systems maps of all eight research themes.
 
 ---
 
@@ -453,14 +485,14 @@ I teach systems thinking, sustainability governance, and participatory research 
 
 ## Recent Teaching
 
-- **Carbon Neutral Economics** (Apr 2025, 2 hours) — Guest Lecturer on *Advancements in UK's Net Zero Policies* (module lead: Prof. Yao Jian). Postgraduate: College of Carbon Neutrality Future Technology, Sichuan University, China.
-- **[Systems Thinking and Participatory Approaches for Sustainability (BENV0162)](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162)** (Jan–Mar 2025 and 2026) — Teaching Fellow. Designed and delivered 5 teaching session's original content for this new undergraduate module (module lead: Dr. Irene Pluchinotta) as part of the [BSc Sustainable Built Environments, Energy and Resources](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2). Classes included: *Transdisciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping: Strategies, Examples, and Software*. University College London.
-- **[Health and Wellbeing in Cities: Theory and Practice (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056)** (Mar 2025 & 2026, 2 hours) — Guest Lecturer on *Climate Change Adaptation, Mitigation, and Health* (module lead: Dr. Gemma Moore). Postgraduate: MSc Health, Wellbeing and Sustainable Buildings, UCL.
-- **Digital Innovation: Collaborative Practice (BIDI0002)** (Mar 2025, 2 hours) — Co-Guest Lecturer on *Case Studies of Digital Tools in Action* (module lead: Dr. Andrew Mitchell). Postgraduate: MSc Digital Innovation Built Asset Management, UCL.
-- **Systems Thinking and System Dynamics (BENV0047)** (Mar 2025, 3 hours) — Co-Guest Lecturer on *Constructing Causal Loop Diagrams from Texts* (module lead: Prof. Nici Zimmermann). Postgraduate: MSc Environmental Design and Engineering, UCL.
-- **Managing ESG (Environmental, Social and Governance) (SMM916)** (Nov 2024, 3 hours) — Co-Guest Lecturer on *Energy, World and Climate Dynamics through En-ROADS Climate Simulation* (module lead: Dr. Daniel Beunza). Postgraduate: MSc Management, Bayes Business School, City University of London.
-- **Behavioral Operational Research and System Dynamics** (Jul 2024, 3 hours) — Teaching Assistant providing training support (module lead: Prof. Marin Kunc). Short course, University of Southampton.
-- **NIHR School of Public Health Research Annual Meeting** (May 2024, 2 hours) — Guest Trainer on *Systems Analysis for Managing Grand Challenges*. National Institute for Health and Care Research, Birmingham, UK.
+- **Carbon Neutral Economics** (Apr 2025, 2 hours): Guest Lecturer on *Advancements in UK's Net Zero Policies* (module lead: Prof. Yao Jian). Postgraduate: College of Carbon Neutrality Future Technology, Sichuan University, China.
+- **[Systems Thinking and Participatory Approaches for Sustainability (BENV0162)](https://www.ucl.ac.uk/module-catalogue/modules/systems-thinking-and-participatory-approaches-for-sustainability-BENV0162)** (Jan–Mar 2025 and 2026): Teaching Fellow. Designed and delivered original content for 5 teaching sessions of this new undergraduate module (module lead: Dr. Irene Pluchinotta) as part of the [BSc Sustainable Built Environments, Energy and Resources](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc#tab2-year2). Classes included: *Transdisciplinary Research Toolkit*, *Participatory Causal Loop Diagram Development*, *Modeling and System Scenarios: Population and Natural Resources*, and *Systems Mapping: Strategies, Examples, and Software*. University College London.
+- **[Health and Wellbeing in Cities: Theory and Practice (BENV0056)](https://www.ucl.ac.uk/module-catalogue/modules/healthy-cities-theory-and-action-BENV0056)** (Mar 2025 & 2026, 2 hours): Guest Lecturer on *Climate Change Adaptation, Mitigation, and Health* (module lead: Dr. Gemma Moore). Postgraduate: MSc Health, Wellbeing and Sustainable Buildings, UCL.
+- **Digital Innovation: Collaborative Practice (BIDI0002)** (Mar 2025, 2 hours): Co-Guest Lecturer on *Case Studies of Digital Tools in Action* (module lead: Dr. Andrew Mitchell). Postgraduate: MSc Digital Innovation Built Asset Management, UCL.
+- **Systems Thinking and System Dynamics (BENV0047)** (Mar 2025, 3 hours): Co-Guest Lecturer on *Constructing Causal Loop Diagrams from Texts* (module lead: Prof. Nici Zimmermann). Postgraduate: MSc Environmental Design and Engineering, UCL.
+- **Managing ESG (Environmental, Social and Governance) (SMM916)** (Nov 2024, 3 hours): Co-Guest Lecturer on *Energy, World and Climate Dynamics through En-ROADS Climate Simulation* (module lead: Dr. Daniel Beunza). Postgraduate: MSc Management, Bayes Business School, City University of London.
+- **Behavioral Operational Research and System Dynamics** (Jul 2024, 3 hours): Teaching Assistant providing training support (module lead: Prof. Marin Kunc). Short course, University of Southampton.
+- **NIHR School of Public Health Research Annual Meeting** (May 2024, 2 hours): Guest Trainer on *Systems Analysis for Managing Grand Challenges*. National Institute for Health and Care Research, Birmingham, UK.
 
 <div class="media-center">
   <img src="images/teaching.JPG" alt="Teaching at UCL" width="500">
@@ -468,26 +500,28 @@ I teach systems thinking, sustainability governance, and participatory research 
 
 ## Postgraduate Supervision (2020–now)
 
-**Primary/Secondary Supervisor** — University College London
+**Primary/Secondary Supervisor**, University College London
 
-- (2026) **Primary supervisor**. MSc Environmental Design and Engineering. Student: Molly Behling. Dissertation: *Rethinking Stadium Design: AI‑Supported Approaches to Overheating and Ventilation for Women Athletes*.
+- (2026) **Primary supervisor**. MSc Environmental Design and Engineering. Student: Molly Behling. Dissertation: *Rethinking Stadium Design: AI‑Supported Approaches to Overheating and Ventilation for Women Athletes*. Result: Distinction. 
 - (2025) **Primary supervisor**. MSc Environmental Design and Engineering. Student: Jiarui Ma. Dissertation: *Health and Wellbeing in Net Zero Transitions*. **Result: Distinction**. 
 - (2024) **Primary supervisor**. MSc Health, Wellbeing and Sustainable Buildings. Student: Junsheng Zhou. Dissertation: *Systems Thinking in Urban Regeneration: Exploring Health and Well-being Impacts*. Result: Pass.
 - (2020) **Secondary supervisor**. MSc Health, Wellbeing and Sustainable Buildings. Student: Hanting Liu. Dissertation: *Health and Wellbeing in New Developments: A Case Study of Linked Hybrid in China*. **Result: Distinction**.
 
 ## Undergraduate Supervision (2024–2025)
 
-**Primary Supervisor** — University College London
+**Primary Supervisor**, University College London
 
+- (2026) **Primary supervisor**. BSc/MEng Sustainable Built Environments, Energy and Resources Dissertation. Student: Jiexi Wang. Dissertation: *A Systems Thinking Analysis of Transport Poverty in Outer London: Pathways and Stakeholder Networks in Cycle Enfield.*
 - (2025) BASc Arts and Science Programme. Student: Kelvin Pan. Dissertation: *The impacts of urban regeneration and gentrification: A comparative study of London and Hong Kong*. Result: Pass.
 
 ## Earlier Teaching (2017–2021)
 
-- **Systems Thinking and System Dynamics (BENV0047)** (Mar 2019–2021, 3 hours/year) — Co-Instructor on *Small Models Dynamics Modelling* (module lead: Prof. Nici Zimmermann). Postgraduate: MSc Environmental Design and Engineering, UCL.
-- **Health and Wellbeing in Cities: Theory and Practice (BENV0056)** (Mar 2019–2021, 2 hours/year) — Co-Instructor on *Complexity of Decision-making in Urban Regeneration* (module lead: Dr. Gemma Moore). Postgraduate: MSc Health, Wellbeing and Sustainable Buildings, UCL.
-- **Orientation Week Training** (2019–2021, 10 hours/year) — Co-Instructor on *Systems Thinking and Mapping* (module lead: Dr. Pakhee Kumar). Postgraduate: Institute for Sustainable Heritage, UCL.
-- **MSc Health, Wellbeing and Sustainable Buildings** (2019–2021, 20 hours/year) — Teaching Assistant for coursework marking (module lead: Helen Pineo). UCL.
+- **Systems Thinking and System Dynamics (BENV0047)** (Mar 2019–2021, 3 hours/year): Co-Instructor on *Small Models Dynamics Modelling* (module lead: Prof. Nici Zimmermann). Postgraduate: MSc Environmental Design and Engineering, UCL.
+- **Health and Wellbeing in Cities: Theory and Practice (BENV0056)** (Mar 2019–2021, 2 hours/year): Co-Instructor on *Complexity of Decision-making in Urban Regeneration* (module lead: Dr. Gemma Moore). Postgraduate: MSc Health, Wellbeing and Sustainable Buildings, UCL.
+- **Orientation Training** (2019–2021, two weeks/year: one week of teaching, one week of tutor-supported group projects; 10 teaching hours/year): Co-Instructor on *Systems Thinking and Mapping* (module lead: Dr. Pakhee Kumar). Postgraduate: Institute for Sustainable Heritage, UCL.
+- **MSc Health, Wellbeing and Sustainable Buildings** (2019–2021, 20 hours/year): Teaching Assistant for coursework marking (module lead: Helen Pineo). UCL.
 
 ---
 
-*Website updated February 2026*
+*Website updated October 2026*
+
