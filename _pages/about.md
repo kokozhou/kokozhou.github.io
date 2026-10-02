@@ -14,7 +14,7 @@ I am a senior systems scientist at UCL Bartlett. My research uses systems thinki
 
 ## What I Am Working On
 
-I am currently writing on four topics and welcome chats with anyone working in these areas.
+I am currently writing on following topics and welcome chats with anyone working in these areas.
 
 - Net zero housing, fuel poverty, and health equity
 - System boundaries and building confidence in large systems maps use across scales
